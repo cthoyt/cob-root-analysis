@@ -13,6 +13,10 @@ RESULTS_TSV_PATH = HERE.joinpath("results.tsv")
 RESULTS_JSON_PATH = HERE.joinpath("results.json")
 ERRORS_PATH = HERE.joinpath("errors.tsv")
 
+CANONICAL = {
+    "apollosv": "http://purl.obolibrary.org/obo/apollo_sv.owl",
+}
+
 
 @click.command()
 @verbose_option
@@ -33,16 +37,23 @@ def main():
             tqdm.write(f"[{prefix}] no graph document")
             missing.append((prefix, "no document"))
             continue
+
         graphs = parse_results.graph_document.graphs
-        if 1 != len(graphs):
-            tqdm.write(f"[{prefix}] has multiple graphs:")
-            for i, graph in enumerate(graphs):
-                tqdm.write(f"  - [{i}] {graph.id}")
-            missing.append((prefix, "multiple graphs"))
-            continue
-        graph = graphs[0]
+        if 1 == len(graphs):
+            graph = graphs[0]
+        else:
+            id_to_graph = {graph.id: graph for graph in graphs}
+            if prefix in CANONICAL:
+                graph = id_to_graph[CANONICAL[prefix]]
+            else:
+                tqdm.write(f"[{prefix}] has multiple graphs:")
+                for i, graph in enumerate(graphs):
+                    tqdm.write(f"  - [{i}] {graph.id}")
+                missing.append((prefix, "multiple graphs"))
+                continue
+
         if not graph.roots:
-            missing.append((prefix, "no roots"))
+            missing.append((prefix, "no roots annotated with IAO_0000700"))
             continue
 
         labels = {
