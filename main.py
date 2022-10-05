@@ -14,7 +14,9 @@ RESULTS_JSON_PATH = HERE.joinpath("results.json")
 ERRORS_PATH = HERE.joinpath("errors.tsv")
 
 CANONICAL = {
-    "apollosv": "http://purl.obolibrary.org/obo/apollo_sv.owl",
+    "cheminf": "http://semanticchemistry.github.io/semanticchemistry/ontology/cheminf.owl",
+    "dideo":"http://purl.obolibrary.org/obo/dideo/release/2022-06-14/dideo.owl",
+    "micro": "http://purl.obolibrary.org/obo/MicrO.owl "
 }
 
 
@@ -22,7 +24,7 @@ CANONICAL = {
 @verbose_option
 def main():
     prefixes = [
-        resource.prefix
+        (resource.prefix, resource.get_obofoundry_prefix())
         for resource in bioregistry.resources()
         if resource.get_obofoundry_prefix() and not resource.is_deprecated()
     ]
@@ -30,9 +32,16 @@ def main():
     roots_dict = {}
     missing = []
     it = tqdm(prefixes, unit="ontology")
-    for prefix in it:
-        it.set_postfix(prefix=prefix)
-        parse_results = bioontologies.get_obograph_by_prefix(prefix)
+    for prefix, obo_prefix in it:
+        it.set_postfix(prefix=obo_prefix)
+
+        try:
+            parse_results = bioontologies.get_obograph_by_prefix(prefix)
+        except TypeError:
+            tqdm.write(f"[{prefix}] malformed data")
+            missing.append((prefix, "malformed data"))
+            continue
+
         if not parse_results.graph_document:
             tqdm.write(f"[{prefix}] no graph document")
             missing.append((prefix, "no document"))
@@ -43,7 +52,10 @@ def main():
             graph = graphs[0]
         else:
             id_to_graph = {graph.id: graph for graph in graphs}
-            if prefix in CANONICAL:
+            standard_id = f"http://purl.obolibrary.org/obo/{obo_prefix.lower()}.owl",
+            if standard_id in id_to_graph:
+                graph = id_to_graph[standard_id]
+            elif prefix in CANONICAL and CANONICAL[prefix] in id_to_graph:
                 graph = id_to_graph[CANONICAL[prefix]]
             else:
                 tqdm.write(f"[{prefix}] has multiple graphs:")
@@ -71,14 +83,14 @@ def main():
         for root in graph.roots:
             roots_rows.append((prefix, root, labels.get(root)))
 
-        # make outputs on all rows
-        errors_df = pd.DataFrame(missing, columns=["prefix", "message"])
-        errors_df.to_csv(ERRORS_PATH, sep="\t", index=False)
+    # make outputs on all rows
+    errors_df = pd.DataFrame(missing, columns=["prefix", "message"])
+    errors_df.to_csv(ERRORS_PATH, sep="\t", index=False)
 
-        results_df = pd.DataFrame(roots_rows, columns=["prefix", "root", "label"])
-        results_df.to_csv(RESULTS_TSV_PATH, sep="\t", index=False)
+    results_df = pd.DataFrame(roots_rows, columns=["prefix", "root", "label"])
+    results_df.to_csv(RESULTS_TSV_PATH, sep="\t", index=False)
 
-        RESULTS_JSON_PATH.write_text(json.dumps(roots_dict, sort_keys=True, indent=2))
+    RESULTS_JSON_PATH.write_text(json.dumps(roots_dict, sort_keys=True, indent=2))
 
 
 if __name__ == "__main__":

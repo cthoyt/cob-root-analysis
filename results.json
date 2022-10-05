@@ -1,0 +1,72 @@
+{
+  "agro": {
+    "http://purl.obolibrary.org/obo/AGRO_00000416": "agricultural implement",
+    "http://purl.obolibrary.org/obo/AGRO_00002062": "agronomic fertilizer",
+    "http://purl.obolibrary.org/obo/AGRO_00002071": "agricultural process",
+    "http://purl.obolibrary.org/obo/BFO_0000023": "role",
+    "http://purl.obolibrary.org/obo/ENVO_00010483": "environmental material",
+    "http://purl.obolibrary.org/obo/OBI_0100026": "organism",
+    "http://purl.obolibrary.org/obo/PATO_0000001": "quality",
+    "http://purl.obolibrary.org/obo/PO_0025131": "plant anatomical entity",
+    "http://purl.obolibrary.org/obo/UO_0000000": "unit"
+  },
+  "cl": {
+    "http://purl.obolibrary.org/obo/CL_0000000": "cell"
+  },
+  "dpo": {
+    "http://purl.obolibrary.org/obo/FBcv_0000347": "phenotypic class"
+  },
+  "ecto": {
+    "http://purl.obolibrary.org/obo/ExO_0000002": "exposure event"
+  },
+  "fbbt": {
+    "http://purl.obolibrary.org/obo/FBbt_10000000": "anatomical entity"
+  },
+  "fbcv": {
+    "http://purl.obolibrary.org/obo/FBcv_0000000": "FlyBase CV"
+  },
+  "fbdv": {
+    "http://purl.obolibrary.org/obo/FBdv_00000000": "Drosophila life",
+    "http://purl.obolibrary.org/obo/FBdv_00005259": "developmental stage",
+    "http://purl.obolibrary.org/obo/FBdv_00007013": "age",
+    "http://purl.obolibrary.org/obo/FBdv_00007024": "biological process"
+  },
+  "fypo": {
+    "http://purl.obolibrary.org/obo/FYPO_0000001": "phenotype"
+  },
+  "hancestro": {
+    "http://purl.obolibrary.org/obo/HANCESTRO_0004": "ancestry category",
+    "http://purl.obolibrary.org/obo/HANCESTRO_0304": "ancestry status"
+  },
+  "hp": {
+    "http://purl.obolibrary.org/obo/HP_0000001": "All"
+  },
+  "mondo": {
+    "http://purl.obolibrary.org/obo/MONDO_0000001": "disease or disorder",
+    "http://purl.obolibrary.org/obo/MONDO_0021125": "disease characteristic",
+    "http://purl.obolibrary.org/obo/MONDO_0042489": "disease susceptibility"
+  },
+  "mp": {
+    "http://purl.obolibrary.org/obo/MP_0000001": "mammalian phenotype"
+  },
+  "pato": {
+    "http://purl.obolibrary.org/obo/PATO_0000001": "quality"
+  },
+  "pr": {
+    "http://purl.obolibrary.org/obo/PR_000000001": "protein",
+    "http://purl.obolibrary.org/obo/PR_000050098": "artificial protein"
+  },
+  "uberon": {
+    "http://purl.obolibrary.org/obo/UBERON_0000104": "life cycle",
+    "http://purl.obolibrary.org/obo/UBERON_0001062": "anatomical entity"
+  },
+  "wbbt": {
+    "http://purl.obolibrary.org/obo/WBbt_0000100": "C. elegans anatomical entity"
+  },
+  "wbls": {
+    "http://purl.obolibrary.org/obo/WBls_0000075": "worm life stage"
+  },
+  "wbphenotype": {
+    "http://purl.obolibrary.org/obo/WBPhenotype_0000886": "nematode phenotype"
+  }
+}
