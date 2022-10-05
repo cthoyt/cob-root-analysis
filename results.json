@@ -13,6 +13,9 @@
   "cl": {
     "http://purl.obolibrary.org/obo/CL_0000000": "cell"
   },
+  "doid": {
+    "http://purl.obolibrary.org/obo/DOID_4": "disease"
+  },
   "dpo": {
     "http://purl.obolibrary.org/obo/FBcv_0000347": "phenotypic class"
   },
