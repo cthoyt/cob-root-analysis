@@ -27,8 +27,8 @@ How to read the following diagrams:
 <tr>
 <td><a href="{{ row.link }}">{{ row.prefix }}</a></td>
 <td>
-<a href="/results/{{ row.prefix }}_results.svg">
-<img src="/results/{{ row.prefix }}_results.svg" alt="Analysis of {{ row.prefix }}" />
+<a href="results/{{ row.prefix }}_results.svg">
+<img src="results/{{ row.prefix }}_results.svg" alt="Analysis of {{ row.prefix }}" />
 </a>
 </td>
 </tr>
