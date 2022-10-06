@@ -1,3 +1,5 @@
+"""Get roots that are annotated with IAO_0000700."""
+
 import json
 from pathlib import Path
 
@@ -31,7 +33,7 @@ NO_ROOTS_MSG = "no roots annotated with IAO_0000700"
 @click.command()
 @verbose_option
 def main():
-    errors = pd.read_csv(ERRORS_PATH, sep='\t')
+    errors = pd.read_csv(ERRORS_PATH, sep="\t")
     error_prefixes = set(errors[errors["message"] == NO_ROOTS_MSG].prefix)
 
     roots = json.loads(RESULTS_JSON_PATH.read_text())
@@ -104,7 +106,11 @@ def main():
     errors_df.to_csv(ERRORS_PATH, sep="\t", index=False)
 
     roots_rows = [
-        (prefix, root.removeprefix("http://purl.obolibrary.org/obo/"), root_label)
+        (
+            prefix,
+            root.removeprefix("http://purl.obolibrary.org/obo/").replace("_", ":"),
+            root_label,
+        )
         for prefix, data in sorted(roots.items())
         for root, root_label in sorted(data.items())
     ]

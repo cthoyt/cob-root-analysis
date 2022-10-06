@@ -1,36 +1,36 @@
 prefix	root	label
-agro	AGRO_00000416	agricultural implement
-agro	AGRO_00002062	agronomic fertilizer
-agro	AGRO_00002071	agricultural process
-agro	BFO_0000023	role
-agro	ENVO_00010483	environmental material
-agro	OBI_0100026	organism
-agro	PATO_0000001	quality
-agro	PO_0025131	plant anatomical entity
-agro	UO_0000000	unit
-cl	CL_0000000	cell
-doid	DOID_4	disease
-dpo	FBcv_0000347	phenotypic class
-ecto	ExO_0000002	exposure event
-fbbt	FBbt_10000000	anatomical entity
-fbcv	FBcv_0000000	FlyBase CV
-fbdv	FBdv_00000000	Drosophila life
-fbdv	FBdv_00005259	developmental stage
-fbdv	FBdv_00007013	age
-fbdv	FBdv_00007024	biological process
-fypo	FYPO_0000001	phenotype
-hancestro	HANCESTRO_0004	ancestry category
-hancestro	HANCESTRO_0304	ancestry status
-hp	HP_0000001	All
-mondo	MONDO_0000001	disease or disorder
-mondo	MONDO_0021125	disease characteristic
-mondo	MONDO_0042489	disease susceptibility
-mp	MP_0000001	mammalian phenotype
-pato	PATO_0000001	quality
-pr	PR_000000001	protein
-pr	PR_000050098	artificial protein
-uberon	UBERON_0000104	life cycle
-uberon	UBERON_0001062	anatomical entity
-wbbt	WBbt_0000100	C. elegans anatomical entity
-wbls	WBls_0000075	worm life stage
-wbphenotype	WBPhenotype_0000886	nematode phenotype
+agro	AGRO:00000416	agricultural implement
+agro	AGRO:00002062	agronomic fertilizer
+agro	AGRO:00002071	agricultural process
+agro	BFO:0000023	role
+agro	ENVO:00010483	environmental material
+agro	OBI:0100026	organism
+agro	PATO:0000001	quality
+agro	PO:0025131	plant anatomical entity
+agro	UO:0000000	unit
+cl	CL:0000000	cell
+doid	DOID:4	disease
+dpo	FBcv:0000347	phenotypic class
+ecto	ExO:0000002	exposure event
+fbbt	FBbt:10000000	anatomical entity
+fbcv	FBcv:0000000	FlyBase CV
+fbdv	FBdv:00000000	Drosophila life
+fbdv	FBdv:00005259	developmental stage
+fbdv	FBdv:00007013	age
+fbdv	FBdv:00007024	biological process
+fypo	FYPO:0000001	phenotype
+hancestro	HANCESTRO:0004	ancestry category
+hancestro	HANCESTRO:0304	ancestry status
+hp	HP:0000001	All
+mondo	MONDO:0000001	disease or disorder
+mondo	MONDO:0021125	disease characteristic
+mondo	MONDO:0042489	disease susceptibility
+mp	MP:0000001	mammalian phenotype
+pato	PATO:0000001	quality
+pr	PR:000000001	protein
+pr	PR:000050098	artificial protein
+uberon	UBERON:0000104	life cycle
+uberon	UBERON:0001062	anatomical entity
+wbbt	WBbt:0000100	C. elegans anatomical entity
+wbls	WBls:0000075	worm life stage
+wbphenotype	WBPhenotype:0000886	nematode phenotype
