@@ -9,9 +9,9 @@ import click
 import networkx as nx
 import pandas as pd
 import pystow
+import yaml
 from tqdm import tqdm
 from tqdm.auto import tqdm
-import yaml
 
 HERE = Path(__file__).parent.resolve()
 DOCS = HERE.joinpath("docs")
@@ -137,7 +137,7 @@ def analyze(prefix: str):
         elif node in internal_roots:
             sg.nodes[node]["color"] = "red"
         elif node in add_children:
-            sg.nodes[node]["color"] = "orange"
+            sg.nodes[node]["color"] = "red"
 
     agraph = nx.nx_agraph.to_agraph(sg)
     agraph.draw(viz_path, prog="dot", format="svg")
@@ -167,20 +167,23 @@ def main():
         prefix
         for prefix in prefixes
         if bioregistry.get_resource(prefix).obofoundry["domain"]
-           in {"anatomy and development", "phenotype"}
+        in {"anatomy and development", "phenotype"}
     ]
     it = tqdm(prefixes, desc="suggesting roots", unit="prefix")
     rows = []
     for prefix in it:
         it.set_postfix(prefix=prefix)
         row = analyze(prefix)
-        rows.append({
-            "prefix": prefix,
-            "parents": len(row["parents"]),
-            "roots": len(row["roots"]),
-            "ancestors": len(row["ancestors"]),
-            "children": len(row["children"]),
-        })
+        rows.append(
+            {
+                "prefix": prefix,
+                "link": bioregistry.get_repository(prefix),
+                "parents": len(row["parents"]),
+                "roots": len(row["roots"]),
+                "ancestors": len(row["ancestors"]),
+                "children": len(row["children"]),
+            }
+        )
     DATA.joinpath("results.yml").write_text(yaml.safe_dump(rows, indent=2))
 
 

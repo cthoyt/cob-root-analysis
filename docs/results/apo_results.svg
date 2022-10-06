@@ -5,36 +5,36 @@
  -->
 <!-- Pages: 1 -->
 <svg width="584pt" height="62pt"
- viewBox="0.00 0.00 584.04 61.74" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 583.89 61.74" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 57.74)">
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-57.74 580.04,-57.74 580.04,4 -4,4"/>
-<!-- apo:0000017 -->
-<g id="node1" class="node">
-<title>apo:0000017</title>
-<ellipse fill="none" stroke="red" cx="61.52" cy="-26.87" rx="61.54" ry="26.74"/>
-<text text-anchor="middle" x="61.52" y="-30.67" font-family="Times,serif" font-size="14.00">observable</text>
-<text text-anchor="middle" x="61.52" y="-15.67" font-family="Times,serif" font-size="14.00">apo:0000017</text>
-</g>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-57.74 579.89,-57.74 579.89,4 -4,4"/>
 <!-- apo:0000018 -->
-<g id="node2" class="node">
+<g id="node1" class="node">
 <title>apo:0000018</title>
-<ellipse fill="none" stroke="red" cx="217.52" cy="-26.87" rx="76.24" ry="26.74"/>
-<text text-anchor="middle" x="217.52" y="-30.67" font-family="Times,serif" font-size="14.00">experiment_type</text>
-<text text-anchor="middle" x="217.52" y="-15.67" font-family="Times,serif" font-size="14.00">apo:0000018</text>
+<ellipse fill="none" stroke="red" cx="76.37" cy="-26.87" rx="76.24" ry="26.74"/>
+<text text-anchor="middle" x="76.37" y="-30.67" font-family="Times,serif" font-size="14.00">experiment_type</text>
+<text text-anchor="middle" x="76.37" y="-15.67" font-family="Times,serif" font-size="14.00">apo:0000018</text>
+</g>
+<!-- apo:0000006 -->
+<g id="node2" class="node">
+<title>apo:0000006</title>
+<ellipse fill="none" stroke="red" cx="232.37" cy="-26.87" rx="61.54" ry="26.74"/>
+<text text-anchor="middle" x="232.37" y="-30.67" font-family="Times,serif" font-size="14.00">mutant_type</text>
+<text text-anchor="middle" x="232.37" y="-15.67" font-family="Times,serif" font-size="14.00">apo:0000006</text>
 </g>
 <!-- apo:0000001 -->
 <g id="node3" class="node">
 <title>apo:0000001</title>
-<ellipse fill="none" stroke="red" cx="373.52" cy="-26.87" rx="61.54" ry="26.74"/>
-<text text-anchor="middle" x="373.52" y="-30.67" font-family="Times,serif" font-size="14.00">qualifier</text>
-<text text-anchor="middle" x="373.52" y="-15.67" font-family="Times,serif" font-size="14.00">apo:0000001</text>
+<ellipse fill="none" stroke="red" cx="373.37" cy="-26.87" rx="61.54" ry="26.74"/>
+<text text-anchor="middle" x="373.37" y="-30.67" font-family="Times,serif" font-size="14.00">qualifier</text>
+<text text-anchor="middle" x="373.37" y="-15.67" font-family="Times,serif" font-size="14.00">apo:0000001</text>
 </g>
-<!-- apo:0000006 -->
+<!-- apo:0000017 -->
 <g id="node4" class="node">
-<title>apo:0000006</title>
-<ellipse fill="none" stroke="red" cx="514.52" cy="-26.87" rx="61.54" ry="26.74"/>
-<text text-anchor="middle" x="514.52" y="-30.67" font-family="Times,serif" font-size="14.00">mutant_type</text>
-<text text-anchor="middle" x="514.52" y="-15.67" font-family="Times,serif" font-size="14.00">apo:0000006</text>
+<title>apo:0000017</title>
+<ellipse fill="none" stroke="red" cx="514.37" cy="-26.87" rx="61.54" ry="26.74"/>
+<text text-anchor="middle" x="514.37" y="-30.67" font-family="Times,serif" font-size="14.00">observable</text>
+<text text-anchor="middle" x="514.37" y="-15.67" font-family="Times,serif" font-size="14.00">apo:0000017</text>
 </g>
 </g>
 </svg>

@@ -8,250 +8,250 @@
  viewBox="0.00 0.00 1387.78 600.18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 596.18)">
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-596.18 1383.78,-596.18 1383.78,4 -4,4"/>
-<!-- caro:0000009 -->
-<g id="node1" class="node">
-<title>caro:0000009</title>
-<ellipse fill="none" stroke="orange" cx="563.97" cy="-565.31" rx="76.24" ry="26.74"/>
-<text text-anchor="middle" x="563.97" y="-569.11" font-family="Times,serif" font-size="14.00">anatomical point</text>
-<text text-anchor="middle" x="563.97" y="-554.11" font-family="Times,serif" font-size="14.00">caro:0000009</text>
-</g>
-<!-- bfo:0000018 -->
-<g id="node2" class="node">
-<title>bfo:0000018</title>
-<ellipse fill="none" stroke="blue" cx="420.97" cy="-475.57" rx="132.87" ry="26.74"/>
-<text text-anchor="middle" x="420.97" y="-479.37" font-family="Times,serif" font-size="14.00">zero&#45;dimensional spatial region</text>
-<text text-anchor="middle" x="420.97" y="-464.37" font-family="Times,serif" font-size="14.00">bfo:0000018</text>
-</g>
-<!-- caro:0000009&#45;&gt;bfo:0000018 -->
-<g id="edge1" class="edge">
-<title>caro:0000009&#45;&gt;bfo:0000018</title>
-<path fill="none" stroke="black" d="M527.14,-541.72C509.71,-531.02 488.65,-518.1 469.9,-506.59"/>
-<polygon fill="black" stroke="black" points="471.54,-503.49 461.19,-501.25 467.88,-509.46 471.54,-503.49"/>
-</g>
 <!-- caro:0000007 -->
-<g id="node3" class="node">
+<g id="node1" class="node">
 <title>caro:0000007</title>
-<ellipse fill="none" stroke="orange" cx="695.97" cy="-475.57" rx="123.99" ry="26.74"/>
-<text text-anchor="middle" x="695.97" y="-479.37" font-family="Times,serif" font-size="14.00">immaterial anatomical entity</text>
-<text text-anchor="middle" x="695.97" y="-464.37" font-family="Times,serif" font-size="14.00">caro:0000007</text>
-</g>
-<!-- caro:0000009&#45;&gt;caro:0000007 -->
-<g id="edge2" class="edge">
-<title>caro:0000009&#45;&gt;caro:0000007</title>
-<path fill="none" stroke="black" d="M598.65,-541.26C614.39,-530.79 633.22,-518.27 650.11,-507.05"/>
-<polygon fill="black" stroke="black" points="652.35,-509.76 658.74,-501.31 648.47,-503.93 652.35,-509.76"/>
-</g>
-<!-- bfo:0000006 -->
-<g id="node10" class="node">
-<title>bfo:0000006</title>
-<ellipse fill="none" stroke="black" cx="913.97" cy="-385.83" rx="63.78" ry="26.74"/>
-<text text-anchor="middle" x="913.97" y="-389.63" font-family="Times,serif" font-size="14.00">spatial region</text>
-<text text-anchor="middle" x="913.97" y="-374.63" font-family="Times,serif" font-size="14.00">bfo:0000006</text>
-</g>
-<!-- bfo:0000018&#45;&gt;bfo:0000006 -->
-<g id="edge12" class="edge">
-<title>bfo:0000018&#45;&gt;bfo:0000006</title>
-<path fill="none" stroke="black" d="M517.2,-456.96C532.5,-454.18 548.17,-451.35 562.97,-448.7 661.22,-431.09 775.02,-411.11 845.76,-398.73"/>
-<polygon fill="black" stroke="black" points="846.63,-402.13 855.88,-396.96 845.42,-395.24 846.63,-402.13"/>
+<ellipse fill="none" stroke="red" cx="687.81" cy="-475.57" rx="123.99" ry="26.74"/>
+<text text-anchor="middle" x="687.81" y="-479.37" font-family="Times,serif" font-size="14.00">immaterial anatomical entity</text>
+<text text-anchor="middle" x="687.81" y="-464.37" font-family="Times,serif" font-size="14.00">caro:0000007</text>
 </g>
 <!-- bfo:0000141 -->
-<g id="node11" class="node">
+<g id="node2" class="node">
 <title>bfo:0000141</title>
-<ellipse fill="none" stroke="blue" cx="670.97" cy="-296.09" rx="78.48" ry="26.74"/>
-<text text-anchor="middle" x="670.97" y="-299.89" font-family="Times,serif" font-size="14.00">immaterial entity</text>
-<text text-anchor="middle" x="670.97" y="-284.89" font-family="Times,serif" font-size="14.00">bfo:0000141</text>
+<ellipse fill="none" stroke="blue" cx="751.81" cy="-296.09" rx="78.48" ry="26.74"/>
+<text text-anchor="middle" x="751.81" y="-299.89" font-family="Times,serif" font-size="14.00">immaterial entity</text>
+<text text-anchor="middle" x="751.81" y="-284.89" font-family="Times,serif" font-size="14.00">bfo:0000141</text>
 </g>
 <!-- caro:0000007&#45;&gt;bfo:0000141 -->
-<g id="edge14" class="edge">
+<g id="edge1" class="edge">
 <title>caro:0000007&#45;&gt;bfo:0000141</title>
-<path fill="none" stroke="black" d="M692.28,-448.38C687.98,-417.89 680.86,-367.33 676.04,-333.14"/>
-<polygon fill="black" stroke="black" points="679.49,-332.51 674.63,-323.1 672.56,-333.49 679.49,-332.51"/>
-</g>
-<!-- caro:0001010 -->
-<g id="node4" class="node">
-<title>caro:0001010</title>
-<ellipse fill="none" stroke="orange" cx="115.97" cy="-475.57" rx="115.93" ry="26.74"/>
-<text text-anchor="middle" x="115.97" y="-479.37" font-family="Times,serif" font-size="14.00">organism or virus or viroid</text>
-<text text-anchor="middle" x="115.97" y="-464.37" font-family="Times,serif" font-size="14.00">caro:0001010</text>
-</g>
-<!-- bfo:0000040 -->
-<g id="node5" class="node">
-<title>bfo:0000040</title>
-<ellipse fill="none" stroke="blue" cx="266.97" cy="-296.09" rx="67.76" ry="26.74"/>
-<text text-anchor="middle" x="266.97" y="-299.89" font-family="Times,serif" font-size="14.00">material entity</text>
-<text text-anchor="middle" x="266.97" y="-284.89" font-family="Times,serif" font-size="14.00">bfo:0000040</text>
-</g>
-<!-- caro:0001010&#45;&gt;bfo:0000040 -->
-<g id="edge3" class="edge">
-<title>caro:0001010&#45;&gt;bfo:0000040</title>
-<path fill="none" stroke="black" d="M137.6,-449.14C164.33,-417.73 209.84,-364.23 239.14,-329.79"/>
-<polygon fill="black" stroke="black" points="242.04,-331.78 245.86,-321.9 236.71,-327.25 242.04,-331.78"/>
+<path fill="none" stroke="black" d="M697.12,-448.76C708.16,-418.14 726.64,-366.91 739.02,-332.57"/>
+<polygon fill="black" stroke="black" points="742.4,-333.52 742.5,-322.93 735.81,-331.15 742.4,-333.52"/>
 </g>
 <!-- bfo:0000004 -->
-<g id="node7" class="node">
+<g id="node11" class="node">
 <title>bfo:0000004</title>
-<ellipse fill="none" stroke="blue" cx="475.97" cy="-206.35" rx="101.23" ry="26.74"/>
-<text text-anchor="middle" x="475.97" y="-210.15" font-family="Times,serif" font-size="14.00">independent continuant</text>
-<text text-anchor="middle" x="475.97" y="-195.15" font-family="Times,serif" font-size="14.00">bfo:0000004</text>
-</g>
-<!-- bfo:0000040&#45;&gt;bfo:0000004 -->
-<g id="edge15" class="edge">
-<title>bfo:0000040&#45;&gt;bfo:0000004</title>
-<path fill="none" stroke="black" d="M312.32,-276.05C342.04,-263.57 381.28,-247.1 413.88,-233.41"/>
-<polygon fill="black" stroke="black" points="415.46,-236.55 423.33,-229.45 412.75,-230.09 415.46,-236.55"/>
-</g>
-<!-- caro:0030000 -->
-<g id="node6" class="node">
-<title>caro:0030000</title>
-<ellipse fill="none" stroke="orange" cx="475.97" cy="-296.09" rx="74.49" ry="26.74"/>
-<text text-anchor="middle" x="475.97" y="-299.89" font-family="Times,serif" font-size="14.00">biological entity</text>
-<text text-anchor="middle" x="475.97" y="-284.89" font-family="Times,serif" font-size="14.00">caro:0030000</text>
-</g>
-<!-- caro:0030000&#45;&gt;bfo:0000004 -->
-<g id="edge4" class="edge">
-<title>caro:0030000&#45;&gt;bfo:0000004</title>
-<path fill="none" stroke="black" d="M475.97,-268.77C475.97,-260.8 475.97,-251.91 475.97,-243.42"/>
-<polygon fill="black" stroke="black" points="479.47,-243.35 475.97,-233.35 472.47,-243.35 479.47,-243.35"/>
-</g>
-<!-- bfo:0000002 -->
-<g id="node14" class="node">
-<title>bfo:0000002</title>
-<ellipse fill="none" stroke="black" cx="475.97" cy="-116.61" rx="60.62" ry="26.74"/>
-<text text-anchor="middle" x="475.97" y="-120.41" font-family="Times,serif" font-size="14.00">continuant</text>
-<text text-anchor="middle" x="475.97" y="-105.41" font-family="Times,serif" font-size="14.00">bfo:0000002</text>
-</g>
-<!-- bfo:0000004&#45;&gt;bfo:0000002 -->
-<g id="edge16" class="edge">
-<title>bfo:0000004&#45;&gt;bfo:0000002</title>
-<path fill="none" stroke="black" d="M475.97,-179.03C475.97,-171.06 475.97,-162.17 475.97,-153.68"/>
-<polygon fill="black" stroke="black" points="479.47,-153.61 475.97,-143.61 472.47,-153.61 479.47,-153.61"/>
-</g>
-<!-- caro:0000005 -->
-<g id="node8" class="node">
-<title>caro:0000005</title>
-<ellipse fill="none" stroke="orange" cx="259.97" cy="-565.31" rx="77.56" ry="26.74"/>
-<text text-anchor="middle" x="259.97" y="-569.11" font-family="Times,serif" font-size="14.00">anatomical space</text>
-<text text-anchor="middle" x="259.97" y="-554.11" font-family="Times,serif" font-size="14.00">caro:0000005</text>
-</g>
-<!-- caro:0000005&#45;&gt;caro:0000007 -->
-<g id="edge7" class="edge">
-<title>caro:0000005&#45;&gt;caro:0000007</title>
-<path fill="none" stroke="black" d="M326.18,-550.98C398.29,-536.47 514.39,-513.11 597.25,-496.44"/>
-<polygon fill="black" stroke="black" points="598.08,-499.84 607.19,-494.44 596.69,-492.98 598.08,-499.84"/>
-</g>
-<!-- caro:0000005&#45;&gt;caro:0001010 -->
-<g id="edge5" class="edge">
-<title>caro:0000005&#45;&gt;caro:0001010</title>
-<path fill="none" stroke="blue" d="M222.51,-541.49C204.81,-530.7 183.46,-517.7 164.54,-506.17"/>
-<polygon fill="blue" stroke="blue" points="166.12,-503.03 155.76,-500.82 162.47,-509.01 166.12,-503.03"/>
-</g>
-<!-- bfo:0000029 -->
-<g id="node9" class="node">
-<title>bfo:0000029</title>
-<ellipse fill="none" stroke="blue" cx="420.97" cy="-385.83" rx="60.62" ry="26.74"/>
-<text text-anchor="middle" x="420.97" y="-389.63" font-family="Times,serif" font-size="14.00">site</text>
-<text text-anchor="middle" x="420.97" y="-374.63" font-family="Times,serif" font-size="14.00">bfo:0000029</text>
-</g>
-<!-- caro:0000005&#45;&gt;bfo:0000029 -->
-<g id="edge6" class="edge">
-<title>caro:0000005&#45;&gt;bfo:0000029</title>
-<path fill="none" stroke="black" d="M257.53,-538.09C256.58,-512.64 259.1,-474.22 278.97,-448.7 297.88,-424.4 328.28,-409.46 356.11,-400.37"/>
-<polygon fill="black" stroke="black" points="357.29,-403.67 365.82,-397.39 355.24,-396.98 357.29,-403.67"/>
-</g>
-<!-- bfo:0000029&#45;&gt;bfo:0000141 -->
-<g id="edge10" class="edge">
-<title>bfo:0000029&#45;&gt;bfo:0000141</title>
-<path fill="none" stroke="black" d="M467.7,-368.43C507.24,-354.55 564.28,-334.53 607.88,-319.23"/>
-<polygon fill="black" stroke="black" points="609.25,-322.46 617.53,-315.85 606.93,-315.85 609.25,-322.46"/>
-</g>
-<!-- bfo:0000006&#45;&gt;bfo:0000141 -->
-<g id="edge8" class="edge">
-<title>bfo:0000006&#45;&gt;bfo:0000141</title>
-<path fill="none" stroke="black" d="M866.54,-367.71C828.48,-353.96 774.74,-334.56 733.23,-319.57"/>
-<polygon fill="black" stroke="black" points="734.35,-316.26 723.76,-316.15 731.98,-322.84 734.35,-316.26"/>
+<ellipse fill="none" stroke="blue" cx="918.81" cy="-206.35" rx="101.23" ry="26.74"/>
+<text text-anchor="middle" x="918.81" y="-210.15" font-family="Times,serif" font-size="14.00">independent continuant</text>
+<text text-anchor="middle" x="918.81" y="-195.15" font-family="Times,serif" font-size="14.00">bfo:0000004</text>
 </g>
 <!-- bfo:0000141&#45;&gt;bfo:0000004 -->
-<g id="edge9" class="edge">
-<title>bfo:0000141&#45;&gt;bfo:0000004</title>
-<path fill="none" stroke="black" d="M624.75,-274.3C597.92,-262.23 563.85,-246.89 535.08,-233.95"/>
-<polygon fill="black" stroke="black" points="536.5,-230.75 525.95,-229.84 533.63,-237.13 536.5,-230.75"/>
-</g>
-<!-- bfo:0000009 -->
-<g id="node12" class="node">
-<title>bfo:0000009</title>
-<ellipse fill="none" stroke="blue" cx="968.97" cy="-475.57" rx="130.63" ry="26.74"/>
-<text text-anchor="middle" x="968.97" y="-479.37" font-family="Times,serif" font-size="14.00">two&#45;dimensional spatial region</text>
-<text text-anchor="middle" x="968.97" y="-464.37" font-family="Times,serif" font-size="14.00">bfo:0000009</text>
-</g>
-<!-- bfo:0000009&#45;&gt;bfo:0000006 -->
 <g id="edge11" class="edge">
-<title>bfo:0000009&#45;&gt;bfo:0000006</title>
-<path fill="none" stroke="black" d="M952.76,-448.72C947.24,-439.91 940.98,-429.93 935.13,-420.59"/>
-<polygon fill="black" stroke="black" points="937.95,-418.51 929.68,-411.89 932.02,-422.22 937.95,-418.51"/>
+<title>bfo:0000141&#45;&gt;bfo:0000004</title>
+<path fill="none" stroke="black" d="M793.53,-273.18C815.27,-261.75 842.12,-247.65 865.37,-235.43"/>
+<polygon fill="black" stroke="black" points="867.2,-238.42 874.42,-230.67 863.94,-232.23 867.2,-238.42"/>
+</g>
+<!-- caro:0000005 -->
+<g id="node3" class="node">
+<title>caro:0000005</title>
+<ellipse fill="none" stroke="red" cx="1119.81" cy="-565.31" rx="77.56" ry="26.74"/>
+<text text-anchor="middle" x="1119.81" y="-569.11" font-family="Times,serif" font-size="14.00">anatomical space</text>
+<text text-anchor="middle" x="1119.81" y="-554.11" font-family="Times,serif" font-size="14.00">caro:0000005</text>
+</g>
+<!-- caro:0000005&#45;&gt;caro:0000007 -->
+<g id="edge2" class="edge">
+<title>caro:0000005&#45;&gt;caro:0000007</title>
+<path fill="none" stroke="black" d="M1053.73,-550.89C982.3,-536.38 867.71,-513.11 785.79,-496.47"/>
+<polygon fill="black" stroke="black" points="786.47,-493.04 775.97,-494.48 785.07,-499.9 786.47,-493.04"/>
+</g>
+<!-- bfo:0000029 -->
+<g id="node4" class="node">
+<title>bfo:0000029</title>
+<ellipse fill="none" stroke="blue" cx="1004.81" cy="-385.83" rx="60.62" ry="26.74"/>
+<text text-anchor="middle" x="1004.81" y="-389.63" font-family="Times,serif" font-size="14.00">site</text>
+<text text-anchor="middle" x="1004.81" y="-374.63" font-family="Times,serif" font-size="14.00">bfo:0000029</text>
+</g>
+<!-- caro:0000005&#45;&gt;bfo:0000029 -->
+<g id="edge3" class="edge">
+<title>caro:0000005&#45;&gt;bfo:0000029</title>
+<path fill="none" stroke="black" d="M1121.34,-538.27C1121.55,-513.31 1118.44,-475.57 1100.81,-448.7 1090.17,-432.47 1073.63,-419.61 1057.26,-409.91"/>
+<polygon fill="black" stroke="black" points="1058.66,-406.68 1048.23,-404.85 1055.24,-412.79 1058.66,-406.68"/>
+</g>
+<!-- caro:0001010 -->
+<g id="node5" class="node">
+<title>caro:0001010</title>
+<ellipse fill="none" stroke="red" cx="1263.81" cy="-475.57" rx="115.93" ry="26.74"/>
+<text text-anchor="middle" x="1263.81" y="-479.37" font-family="Times,serif" font-size="14.00">organism or virus or viroid</text>
+<text text-anchor="middle" x="1263.81" y="-464.37" font-family="Times,serif" font-size="14.00">caro:0001010</text>
+</g>
+<!-- caro:0000005&#45;&gt;caro:0001010 -->
+<g id="edge4" class="edge">
+<title>caro:0000005&#45;&gt;caro:0001010</title>
+<path fill="none" stroke="blue" d="M1157.27,-541.49C1174.97,-530.7 1196.32,-517.7 1215.24,-506.17"/>
+<polygon fill="blue" stroke="blue" points="1217.31,-509.01 1224.02,-500.82 1213.66,-503.03 1217.31,-509.01"/>
+</g>
+<!-- bfo:0000029&#45;&gt;bfo:0000141 -->
+<g id="edge5" class="edge">
+<title>bfo:0000029&#45;&gt;bfo:0000141</title>
+<path fill="none" stroke="black" d="M957.82,-368.53C917.61,-354.59 859.39,-334.4 815.09,-319.03"/>
+<polygon fill="black" stroke="black" points="816.17,-315.7 805.57,-315.73 813.87,-322.32 816.17,-315.7"/>
+</g>
+<!-- bfo:0000040 -->
+<g id="node14" class="node">
+<title>bfo:0000040</title>
+<ellipse fill="none" stroke="blue" cx="918.81" cy="-296.09" rx="67.76" ry="26.74"/>
+<text text-anchor="middle" x="918.81" y="-299.89" font-family="Times,serif" font-size="14.00">material entity</text>
+<text text-anchor="middle" x="918.81" y="-284.89" font-family="Times,serif" font-size="14.00">bfo:0000040</text>
+</g>
+<!-- caro:0001010&#45;&gt;bfo:0000040 -->
+<g id="edge13" class="edge">
+<title>caro:0001010&#45;&gt;bfo:0000040</title>
+<path fill="none" stroke="black" d="M1227.59,-449.83C1190.31,-424.99 1130.04,-386.55 1074.81,-358.96 1043.9,-343.52 1008.15,-329.11 978.68,-318.08"/>
+<polygon fill="black" stroke="black" points="979.54,-314.67 968.94,-314.48 977.11,-321.23 979.54,-314.67"/>
 </g>
 <!-- bfo:0000026 -->
-<g id="node13" class="node">
+<g id="node6" class="node">
 <title>bfo:0000026</title>
-<ellipse fill="none" stroke="blue" cx="1248.97" cy="-475.57" rx="130.63" ry="26.74"/>
-<text text-anchor="middle" x="1248.97" y="-479.37" font-family="Times,serif" font-size="14.00">one&#45;dimensional spatial region</text>
-<text text-anchor="middle" x="1248.97" y="-464.37" font-family="Times,serif" font-size="14.00">bfo:0000026</text>
+<ellipse fill="none" stroke="blue" cx="130.81" cy="-475.57" rx="130.63" ry="26.74"/>
+<text text-anchor="middle" x="130.81" y="-479.37" font-family="Times,serif" font-size="14.00">one&#45;dimensional spatial region</text>
+<text text-anchor="middle" x="130.81" y="-464.37" font-family="Times,serif" font-size="14.00">bfo:0000026</text>
+</g>
+<!-- bfo:0000006 -->
+<g id="node7" class="node">
+<title>bfo:0000006</title>
+<ellipse fill="none" stroke="black" cx="561.81" cy="-385.83" rx="63.78" ry="26.74"/>
+<text text-anchor="middle" x="561.81" y="-389.63" font-family="Times,serif" font-size="14.00">spatial region</text>
+<text text-anchor="middle" x="561.81" y="-374.63" font-family="Times,serif" font-size="14.00">bfo:0000006</text>
 </g>
 <!-- bfo:0000026&#45;&gt;bfo:0000006 -->
-<g id="edge13" class="edge">
+<g id="edge6" class="edge">
 <title>bfo:0000026&#45;&gt;bfo:0000006</title>
-<path fill="none" stroke="black" d="M1170.42,-454C1111.44,-438.55 1031.71,-417.67 976.9,-403.31"/>
-<polygon fill="black" stroke="black" points="977.52,-399.86 966.96,-400.71 975.75,-406.63 977.52,-399.86"/>
+<path fill="none" stroke="black" d="M221.43,-456.12C303.26,-439.47 421.77,-415.34 495.19,-400.39"/>
+<polygon fill="black" stroke="black" points="496.14,-403.77 505.24,-398.35 494.74,-396.91 496.14,-403.77"/>
+</g>
+<!-- bfo:0000006&#45;&gt;bfo:0000141 -->
+<g id="edge16" class="edge">
+<title>bfo:0000006&#45;&gt;bfo:0000141</title>
+<path fill="none" stroke="black" d="M603.98,-365.36C631.41,-352.69 667.44,-336.05 697.07,-322.37"/>
+<polygon fill="black" stroke="black" points="698.84,-325.41 706.45,-318.04 695.9,-319.06 698.84,-325.41"/>
+</g>
+<!-- bfo:0000009 -->
+<g id="node8" class="node">
+<title>bfo:0000009</title>
+<ellipse fill="none" stroke="blue" cx="960.81" cy="-475.57" rx="130.63" ry="26.74"/>
+<text text-anchor="middle" x="960.81" y="-479.37" font-family="Times,serif" font-size="14.00">two&#45;dimensional spatial region</text>
+<text text-anchor="middle" x="960.81" y="-464.37" font-family="Times,serif" font-size="14.00">bfo:0000009</text>
+</g>
+<!-- bfo:0000009&#45;&gt;bfo:0000006 -->
+<g id="edge7" class="edge">
+<title>bfo:0000009&#45;&gt;bfo:0000006</title>
+<path fill="none" stroke="black" d="M873.75,-455.42C799.59,-439.12 694.66,-416.04 627.42,-401.26"/>
+<polygon fill="black" stroke="black" points="627.89,-397.78 617.38,-399.05 626.39,-404.61 627.89,-397.78"/>
+</g>
+<!-- bfo:0000018 -->
+<g id="node9" class="node">
+<title>bfo:0000018</title>
+<ellipse fill="none" stroke="blue" cx="412.81" cy="-475.57" rx="132.87" ry="26.74"/>
+<text text-anchor="middle" x="412.81" y="-479.37" font-family="Times,serif" font-size="14.00">zero&#45;dimensional spatial region</text>
+<text text-anchor="middle" x="412.81" y="-464.37" font-family="Times,serif" font-size="14.00">bfo:0000018</text>
+</g>
+<!-- bfo:0000018&#45;&gt;bfo:0000006 -->
+<g id="edge8" class="edge">
+<title>bfo:0000018&#45;&gt;bfo:0000006</title>
+<path fill="none" stroke="black" d="M454.72,-449.9C474.12,-438.47 497.21,-424.88 516.97,-413.24"/>
+<polygon fill="black" stroke="black" points="518.94,-416.14 525.78,-408.05 515.39,-410.11 518.94,-416.14"/>
+</g>
+<!-- caro:0000009 -->
+<g id="node10" class="node">
+<title>caro:0000009</title>
+<ellipse fill="none" stroke="red" cx="456.81" cy="-565.31" rx="76.24" ry="26.74"/>
+<text text-anchor="middle" x="456.81" y="-569.11" font-family="Times,serif" font-size="14.00">anatomical point</text>
+<text text-anchor="middle" x="456.81" y="-554.11" font-family="Times,serif" font-size="14.00">caro:0000009</text>
+</g>
+<!-- caro:0000009&#45;&gt;caro:0000007 -->
+<g id="edge9" class="edge">
+<title>caro:0000009&#45;&gt;caro:0000007</title>
+<path fill="none" stroke="black" d="M507.51,-545.06C540.18,-532.65 583.09,-516.35 618.84,-502.77"/>
+<polygon fill="black" stroke="black" points="620.14,-506.02 628.25,-499.2 617.66,-499.48 620.14,-506.02"/>
+</g>
+<!-- caro:0000009&#45;&gt;bfo:0000018 -->
+<g id="edge10" class="edge">
+<title>caro:0000009&#45;&gt;bfo:0000018</title>
+<path fill="none" stroke="black" d="M443.85,-538.46C439.64,-530.06 434.89,-520.59 430.39,-511.63"/>
+<polygon fill="black" stroke="black" points="433.45,-509.91 425.84,-502.54 427.19,-513.05 433.45,-509.91"/>
+</g>
+<!-- bfo:0000002 -->
+<g id="node12" class="node">
+<title>bfo:0000002</title>
+<ellipse fill="none" stroke="black" cx="918.81" cy="-116.61" rx="60.62" ry="26.74"/>
+<text text-anchor="middle" x="918.81" y="-120.41" font-family="Times,serif" font-size="14.00">continuant</text>
+<text text-anchor="middle" x="918.81" y="-105.41" font-family="Times,serif" font-size="14.00">bfo:0000002</text>
+</g>
+<!-- bfo:0000004&#45;&gt;bfo:0000002 -->
+<g id="edge21" class="edge">
+<title>bfo:0000004&#45;&gt;bfo:0000002</title>
+<path fill="none" stroke="black" d="M918.81,-179.03C918.81,-171.06 918.81,-162.17 918.81,-153.68"/>
+<polygon fill="black" stroke="black" points="922.31,-153.61 918.81,-143.61 915.31,-153.61 922.31,-153.61"/>
 </g>
 <!-- bfo:0000001 -->
-<g id="node17" class="node">
+<g id="node13" class="node">
 <title>bfo:0000001</title>
-<ellipse fill="none" stroke="black" cx="475.97" cy="-26.87" rx="60.62" ry="26.74"/>
-<text text-anchor="middle" x="475.97" y="-30.67" font-family="Times,serif" font-size="14.00">entity</text>
-<text text-anchor="middle" x="475.97" y="-15.67" font-family="Times,serif" font-size="14.00">bfo:0000001</text>
+<ellipse fill="none" stroke="black" cx="918.81" cy="-26.87" rx="60.62" ry="26.74"/>
+<text text-anchor="middle" x="918.81" y="-30.67" font-family="Times,serif" font-size="14.00">entity</text>
+<text text-anchor="middle" x="918.81" y="-15.67" font-family="Times,serif" font-size="14.00">bfo:0000001</text>
 </g>
 <!-- bfo:0000002&#45;&gt;bfo:0000001 -->
-<g id="edge21" class="edge">
+<g id="edge12" class="edge">
 <title>bfo:0000002&#45;&gt;bfo:0000001</title>
-<path fill="none" stroke="black" d="M475.97,-89.29C475.97,-81.32 475.97,-72.43 475.97,-63.94"/>
-<polygon fill="black" stroke="black" points="479.47,-63.87 475.97,-53.87 472.47,-63.87 479.47,-63.87"/>
+<path fill="none" stroke="black" d="M918.81,-89.29C918.81,-81.32 918.81,-72.43 918.81,-63.94"/>
+<polygon fill="black" stroke="black" points="922.31,-63.87 918.81,-53.87 915.31,-63.87 922.31,-63.87"/>
+</g>
+<!-- bfo:0000040&#45;&gt;bfo:0000004 -->
+<g id="edge17" class="edge">
+<title>bfo:0000040&#45;&gt;bfo:0000004</title>
+<path fill="none" stroke="black" d="M918.81,-268.77C918.81,-260.8 918.81,-251.91 918.81,-243.42"/>
+<polygon fill="black" stroke="black" points="922.31,-243.35 918.81,-233.35 915.31,-243.35 922.31,-243.35"/>
 </g>
 <!-- caro:0000008 -->
 <g id="node15" class="node">
 <title>caro:0000008</title>
-<ellipse fill="none" stroke="orange" cx="1155.97" cy="-565.31" rx="71.34" ry="26.74"/>
-<text text-anchor="middle" x="1155.97" y="-569.11" font-family="Times,serif" font-size="14.00">anatomical line</text>
-<text text-anchor="middle" x="1155.97" y="-554.11" font-family="Times,serif" font-size="14.00">caro:0000008</text>
+<ellipse fill="none" stroke="red" cx="232.81" cy="-565.31" rx="71.34" ry="26.74"/>
+<text text-anchor="middle" x="232.81" y="-569.11" font-family="Times,serif" font-size="14.00">anatomical line</text>
+<text text-anchor="middle" x="232.81" y="-554.11" font-family="Times,serif" font-size="14.00">caro:0000008</text>
 </g>
 <!-- caro:0000008&#45;&gt;caro:0000007 -->
-<g id="edge18" class="edge">
+<g id="edge14" class="edge">
 <title>caro:0000008&#45;&gt;caro:0000007</title>
-<path fill="none" stroke="black" d="M1092.95,-552.49C1027.09,-540.11 920.75,-520.05 828.97,-502.44 818.16,-500.37 806.85,-498.19 795.6,-496.01"/>
-<polygon fill="black" stroke="black" points="796.22,-492.56 785.74,-494.1 794.89,-499.44 796.22,-492.56"/>
+<path fill="none" stroke="black" d="M295.46,-552.32C360.35,-539.89 464.69,-519.86 554.81,-502.44 565.62,-500.35 576.92,-498.16 588.17,-495.98"/>
+<polygon fill="black" stroke="black" points="588.89,-499.4 598.03,-494.06 587.55,-492.53 588.89,-499.4"/>
 </g>
 <!-- caro:0000008&#45;&gt;bfo:0000026 -->
-<g id="edge17" class="edge">
+<g id="edge15" class="edge">
 <title>caro:0000008&#45;&gt;bfo:0000026</title>
-<path fill="none" stroke="black" d="M1181.87,-539.87C1192,-530.31 1203.77,-519.21 1214.59,-509"/>
-<polygon fill="black" stroke="black" points="1217.03,-511.51 1221.9,-502.1 1212.23,-506.42 1217.03,-511.51"/>
+<path fill="none" stroke="black" d="M204.94,-540.34C193.62,-530.6 180.37,-519.2 168.23,-508.75"/>
+<polygon fill="black" stroke="black" points="170.3,-505.92 160.44,-502.05 165.74,-511.23 170.3,-505.92"/>
+</g>
+<!-- caro:0030000 -->
+<g id="node16" class="node">
+<title>caro:0030000</title>
+<ellipse fill="none" stroke="red" cx="1078.81" cy="-296.09" rx="74.49" ry="26.74"/>
+<text text-anchor="middle" x="1078.81" y="-299.89" font-family="Times,serif" font-size="14.00">biological entity</text>
+<text text-anchor="middle" x="1078.81" y="-284.89" font-family="Times,serif" font-size="14.00">caro:0030000</text>
+</g>
+<!-- caro:0030000&#45;&gt;bfo:0000004 -->
+<g id="edge18" class="edge">
+<title>caro:0030000&#45;&gt;bfo:0000004</title>
+<path fill="none" stroke="black" d="M1038.85,-273.18C1018.19,-261.84 992.72,-247.88 970.57,-235.73"/>
+<polygon fill="black" stroke="black" points="972.08,-232.57 961.63,-230.83 968.71,-238.71 972.08,-232.57"/>
 </g>
 <!-- caro:0000010 -->
-<g id="node16" class="node">
+<g id="node17" class="node">
 <title>caro:0000010</title>
-<ellipse fill="none" stroke="orange" cx="788.97" cy="-565.31" rx="92.76" ry="26.74"/>
-<text text-anchor="middle" x="788.97" y="-569.11" font-family="Times,serif" font-size="14.00">anatomical boundary</text>
-<text text-anchor="middle" x="788.97" y="-554.11" font-family="Times,serif" font-size="14.00">caro:0000010</text>
+<ellipse fill="none" stroke="red" cx="809.81" cy="-565.31" rx="92.76" ry="26.74"/>
+<text text-anchor="middle" x="809.81" y="-569.11" font-family="Times,serif" font-size="14.00">anatomical boundary</text>
+<text text-anchor="middle" x="809.81" y="-554.11" font-family="Times,serif" font-size="14.00">caro:0000010</text>
 </g>
 <!-- caro:0000010&#45;&gt;caro:0000007 -->
-<g id="edge20" class="edge">
+<g id="edge19" class="edge">
 <title>caro:0000010&#45;&gt;caro:0000007</title>
-<path fill="none" stroke="black" d="M762.56,-539.4C752.54,-529.94 740.97,-519.03 730.32,-508.98"/>
-<polygon fill="black" stroke="black" points="732.43,-506.16 722.76,-501.85 727.63,-511.25 732.43,-506.16"/>
+<path fill="none" stroke="black" d="M776.15,-540.1C762.24,-530.1 745.93,-518.37 731.14,-507.73"/>
+<polygon fill="black" stroke="black" points="732.8,-504.61 722.64,-501.62 728.71,-510.3 732.8,-504.61"/>
 </g>
 <!-- caro:0000010&#45;&gt;bfo:0000009 -->
-<g id="edge19" class="edge">
+<g id="edge20" class="edge">
 <title>caro:0000010&#45;&gt;bfo:0000009</title>
-<path fill="none" stroke="black" d="M834.85,-541.94C857.85,-530.73 885.95,-517.03 910.48,-505.08"/>
-<polygon fill="black" stroke="black" points="912.23,-508.12 919.69,-500.59 909.17,-501.83 912.23,-508.12"/>
+<path fill="none" stroke="black" d="M849.88,-541.03C868.3,-530.33 890.34,-517.52 909.91,-506.15"/>
+<polygon fill="black" stroke="black" points="911.82,-509.09 918.71,-501.04 908.3,-503.03 911.82,-509.09"/>
 </g>
 </g>
 </svg>

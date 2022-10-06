@@ -1,225 +1,270 @@
 - ancestors: 110
   children: 47
+  link: https://github.com/insect-morphology/aism
   parents: 22
   prefix: aism
   roots: 0
 - ancestors: 1
   children: 16
+  link: https://github.com/EBISPOT/amphx_ontology
   parents: 4
   prefix: amphx
   roots: 0
 - ancestors: 0
   children: 0
+  link: https://github.com/obophenotype/ascomycete-phenotype-ontology
   parents: 0
   prefix: apo
   roots: 4
 - ancestors: 8
   children: 7
+  link: https://github.com/obophenotype/biological-spatial-ontology
   parents: 4
   prefix: bspo
   roots: 0
 - ancestors: 0
   children: 0
+  link: https://github.com/BRENDA-Enzymes/BTO
   parents: 0
   prefix: bto
   roots: 11
 - ancestors: 5
   children: 7
+  link: https://github.com/obophenotype/caro
   parents: 7
   prefix: caro
   roots: 0
 - ancestors: 0
   children: 0
+  link: https://github.com/luis-gonzalez-m/Collembola
   parents: 0
   prefix: clao
   roots: 1
 - ancestors: 62
   children: 32
+  link: https://github.com/CLO-Ontology/CLO
   parents: 20
   prefix: clo
   roots: 5
 - ancestors: 2
   children: 13
+  link: https://github.com/EBISPOT/clyh_ontology
   parents: 5
   prefix: clyh
   roots: 1
 - ancestors: 39
   children: 58
+  link: https://github.com/insect-morphology/colao
   parents: 37
   prefix: colao
   roots: 0
 - ancestors: 156
   children: 74
+  link: https://github.com/obophenotype/ctenophore-ontology
   parents: 49
   prefix: cteno
   roots: 0
 - ancestors: 0
   children: 0
+  link: https://github.com/dictyBase/migration-data
   parents: 0
   prefix: ddanat
   roots: 1
 - ancestors: 0
   children: 0
+  link: https://github.com/obophenotype/dicty-phenotype-ontology
   parents: 0
   prefix: ddpheno
   roots: 1
 - ancestors: 6
   children: 13
+  link: https://github.com/echinoderm-ontology/ecao_ontology
   parents: 4
   prefix: ecao
   roots: 2
 - ancestors: 0
   children: 3
+  link: https://github.com/obophenotype/mouse-anatomy-ontology
   parents: 1
   prefix: emapa
   roots: 0
 - ancestors: 0
   children: 0
+  link: https://github.com/obophenotype/fungal-anatomy-ontology
   parents: 0
   prefix: fao
   roots: 1
 - ancestors: 0
   children: 0
+  link: https://github.com/flora-phenotype-ontology/flopoontology
   parents: 0
   prefix: flopo
   roots: 15
 - ancestors: 0
   children: 0
+  link: https://github.com/hymao/hao
   parents: 0
   prefix: hao
   roots: 5
 - ancestors: 0
   children: 0
+  link: https://github.com/BgeeDB/homology-ontology
   parents: 0
   prefix: hom
   roots: 1
 - ancestors: 0
   children: 3
+  link: https://github.com/obophenotype/developmental-stage-ontologies
   parents: 1
   prefix: hsapdv
   roots: 1
 - ancestors: 10
   children: 9
+  link: https://github.com/insect-morphology/lepao
   parents: 3
   prefix: lepao
   roots: 3
 - ancestors: 0
   children: 0
+  link: https://github.com/obophenotype/mouse-anatomy-ontology
   parents: 0
   prefix: ma
   roots: 1
 - ancestors: 4
   children: 16
+  link: https://github.com/RDruzinsky/feedontology
   parents: 7
   prefix: mfmo
   roots: 9
 - ancestors: 0
   children: 0
+  link: https://github.com/obophenotype/developmental-stage-ontologies
   parents: 0
   prefix: mmusdv
   roots: 1
 - ancestors: 0
   children: 0
+  link: https://github.com/aszool/oarcs
   parents: 0
   prefix: oarcs
   roots: 2
 - ancestors: 70
   children: 340
+  link: https://github.com/obophenotype/bio-attribute-ontology
   parents: 138
   prefix: oba
   roots: 0
 - ancestors: 0
   children: 0
+  link: https://github.com/obophenotype/developmental-stage-ontologies
   parents: 0
   prefix: olatdv
   roots: 1
 - ancestors: 1
   children: 3
+  link: https://github.com/microbialphenotypes/OMP-ontology
   parents: 3
   prefix: omp
   roots: 1
 - ancestors: 348
   children: 121
+  link: https://github.com/obophenotype/provisional_cell_ontology
   parents: 59
   prefix: pcl
   roots: 0
 - ancestors: 0
   children: 0
+  link: https://github.com/obophenotype/developmental-stage-ontologies
   parents: 0
   prefix: pdumdv
   roots: 1
 - ancestors: 0
   children: 0
+  link: https://github.com/PHI-base/phipo
   parents: 0
   prefix: phipo
   roots: 1
 - ancestors: 25
   children: 57
+  link: https://github.com/obophenotype/planaria-ontology
   parents: 21
   prefix: plana
   roots: 4
 - ancestors: 0
   children: 0
+  link: https://github.com/obophenotype/planarian-phenotype-ontology
   parents: 0
   prefix: planp
   roots: 1
 - ancestors: 4
   children: 5
+  link: https://github.com/Planteome/plant-ontology
   parents: 3
   prefix: po
   roots: 0
 - ancestors: 27
   children: 52
+  link: https://github.com/obophenotype/porifera-ontology
   parents: 21
   prefix: poro
   roots: 0
 - ancestors: 57
   children: 35
+  link: https://github.com/PlantPhenoOntology/PPO
   parents: 22
   prefix: ppo
   roots: 0
 - ancestors: 0
   children: 0
+  link: https://github.com/obophenotype/spider-ontology
   parents: 0
   prefix: spd
   roots: 1
 - ancestors: 65
   children: 136
+  link: https://github.com/Planteome/plant-trait-ontology
   parents: 64
   prefix: to
   roots: 0
 - ancestors: 0
   children: 0
+  link: https://github.com/bio-ontology-research-group/unit-ontology
   parents: 0
   prefix: uo
   roots: 2
 - ancestors: 0
   children: 0
+  link: https://github.com/AnimalGenome/vertebrate-trait-ontology
   parents: 0
   prefix: vt
   roots: 1
 - ancestors: 0
   children: 0
+  link: https://github.com/xenopus-anatomy/xao
   parents: 0
   prefix: xao
   roots: 2
 - ancestors: 0
   children: 0
+  link: https://github.com/obophenotype/xenopus-phenotype-ontology
   parents: 0
   prefix: xpo
   roots: 1
 - ancestors: 0
   children: 0
+  link: https://github.com/cerivs/zebrafish-anatomical-ontology
   parents: 0
   prefix: zfa
   roots: 1
 - ancestors: 0
   children: 0
+  link: https://github.com/cerivs/zebrafish-anatomical-ontology
   parents: 0
   prefix: zfs
   roots: 1
 - ancestors: 0
   children: 0
+  link: https://github.com/obophenotype/zebrafish-phenotype-ontology
   parents: 0
   prefix: zp
   roots: 1

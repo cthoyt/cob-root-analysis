@@ -5,100 +5,100 @@
  -->
 <!-- Pages: 1 -->
 <svg width="884pt" height="241pt"
- viewBox="0.00 0.00 883.75 241.22" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 883.66 241.22" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 237.22)">
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-237.22 879.75,-237.22 879.75,4 -4,4"/>
-<!-- omp:0007188 -->
-<g id="node1" class="node">
-<title>omp:0007188</title>
-<ellipse fill="none" stroke="orange" cx="102.53" cy="-206.35" rx="102.56" ry="26.74"/>
-<text text-anchor="middle" x="102.53" y="-210.15" font-family="Times,serif" font-size="14.00">altered_process_quality</text>
-<text text-anchor="middle" x="102.53" y="-195.15" font-family="Times,serif" font-size="14.00">omp:0007188</text>
-</g>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-237.22 879.66,-237.22 879.66,4 -4,4"/>
 <!-- pato:0001236 -->
-<g id="node2" class="node">
+<g id="node1" class="node">
 <title>pato:0001236</title>
-<ellipse fill="none" stroke="blue" cx="128.53" cy="-116.61" rx="69.09" ry="26.74"/>
-<text text-anchor="middle" x="128.53" y="-120.41" font-family="Times,serif" font-size="14.00">process quality</text>
-<text text-anchor="middle" x="128.53" y="-105.41" font-family="Times,serif" font-size="14.00">pato:0001236</text>
-</g>
-<!-- omp:0007188&#45;&gt;pato:0001236 -->
-<g id="edge1" class="edge">
-<title>omp:0007188&#45;&gt;pato:0001236</title>
-<path fill="none" stroke="black" d="M110.19,-179.5C112.63,-171.27 115.37,-162.02 117.97,-153.23"/>
-<polygon fill="black" stroke="black" points="121.35,-154.16 120.84,-143.58 114.64,-152.17 121.35,-154.16"/>
+<ellipse fill="none" stroke="blue" cx="538.44" cy="-116.61" rx="69.09" ry="26.74"/>
+<text text-anchor="middle" x="538.44" y="-120.41" font-family="Times,serif" font-size="14.00">process quality</text>
+<text text-anchor="middle" x="538.44" y="-105.41" font-family="Times,serif" font-size="14.00">pato:0001236</text>
 </g>
 <!-- pato:0000001 -->
-<g id="node5" class="node">
+<g id="node2" class="node">
 <title>pato:0000001</title>
-<ellipse fill="none" stroke="black" cx="306.53" cy="-26.87" rx="64.19" ry="26.74"/>
-<text text-anchor="middle" x="306.53" y="-30.67" font-family="Times,serif" font-size="14.00">quality</text>
-<text text-anchor="middle" x="306.53" y="-15.67" font-family="Times,serif" font-size="14.00">pato:0000001</text>
+<ellipse fill="none" stroke="black" cx="318.44" cy="-26.87" rx="64.19" ry="26.74"/>
+<text text-anchor="middle" x="318.44" y="-30.67" font-family="Times,serif" font-size="14.00">quality</text>
+<text text-anchor="middle" x="318.44" y="-15.67" font-family="Times,serif" font-size="14.00">pato:0000001</text>
 </g>
 <!-- pato:0001236&#45;&gt;pato:0000001 -->
-<g id="edge5" class="edge">
+<g id="edge1" class="edge">
 <title>pato:0001236&#45;&gt;pato:0000001</title>
-<path fill="none" stroke="black" d="M170.26,-95.04C196.21,-82.25 229.7,-65.74 256.98,-52.29"/>
-<polygon fill="black" stroke="black" points="258.56,-55.42 265.98,-47.86 255.46,-49.14 258.56,-55.42"/>
-</g>
-<!-- omp:0007189 -->
-<g id="node3" class="node">
-<title>omp:0007189</title>
-<ellipse fill="none" stroke="orange" cx="306.53" cy="-206.35" rx="83.38" ry="26.74"/>
-<text text-anchor="middle" x="306.53" y="-210.15" font-family="Times,serif" font-size="14.00">altered_relative_to</text>
-<text text-anchor="middle" x="306.53" y="-195.15" font-family="Times,serif" font-size="14.00">omp:0007189</text>
+<path fill="none" stroke="black" d="M491.24,-96.79C456.71,-83.01 409.74,-64.28 373.49,-49.83"/>
+<polygon fill="black" stroke="black" points="374.63,-46.51 364.05,-46.06 372.04,-53.02 374.63,-46.51"/>
 </g>
 <!-- pato:0000068 -->
-<g id="node4" class="node">
+<g id="node3" class="node">
 <title>pato:0000068</title>
-<ellipse fill="none" stroke="blue" cx="306.53" cy="-116.61" rx="64.19" ry="26.74"/>
-<text text-anchor="middle" x="306.53" y="-120.41" font-family="Times,serif" font-size="14.00">qualitative</text>
-<text text-anchor="middle" x="306.53" y="-105.41" font-family="Times,serif" font-size="14.00">pato:0000068</text>
-</g>
-<!-- omp:0007189&#45;&gt;pato:0000068 -->
-<g id="edge2" class="edge">
-<title>omp:0007189&#45;&gt;pato:0000068</title>
-<path fill="none" stroke="black" d="M306.53,-179.03C306.53,-171.06 306.53,-162.17 306.53,-153.68"/>
-<polygon fill="black" stroke="black" points="310.03,-153.61 306.53,-143.61 303.03,-153.61 310.03,-153.61"/>
+<ellipse fill="none" stroke="blue" cx="110.44" cy="-116.61" rx="64.19" ry="26.74"/>
+<text text-anchor="middle" x="110.44" y="-120.41" font-family="Times,serif" font-size="14.00">qualitative</text>
+<text text-anchor="middle" x="110.44" y="-105.41" font-family="Times,serif" font-size="14.00">pato:0000068</text>
 </g>
 <!-- pato:0000068&#45;&gt;pato:0000001 -->
-<g id="edge3" class="edge">
+<g id="edge2" class="edge">
 <title>pato:0000068&#45;&gt;pato:0000001</title>
-<path fill="none" stroke="black" d="M306.53,-89.29C306.53,-81.32 306.53,-72.43 306.53,-63.94"/>
-<polygon fill="black" stroke="black" points="310.03,-63.87 306.53,-53.87 303.03,-63.87 310.03,-63.87"/>
+<path fill="none" stroke="black" d="M154.55,-97C186.71,-83.44 230.45,-64.99 264.66,-50.56"/>
+<polygon fill="black" stroke="black" points="266.18,-53.71 274.03,-46.6 263.46,-47.26 266.18,-53.71"/>
 </g>
-<!-- pato:0001241 -->
-<g id="node6" class="node">
-<title>pato:0001241</title>
-<ellipse fill="none" stroke="blue" cx="514.53" cy="-116.61" rx="98.99" ry="26.74"/>
-<text text-anchor="middle" x="514.53" y="-120.41" font-family="Times,serif" font-size="14.00">physical object quality</text>
-<text text-anchor="middle" x="514.53" y="-105.41" font-family="Times,serif" font-size="14.00">pato:0001241</text>
+<!-- omp:0007188 -->
+<g id="node4" class="node">
+<title>omp:0007188</title>
+<ellipse fill="none" stroke="red" cx="572.44" cy="-206.35" rx="102.56" ry="26.74"/>
+<text text-anchor="middle" x="572.44" y="-210.15" font-family="Times,serif" font-size="14.00">altered_process_quality</text>
+<text text-anchor="middle" x="572.44" y="-195.15" font-family="Times,serif" font-size="14.00">omp:0007188</text>
 </g>
-<!-- pato:0001241&#45;&gt;pato:0000001 -->
-<g id="edge4" class="edge">
-<title>pato:0001241&#45;&gt;pato:0000001</title>
-<path fill="none" stroke="black" d="M462.58,-93.7C431.39,-80.54 391.79,-63.84 360.29,-50.55"/>
-<polygon fill="black" stroke="black" points="361.36,-47.2 350.79,-46.54 358.64,-53.65 361.36,-47.2"/>
+<!-- omp:0007188&#45;&gt;pato:0001236 -->
+<g id="edge3" class="edge">
+<title>omp:0007188&#45;&gt;pato:0001236</title>
+<path fill="none" stroke="black" d="M562.42,-179.5C559.17,-171.11 555.51,-161.66 552.04,-152.71"/>
+<polygon fill="black" stroke="black" points="555.26,-151.34 548.38,-143.28 548.73,-153.86 555.26,-151.34"/>
 </g>
 <!-- omp:0000000 -->
-<g id="node7" class="node">
+<g id="node5" class="node">
 <title>omp:0000000</title>
-<ellipse fill="none" stroke="red" cx="784.53" cy="-206.35" rx="91.43" ry="26.74"/>
-<text text-anchor="middle" x="784.53" y="-210.15" font-family="Times,serif" font-size="14.00">microbial phenotype</text>
-<text text-anchor="middle" x="784.53" y="-195.15" font-family="Times,serif" font-size="14.00">omp:0000000</text>
+<ellipse fill="none" stroke="red" cx="784.44" cy="-206.35" rx="91.43" ry="26.74"/>
+<text text-anchor="middle" x="784.44" y="-210.15" font-family="Times,serif" font-size="14.00">microbial phenotype</text>
+<text text-anchor="middle" x="784.44" y="-195.15" font-family="Times,serif" font-size="14.00">omp:0000000</text>
 </g>
 <!-- omp:0007193 -->
-<g id="node8" class="node">
+<g id="node6" class="node">
 <title>omp:0007193</title>
-<ellipse fill="none" stroke="orange" cx="541.53" cy="-206.35" rx="133.79" ry="26.74"/>
-<text text-anchor="middle" x="541.53" y="-210.15" font-family="Times,serif" font-size="14.00">altered_physical_object_quality</text>
-<text text-anchor="middle" x="541.53" y="-195.15" font-family="Times,serif" font-size="14.00">omp:0007193</text>
+<ellipse fill="none" stroke="red" cx="318.44" cy="-206.35" rx="133.79" ry="26.74"/>
+<text text-anchor="middle" x="318.44" y="-210.15" font-family="Times,serif" font-size="14.00">altered_physical_object_quality</text>
+<text text-anchor="middle" x="318.44" y="-195.15" font-family="Times,serif" font-size="14.00">omp:0007193</text>
+</g>
+<!-- pato:0001241 -->
+<g id="node7" class="node">
+<title>pato:0001241</title>
+<ellipse fill="none" stroke="blue" cx="318.44" cy="-116.61" rx="98.99" ry="26.74"/>
+<text text-anchor="middle" x="318.44" y="-120.41" font-family="Times,serif" font-size="14.00">physical object quality</text>
+<text text-anchor="middle" x="318.44" y="-105.41" font-family="Times,serif" font-size="14.00">pato:0001241</text>
 </g>
 <!-- omp:0007193&#45;&gt;pato:0001241 -->
-<g id="edge6" class="edge">
+<g id="edge4" class="edge">
 <title>omp:0007193&#45;&gt;pato:0001241</title>
-<path fill="none" stroke="black" d="M533.58,-179.5C531.04,-171.27 528.2,-162.02 525.49,-153.23"/>
-<polygon fill="black" stroke="black" points="528.81,-152.11 522.52,-143.58 522.12,-154.17 528.81,-152.11"/>
+<path fill="none" stroke="black" d="M318.44,-179.03C318.44,-171.06 318.44,-162.17 318.44,-153.68"/>
+<polygon fill="black" stroke="black" points="321.94,-153.61 318.44,-143.61 314.94,-153.61 321.94,-153.61"/>
+</g>
+<!-- pato:0001241&#45;&gt;pato:0000001 -->
+<g id="edge5" class="edge">
+<title>pato:0001241&#45;&gt;pato:0000001</title>
+<path fill="none" stroke="black" d="M318.44,-89.29C318.44,-81.32 318.44,-72.43 318.44,-63.94"/>
+<polygon fill="black" stroke="black" points="321.94,-63.87 318.44,-53.87 314.94,-63.87 321.94,-63.87"/>
+</g>
+<!-- omp:0007189 -->
+<g id="node8" class="node">
+<title>omp:0007189</title>
+<ellipse fill="none" stroke="red" cx="83.44" cy="-206.35" rx="83.38" ry="26.74"/>
+<text text-anchor="middle" x="83.44" y="-210.15" font-family="Times,serif" font-size="14.00">altered_relative_to</text>
+<text text-anchor="middle" x="83.44" y="-195.15" font-family="Times,serif" font-size="14.00">omp:0007189</text>
+</g>
+<!-- omp:0007189&#45;&gt;pato:0000068 -->
+<g id="edge6" class="edge">
+<title>omp:0007189&#45;&gt;pato:0000068</title>
+<path fill="none" stroke="black" d="M91.39,-179.5C93.93,-171.27 96.77,-162.02 99.48,-153.23"/>
+<polygon fill="black" stroke="black" points="102.85,-154.17 102.45,-143.58 96.16,-152.11 102.85,-154.17"/>
 </g>
 </g>
 </svg>
