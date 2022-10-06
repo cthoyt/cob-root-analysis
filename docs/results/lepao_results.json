@@ -1,0 +1,35 @@
+{
+  "ancestors": [
+    "aism:0000006",
+    "aism:0000007",
+    "aism:0000136",
+    "aism:0000174",
+    "lepao:0000006",
+    "lepao:0000014",
+    "lepao:0000079",
+    "uberon:0001001",
+    "uberon:0001002",
+    "uberon:6007284"
+  ],
+  "children": [
+    "lepao:0000031",
+    "lepao:0000034",
+    "lepao:0000035",
+    "lepao:0000040",
+    "lepao:0000081",
+    "lepao:0000082",
+    "lepao:0000083",
+    "lepao:0000084",
+    "lepao:0000108"
+  ],
+  "parents": [
+    "aism:0000091",
+    "uberon:0000955",
+    "uberon:0001002"
+  ],
+  "roots": [
+    "lepao:0000001",
+    "lepao:0000004",
+    "lepao:0000006"
+  ]
+}

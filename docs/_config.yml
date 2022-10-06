@@ -1,0 +1,6 @@
+title: COB Root Analysis
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate

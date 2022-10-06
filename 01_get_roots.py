@@ -28,6 +28,10 @@ SKIP = {
     "ncbitaxon",
 }
 NO_ROOTS_MSG = "no roots annotated with IAO_0000700"
+DOMAINS = {
+    "anatomy and development",
+    "phenotype",
+}
 
 
 @click.command()
@@ -45,6 +49,7 @@ def main():
             and not resource.is_deprecated()
             and resource.prefix not in roots
             and resource.prefix not in SKIP
+            and resource.obofoundry["domain"] in DOMAINS
         )
     ]
     missing = []

@@ -1,0 +1,46 @@
+{
+  "ancestors": [
+    "mfmo:0000090",
+    "obo:uberon_0004765",
+    "uberon:0000465",
+    "uberon:0001474"
+  ],
+  "children": [
+    "mfmo:0000004",
+    "mfmo:0000046",
+    "mfmo:0000052",
+    "mfmo:0000053",
+    "mfmo:0000055",
+    "mfmo:0000056",
+    "mfmo:0000091",
+    "mfmo:0000092",
+    "mfmo:0000095",
+    "mfmo:0000098",
+    "mfmo:0000105",
+    "mfmo:0000106",
+    "mfmo:0000108",
+    "mfmo:0000145",
+    "mfmo:0000146",
+    "mfmo:0000147"
+  ],
+  "parents": [
+    "http://purl.obolibrary.org/obo/mfmo.owl#MFMO_0000300",
+    "uberon:0000166",
+    "uberon:0000465",
+    "uberon:0001474",
+    "uberon:0001684",
+    "uberon:0001685",
+    "uberon:0007844"
+  ],
+  "roots": [
+    "mfmo:0000005",
+    "mfmo:0000007",
+    "mfmo:0000010",
+    "mfmo:0000060",
+    "mfmo:0000062",
+    "mfmo:0000065",
+    "mfmo:0000067",
+    "mfmo:0000072",
+    "mfmo:0000075"
+  ]
+}

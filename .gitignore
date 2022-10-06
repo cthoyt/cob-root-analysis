@@ -1,2 +1,5 @@
 .venv
 .ipynb_checkpoints
+*.pkl
+docs/.jekyll-cache
+docs/_site

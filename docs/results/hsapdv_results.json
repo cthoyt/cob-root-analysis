@@ -1,0 +1,14 @@
+{
+  "ancestors": [],
+  "children": [
+    "hsapdv:0000235",
+    "hsapdv:0000239",
+    "hsapdv:0000244"
+  ],
+  "parents": [
+    "uberon:0000105"
+  ],
+  "roots": [
+    "hsapdv:0000000"
+  ]
+}
