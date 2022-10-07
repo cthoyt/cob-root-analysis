@@ -30,7 +30,7 @@ Code licensed under MIT license. Original content licensed under CC0.
 <tbody>
 {% for row in site.data.results %}
 <tr>
-<td><a href="{{ row.link }}">{{ row.prefix }}</a></td>
+<td><a id="{{ row.prefix }}" href="{{ row.link }}">{{ row.prefix }}</a></td>
 <td>
 <a href="results/{{ row.prefix }}_results.svg">
 <img src="results/{{ row.prefix }}_results.svg" alt="Analysis of {{ row.prefix }}" />
