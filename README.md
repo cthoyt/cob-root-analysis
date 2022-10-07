@@ -8,3 +8,7 @@ COB.
 2. Identify which of these roots are mapped in COB already (
    see [cob-to-external.tsv](https://github.com/OBOFoundry/COB/blob/master/src/ontology/components/cob-to-external.tsv))
 3. Create TODO lists for remaining curation
+
+## Licensing
+
+Code licensed under MIT license, original content licensed under CC0.
