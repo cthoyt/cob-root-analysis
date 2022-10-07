@@ -29,8 +29,9 @@ Code licensed under MIT license. Original content licensed under CC0.
 </thead>
 <tbody>
 {% for row in site.data.results %}
+<a id="{{ row.prefix }}"></a>
 <tr>
-<td><a id="{{ row.prefix }}" href="{{ row.link }}">{{ row.prefix }}</a></td>
+<td><a href="{{ row.link }}">{{ row.prefix }}</a></td>
 <td>
 <a href="results/{{ row.prefix }}_results.svg">
 <img src="results/{{ row.prefix }}_results.svg" alt="Analysis of {{ row.prefix }}" />
