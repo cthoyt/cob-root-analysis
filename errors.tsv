@@ -1,166 +1,48 @@
 prefix	message
-ado	no roots annotated with IAO_0000700
 aism	no roots annotated with IAO_0000700
 amphx	no roots annotated with IAO_0000700
 apo	no roots annotated with IAO_0000700
-apollosv	no roots annotated with IAO_0000700
-aro	no roots annotated with IAO_0000700
-bco	no roots annotated with IAO_0000700
-bfo	no roots annotated with IAO_0000700
-biomodels.kisao	no roots annotated with IAO_0000700
 bspo	no roots annotated with IAO_0000700
 bto	no roots annotated with IAO_0000700
 caro	no roots annotated with IAO_0000700
-cdao	no roots annotated with IAO_0000700
-cdno	no roots annotated with IAO_0000700
-chebi	no roots annotated with IAO_0000700
-cheminf	no roots annotated with IAO_0000700
-chiro	no roots annotated with IAO_0000700
-chmo	no roots annotated with IAO_0000700
-cido	no roots annotated with IAO_0000700
-cio	no roots annotated with IAO_0000700
 clao	no roots annotated with IAO_0000700
 clo	no roots annotated with IAO_0000700
 clyh	no roots annotated with IAO_0000700
-cmo	no roots annotated with IAO_0000700
-cob	no document
 colao	no roots annotated with IAO_0000700
-cro	no roots annotated with IAO_0000700
 cteno	no roots annotated with IAO_0000700
-cto	no roots annotated with IAO_0000700
-cvdo	no roots annotated with IAO_0000700
 ddanat	no roots annotated with IAO_0000700
 ddpheno	no roots annotated with IAO_0000700
-dideo	no roots annotated with IAO_0000700
-disdriv	no roots annotated with IAO_0000700
-dron	no roots annotated with IAO_0000700
-duo	no roots annotated with IAO_0000700
 ecao	no roots annotated with IAO_0000700
-eco	no roots annotated with IAO_0000700
-ecocore	no roots annotated with IAO_0000700
 emapa	no roots annotated with IAO_0000700
-envo	no roots annotated with IAO_0000700
-epio	no roots annotated with IAO_0000700
-eupath	no roots annotated with IAO_0000700
-exo	no roots annotated with IAO_0000700
 fao	no roots annotated with IAO_0000700
-fbbi	no roots annotated with IAO_0000700
-fideo	no roots annotated with IAO_0000700
 flopo	no roots annotated with IAO_0000700
-fobi	no roots annotated with IAO_0000700
-foodon	no document
-fovt	no document
-gecko	no roots annotated with IAO_0000700
-genepio	no document
-geno	no roots annotated with IAO_0000700
-geogeo	no roots annotated with IAO_0000700
-gno	no roots annotated with IAO_0000700
-go	no roots annotated with IAO_0000700
-gsso	malformed data
+fovt	no roots annotated with IAO_0000700
 hao	no roots annotated with IAO_0000700
 hom	no roots annotated with IAO_0000700
 hsapdv	no roots annotated with IAO_0000700
-hso	no roots annotated with IAO_0000700
-htn	no roots annotated with IAO_0000700
-iao	no roots annotated with IAO_0000700
-iceo	no roots annotated with IAO_0000700
-ico	no document
-ido	no roots annotated with IAO_0000700
-ino	no roots annotated with IAO_0000700
-interpro	no document
-labo	no roots annotated with IAO_0000700
 lepao	no roots annotated with IAO_0000700
 ma	no roots annotated with IAO_0000700
-maxo	no roots annotated with IAO_0000700
-mco	no roots annotated with IAO_0000700
-mf	no roots annotated with IAO_0000700
 mfmo	no roots annotated with IAO_0000700
-mfoem	no roots annotated with IAO_0000700
-mfomd	multiple graphs
-mi	no roots annotated with IAO_0000700
-miapa	no roots annotated with IAO_0000700
-micro	multiple graphs
-mmo	no roots annotated with IAO_0000700
 mmusdv	no roots annotated with IAO_0000700
-mod	no roots annotated with IAO_0000700
-mop	no roots annotated with IAO_0000700
-mpath	no roots annotated with IAO_0000700
-mpio	no roots annotated with IAO_0000700
-mro	no roots annotated with IAO_0000700
-ms	no roots annotated with IAO_0000700
-nbo	no roots annotated with IAO_0000700
-ncit	no roots annotated with IAO_0000700
-ncro	no roots annotated with IAO_0000700
-nomen	no roots annotated with IAO_0000700
-oae	no roots annotated with IAO_0000700
 oarcs	no roots annotated with IAO_0000700
 oba	no roots annotated with IAO_0000700
-obcs	no document
-obi	no roots annotated with IAO_0000700
-obib	no roots annotated with IAO_0000700
-ogg	no roots annotated with IAO_0000700
-ogms	no roots annotated with IAO_0000700
-ogsf	multiple graphs
-ohd	no roots annotated with IAO_0000700
-ohmi	no roots annotated with IAO_0000700
-ohpi	no roots annotated with IAO_0000700
 olatdv	no roots annotated with IAO_0000700
-omit	no roots annotated with IAO_0000700
-omo	no roots annotated with IAO_0000700
 omp	no roots annotated with IAO_0000700
-omrse	no roots annotated with IAO_0000700
-one	multiple graphs
-ons	multiple graphs
-ontoavida	no roots annotated with IAO_0000700
-ontoneo	no roots annotated with IAO_0000700
-oostt	no roots annotated with IAO_0000700
-opl	no roots annotated with IAO_0000700
-opmi	no roots annotated with IAO_0000700
-ornaseq	no roots annotated with IAO_0000700
-ovae	no roots annotated with IAO_0000700
 pcl	no roots annotated with IAO_0000700
-pco	no roots annotated with IAO_0000700
-pdro	no roots annotated with IAO_0000700
 pdumdv	no roots annotated with IAO_0000700
-peco	no roots annotated with IAO_0000700
 phipo	no roots annotated with IAO_0000700
 plana	no roots annotated with IAO_0000700
 planp	no roots annotated with IAO_0000700
 po	no roots annotated with IAO_0000700
 poro	no roots annotated with IAO_0000700
 ppo	no roots annotated with IAO_0000700
-proco	no roots annotated with IAO_0000700
-psdo	no roots annotated with IAO_0000700
-pso	no roots annotated with IAO_0000700
-pw	no roots annotated with IAO_0000700
-rbo	no document
-ro	no roots annotated with IAO_0000700
-rs	no roots annotated with IAO_0000700
-rxno	no roots annotated with IAO_0000700
-sbo	no roots annotated with IAO_0000700
-scdo	no document
-sepio	no roots annotated with IAO_0000700
-so	no roots annotated with IAO_0000700
 spd	no roots annotated with IAO_0000700
-stato	no roots annotated with IAO_0000700
-swo	no document
-symp	no roots annotated with IAO_0000700
-taxrank	no roots annotated with IAO_0000700
 to	no roots annotated with IAO_0000700
-trans	no roots annotated with IAO_0000700
-tto	no roots annotated with IAO_0000700
-txpo	no roots annotated with IAO_0000700
 uo	no roots annotated with IAO_0000700
-upheno	no document
-vbo	no document
-vo	no roots annotated with IAO_0000700
+upheno	no roots annotated with IAO_0000700
 vt	no roots annotated with IAO_0000700
-vto	no roots annotated with IAO_0000700
 xao	no roots annotated with IAO_0000700
-xco	no roots annotated with IAO_0000700
-xlmod	no roots annotated with IAO_0000700
 xpo	no roots annotated with IAO_0000700
-zeco	no roots annotated with IAO_0000700
 zfa	no roots annotated with IAO_0000700
 zfs	no roots annotated with IAO_0000700
 zp	no roots annotated with IAO_0000700

@@ -5,14 +5,14 @@
  -->
 <!-- Pages: 1 -->
 <svg width="700pt" height="151pt"
- viewBox="0.00 0.00 700.20 151.48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 700.37 151.48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 147.48)">
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-147.48 696.2,-147.48 696.2,4 -4,4"/>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-147.48 696.37,-147.48 696.37,4 -4,4"/>
 <!-- uberon:0000105 -->
 <g id="node1" class="node">
 <title>uberon:0000105</title>
-<ellipse fill="none" stroke="blue" cx="248.48" cy="-26.87" rx="68.49" ry="18"/>
-<text text-anchor="middle" x="248.48" y="-23.17" font-family="Times,serif" font-size="14.00">uberon:0000105</text>
+<ellipse fill="none" stroke="blue" cx="251.48" cy="-26.87" rx="68.49" ry="18"/>
+<text text-anchor="middle" x="251.48" y="-23.17" font-family="Times,serif" font-size="14.00">uberon:0000105</text>
 </g>
 <!-- hsapdv:0000235 -->
 <g id="node2" class="node">
@@ -24,59 +24,59 @@
 <!-- hsapdv:0000235&#45;&gt;uberon:0000105 -->
 <g id="edge1" class="edge">
 <title>hsapdv:0000235&#45;&gt;uberon:0000105</title>
-<path fill="none" stroke="black" d="M146.38,-91.4C167.68,-78.15 193.84,-61.87 214.34,-49.11"/>
-<polygon fill="black" stroke="black" points="216.4,-51.96 223.04,-43.7 212.7,-46.01 216.4,-51.96"/>
+<path fill="none" stroke="black" d="M147.21,-91.4C169.06,-78.09 195.92,-61.73 216.9,-48.94"/>
+<polygon fill="black" stroke="black" points="218.78,-51.89 225.5,-43.7 215.14,-45.91 218.78,-51.89"/>
 </g>
 <!-- hsapdv:0000000 -->
 <g id="node3" class="node">
 <title>hsapdv:0000000</title>
-<ellipse fill="none" stroke="red" cx="433.48" cy="-26.87" rx="98.99" ry="26.74"/>
-<text text-anchor="middle" x="433.48" y="-30.67" font-family="Times,serif" font-size="14.00">human life cycle stage</text>
-<text text-anchor="middle" x="433.48" y="-15.67" font-family="Times,serif" font-size="14.00">hsapdv:0000000</text>
+<ellipse fill="none" stroke="red" cx="436.48" cy="-26.87" rx="98.99" ry="26.74"/>
+<text text-anchor="middle" x="436.48" y="-30.67" font-family="Times,serif" font-size="14.00">human life cycle stage</text>
+<text text-anchor="middle" x="436.48" y="-15.67" font-family="Times,serif" font-size="14.00">hsapdv:0000000</text>
 </g>
 <!-- hsapdv:0000235&#45;&gt;hsapdv:0000000 -->
 <g id="edge2" class="edge">
 <title>hsapdv:0000235&#45;&gt;hsapdv:0000000</title>
-<path fill="none" stroke="black" d="M178.62,-96.46C230.74,-82.44 301.46,-63.4 355.18,-48.94"/>
-<polygon fill="black" stroke="black" points="356.26,-52.28 365.01,-46.3 354.44,-45.52 356.26,-52.28"/>
-</g>
-<!-- hsapdv:0000239 -->
-<g id="node4" class="node">
-<title>hsapdv:0000239</title>
-<ellipse fill="none" stroke="red" cx="341.48" cy="-116.61" rx="108.79" ry="26.74"/>
-<text text-anchor="middle" x="341.48" y="-120.41" font-family="Times,serif" font-size="14.00">fifth decade human stage</text>
-<text text-anchor="middle" x="341.48" y="-105.41" font-family="Times,serif" font-size="14.00">hsapdv:0000239</text>
-</g>
-<!-- hsapdv:0000239&#45;&gt;uberon:0000105 -->
-<g id="edge3" class="edge">
-<title>hsapdv:0000239&#45;&gt;uberon:0000105</title>
-<path fill="none" stroke="black" d="M314.58,-90.23C301.61,-77.99 286.15,-63.41 273.44,-51.42"/>
-<polygon fill="black" stroke="black" points="275.6,-48.65 265.93,-44.33 270.8,-53.74 275.6,-48.65"/>
-</g>
-<!-- hsapdv:0000239&#45;&gt;hsapdv:0000000 -->
-<g id="edge4" class="edge">
-<title>hsapdv:0000239&#45;&gt;hsapdv:0000000</title>
-<path fill="none" stroke="black" d="M368.09,-90.23C378,-80.78 389.37,-69.93 399.83,-59.96"/>
-<polygon fill="black" stroke="black" points="402.43,-62.32 407.25,-52.89 397.6,-57.26 402.43,-62.32"/>
+<path fill="none" stroke="black" d="M179.27,-96.46C231.96,-82.41 303.48,-63.34 357.73,-48.87"/>
+<polygon fill="black" stroke="black" points="358.89,-52.18 367.66,-46.22 357.09,-45.42 358.89,-52.18"/>
 </g>
 <!-- hsapdv:0000244 -->
-<g id="node5" class="node">
+<g id="node4" class="node">
 <title>hsapdv:0000244</title>
-<ellipse fill="none" stroke="red" cx="580.48" cy="-116.61" rx="111.95" ry="26.74"/>
-<text text-anchor="middle" x="580.48" y="-120.41" font-family="Times,serif" font-size="14.00">tenth decade human stage</text>
-<text text-anchor="middle" x="580.48" y="-105.41" font-family="Times,serif" font-size="14.00">hsapdv:0000244</text>
+<ellipse fill="none" stroke="red" cx="344.48" cy="-116.61" rx="111.95" ry="26.74"/>
+<text text-anchor="middle" x="344.48" y="-120.41" font-family="Times,serif" font-size="14.00">tenth decade human stage</text>
+<text text-anchor="middle" x="344.48" y="-105.41" font-family="Times,serif" font-size="14.00">hsapdv:0000244</text>
 </g>
 <!-- hsapdv:0000244&#45;&gt;uberon:0000105 -->
-<g id="edge5" class="edge">
+<g id="edge3" class="edge">
 <title>hsapdv:0000244&#45;&gt;uberon:0000105</title>
-<path fill="none" stroke="black" d="M499.9,-97.93C449.49,-86.41 383.36,-70.45 325.48,-53.74 316.23,-51.07 306.43,-47.98 297.05,-44.89"/>
-<polygon fill="black" stroke="black" points="298.04,-41.53 287.45,-41.69 295.82,-48.17 298.04,-41.53"/>
+<path fill="none" stroke="black" d="M317.58,-90.23C304.61,-77.99 289.15,-63.41 276.44,-51.42"/>
+<polygon fill="black" stroke="black" points="278.6,-48.65 268.93,-44.33 273.8,-53.74 278.6,-48.65"/>
 </g>
 <!-- hsapdv:0000244&#45;&gt;hsapdv:0000000 -->
-<g id="edge6" class="edge">
+<g id="edge4" class="edge">
 <title>hsapdv:0000244&#45;&gt;hsapdv:0000000</title>
-<path fill="none" stroke="black" d="M539.92,-91.4C521.95,-80.67 500.66,-67.97 481.86,-56.75"/>
-<polygon fill="black" stroke="black" points="483.52,-53.66 473.14,-51.54 479.94,-59.67 483.52,-53.66"/>
+<path fill="none" stroke="black" d="M371.09,-90.23C381,-80.78 392.37,-69.93 402.83,-59.96"/>
+<polygon fill="black" stroke="black" points="405.43,-62.32 410.25,-52.89 400.6,-57.26 405.43,-62.32"/>
+</g>
+<!-- hsapdv:0000239 -->
+<g id="node5" class="node">
+<title>hsapdv:0000239</title>
+<ellipse fill="none" stroke="red" cx="583.48" cy="-116.61" rx="108.79" ry="26.74"/>
+<text text-anchor="middle" x="583.48" y="-120.41" font-family="Times,serif" font-size="14.00">fifth decade human stage</text>
+<text text-anchor="middle" x="583.48" y="-105.41" font-family="Times,serif" font-size="14.00">hsapdv:0000239</text>
+</g>
+<!-- hsapdv:0000239&#45;&gt;uberon:0000105 -->
+<g id="edge5" class="edge">
+<title>hsapdv:0000239&#45;&gt;uberon:0000105</title>
+<path fill="none" stroke="black" d="M504.05,-98.19C453.5,-86.65 386.8,-70.58 328.48,-53.74 319.23,-51.07 309.43,-47.98 300.05,-44.89"/>
+<polygon fill="black" stroke="black" points="301.04,-41.53 290.45,-41.69 298.82,-48.17 301.04,-41.53"/>
+</g>
+<!-- hsapdv:0000239&#45;&gt;hsapdv:0000000 -->
+<g id="edge6" class="edge">
+<title>hsapdv:0000239&#45;&gt;hsapdv:0000000</title>
+<path fill="none" stroke="black" d="M543.31,-91.63C525.26,-80.86 503.8,-68.05 484.87,-56.75"/>
+<polygon fill="black" stroke="black" points="486.47,-53.63 476.09,-51.51 482.88,-59.64 486.47,-53.63"/>
 </g>
 </g>
 </svg>

@@ -5,152 +5,152 @@
  -->
 <!-- Pages: 1 -->
 <svg width="960pt" height="421pt"
- viewBox="0.00 0.00 959.70 420.70" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ viewBox="0.00 0.00 960.19 420.70" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 416.7)">
-<polygon fill="white" stroke="transparent" points="-4,4 -4,-416.7 955.7,-416.7 955.7,4 -4,4"/>
-<!-- po:0020061 -->
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-416.7 956.19,-416.7 956.19,4 -4,4"/>
+<!-- bfo:0000004 -->
 <g id="node1" class="node">
-<title>po:0020061</title>
-<ellipse fill="none" stroke="red" cx="57.28" cy="-385.83" rx="57.05" ry="26.74"/>
-<text text-anchor="middle" x="57.28" y="-389.63" font-family="Times,serif" font-size="14.00">coma</text>
-<text text-anchor="middle" x="57.28" y="-374.63" font-family="Times,serif" font-size="14.00">po:0020061</text>
+<title>bfo:0000004</title>
+<ellipse fill="none" stroke="black" cx="493.76" cy="-116.61" rx="101.23" ry="26.74"/>
+<text text-anchor="middle" x="493.76" y="-120.41" font-family="Times,serif" font-size="14.00">independent continuant</text>
+<text text-anchor="middle" x="493.76" y="-105.41" font-family="Times,serif" font-size="14.00">bfo:0000004</text>
+</g>
+<!-- bfo:0000002 -->
+<g id="node2" class="node">
+<title>bfo:0000002</title>
+<ellipse fill="none" stroke="black" cx="493.76" cy="-26.87" rx="60.62" ry="26.74"/>
+<text text-anchor="middle" x="493.76" y="-30.67" font-family="Times,serif" font-size="14.00">continuant</text>
+<text text-anchor="middle" x="493.76" y="-15.67" font-family="Times,serif" font-size="14.00">bfo:0000002</text>
+</g>
+<!-- bfo:0000004&#45;&gt;bfo:0000002 -->
+<g id="edge1" class="edge">
+<title>bfo:0000004&#45;&gt;bfo:0000002</title>
+<path fill="none" stroke="black" d="M493.76,-89.29C493.76,-81.32 493.76,-72.43 493.76,-63.94"/>
+<polygon fill="black" stroke="black" points="497.26,-63.87 493.76,-53.87 490.26,-63.87 497.26,-63.87"/>
 </g>
 <!-- caro:0000000 -->
-<g id="node2" class="node">
+<g id="node3" class="node">
 <title>caro:0000000</title>
-<ellipse fill="none" stroke="blue" cx="268.28" cy="-296.09" rx="78.48" ry="26.74"/>
-<text text-anchor="middle" x="268.28" y="-299.89" font-family="Times,serif" font-size="14.00">anatomical entity</text>
-<text text-anchor="middle" x="268.28" y="-284.89" font-family="Times,serif" font-size="14.00">caro:0000000</text>
-</g>
-<!-- po:0020061&#45;&gt;caro:0000000 -->
-<g id="edge1" class="edge">
-<title>po:0020061&#45;&gt;caro:0000000</title>
-<path fill="none" stroke="black" d="M99.21,-367.39C130.96,-354.19 174.95,-335.9 210.1,-321.28"/>
-<polygon fill="black" stroke="black" points="211.88,-324.33 219.77,-317.26 209.19,-317.87 211.88,-324.33"/>
+<ellipse fill="none" stroke="blue" cx="403.76" cy="-296.09" rx="78.48" ry="26.74"/>
+<text text-anchor="middle" x="403.76" y="-299.89" font-family="Times,serif" font-size="14.00">anatomical entity</text>
+<text text-anchor="middle" x="403.76" y="-284.89" font-family="Times,serif" font-size="14.00">caro:0000000</text>
 </g>
 <!-- caro:0030000 -->
-<g id="node6" class="node">
+<g id="node4" class="node">
 <title>caro:0030000</title>
-<ellipse fill="none" stroke="black" cx="278.28" cy="-206.35" rx="74.49" ry="26.74"/>
-<text text-anchor="middle" x="278.28" y="-210.15" font-family="Times,serif" font-size="14.00">biological entity</text>
-<text text-anchor="middle" x="278.28" y="-195.15" font-family="Times,serif" font-size="14.00">caro:0030000</text>
+<ellipse fill="none" stroke="black" cx="413.76" cy="-206.35" rx="74.49" ry="26.74"/>
+<text text-anchor="middle" x="413.76" y="-210.15" font-family="Times,serif" font-size="14.00">biological entity</text>
+<text text-anchor="middle" x="413.76" y="-195.15" font-family="Times,serif" font-size="14.00">caro:0030000</text>
 </g>
 <!-- caro:0000000&#45;&gt;caro:0030000 -->
-<g id="edge4" class="edge">
-<title>caro:0000000&#45;&gt;caro:0030000</title>
-<path fill="none" stroke="black" d="M271.28,-268.77C272.18,-260.8 273.2,-251.91 274.16,-243.42"/>
-<polygon fill="black" stroke="black" points="277.66,-243.69 275.31,-233.35 270.7,-242.89 277.66,-243.69"/>
-</g>
-<!-- bfo:0000015 -->
-<g id="node3" class="node">
-<title>bfo:0000015</title>
-<ellipse fill="none" stroke="blue" cx="810.28" cy="-296.09" rx="60.62" ry="26.74"/>
-<text text-anchor="middle" x="810.28" y="-299.89" font-family="Times,serif" font-size="14.00">process</text>
-<text text-anchor="middle" x="810.28" y="-284.89" font-family="Times,serif" font-size="14.00">bfo:0000015</text>
-</g>
-<!-- bfo:0000003 -->
-<g id="node4" class="node">
-<title>bfo:0000003</title>
-<ellipse fill="none" stroke="black" cx="810.28" cy="-206.35" rx="60.62" ry="26.74"/>
-<text text-anchor="middle" x="810.28" y="-210.15" font-family="Times,serif" font-size="14.00">occurrent</text>
-<text text-anchor="middle" x="810.28" y="-195.15" font-family="Times,serif" font-size="14.00">bfo:0000003</text>
-</g>
-<!-- bfo:0000015&#45;&gt;bfo:0000003 -->
 <g id="edge2" class="edge">
-<title>bfo:0000015&#45;&gt;bfo:0000003</title>
-<path fill="none" stroke="black" d="M810.28,-268.77C810.28,-260.8 810.28,-251.91 810.28,-243.42"/>
-<polygon fill="black" stroke="black" points="813.78,-243.35 810.28,-233.35 806.78,-243.35 813.78,-243.35"/>
-</g>
-<!-- po:0025282 -->
-<g id="node5" class="node">
-<title>po:0025282</title>
-<ellipse fill="none" stroke="red" cx="268.28" cy="-385.83" rx="135.53" ry="26.74"/>
-<text text-anchor="middle" x="268.28" y="-389.63" font-family="Times,serif" font-size="14.00">archegonium megagametophyte</text>
-<text text-anchor="middle" x="268.28" y="-374.63" font-family="Times,serif" font-size="14.00">po:0025282</text>
-</g>
-<!-- po:0025282&#45;&gt;caro:0000000 -->
-<g id="edge3" class="edge">
-<title>po:0025282&#45;&gt;caro:0000000</title>
-<path fill="none" stroke="black" d="M268.28,-358.51C268.28,-350.54 268.28,-341.65 268.28,-333.16"/>
-<polygon fill="black" stroke="black" points="271.78,-333.09 268.28,-323.09 264.78,-333.09 271.78,-333.09"/>
-</g>
-<!-- bfo:0000004 -->
-<g id="node12" class="node">
-<title>bfo:0000004</title>
-<ellipse fill="none" stroke="black" cx="358.28" cy="-116.61" rx="101.23" ry="26.74"/>
-<text text-anchor="middle" x="358.28" y="-120.41" font-family="Times,serif" font-size="14.00">independent continuant</text>
-<text text-anchor="middle" x="358.28" y="-105.41" font-family="Times,serif" font-size="14.00">bfo:0000004</text>
+<title>caro:0000000&#45;&gt;caro:0030000</title>
+<path fill="none" stroke="black" d="M406.76,-268.77C407.67,-260.8 408.69,-251.91 409.65,-243.42"/>
+<polygon fill="black" stroke="black" points="413.15,-243.69 410.8,-233.35 406.19,-242.89 413.15,-243.69"/>
 </g>
 <!-- caro:0030000&#45;&gt;bfo:0000004 -->
 <g id="edge9" class="edge">
 <title>caro:0030000&#45;&gt;bfo:0000004</title>
-<path fill="none" stroke="black" d="M300.99,-180.44C309.53,-171.08 319.37,-160.28 328.46,-150.31"/>
-<polygon fill="black" stroke="black" points="331.08,-152.63 335.23,-142.89 325.91,-147.92 331.08,-152.63"/>
+<path fill="none" stroke="black" d="M436.48,-180.44C445.02,-171.08 454.86,-160.28 463.95,-150.31"/>
+<polygon fill="black" stroke="black" points="466.57,-152.63 470.72,-142.89 461.4,-147.92 466.57,-152.63"/>
 </g>
-<!-- bfo:0000002 -->
+<!-- po:0025282 -->
+<g id="node5" class="node">
+<title>po:0025282</title>
+<ellipse fill="none" stroke="red" cx="135.76" cy="-385.83" rx="135.53" ry="26.74"/>
+<text text-anchor="middle" x="135.76" y="-389.63" font-family="Times,serif" font-size="14.00">archegonium megagametophyte</text>
+<text text-anchor="middle" x="135.76" y="-374.63" font-family="Times,serif" font-size="14.00">po:0025282</text>
+</g>
+<!-- po:0025282&#45;&gt;caro:0000000 -->
+<g id="edge3" class="edge">
+<title>po:0025282&#45;&gt;caro:0000000</title>
+<path fill="none" stroke="black" d="M204.09,-362.46C245.43,-348.93 297.87,-331.76 338.63,-318.42"/>
+<polygon fill="black" stroke="black" points="339.78,-321.72 348.19,-315.28 337.6,-315.07 339.78,-321.72"/>
+</g>
+<!-- po:0009012 -->
+<g id="node6" class="node">
+<title>po:0009012</title>
+<ellipse fill="none" stroke="red" cx="810.76" cy="-385.83" rx="141.34" ry="26.74"/>
+<text text-anchor="middle" x="810.76" y="-389.63" font-family="Times,serif" font-size="14.00">plant structure development stage</text>
+<text text-anchor="middle" x="810.76" y="-374.63" font-family="Times,serif" font-size="14.00">po:0009012</text>
+</g>
+<!-- bfo:0000015 -->
 <g id="node7" class="node">
-<title>bfo:0000002</title>
-<ellipse fill="none" stroke="black" cx="358.28" cy="-26.87" rx="60.62" ry="26.74"/>
-<text text-anchor="middle" x="358.28" y="-30.67" font-family="Times,serif" font-size="14.00">continuant</text>
-<text text-anchor="middle" x="358.28" y="-15.67" font-family="Times,serif" font-size="14.00">bfo:0000002</text>
+<title>bfo:0000015</title>
+<ellipse fill="none" stroke="blue" cx="810.76" cy="-296.09" rx="60.62" ry="26.74"/>
+<text text-anchor="middle" x="810.76" y="-299.89" font-family="Times,serif" font-size="14.00">process</text>
+<text text-anchor="middle" x="810.76" y="-284.89" font-family="Times,serif" font-size="14.00">bfo:0000015</text>
 </g>
-<!-- po:0025131 -->
+<!-- po:0009012&#45;&gt;bfo:0000015 -->
+<g id="edge4" class="edge">
+<title>po:0009012&#45;&gt;bfo:0000015</title>
+<path fill="none" stroke="black" d="M810.76,-358.51C810.76,-350.54 810.76,-341.65 810.76,-333.16"/>
+<polygon fill="black" stroke="black" points="814.26,-333.09 810.76,-323.09 807.26,-333.09 814.26,-333.09"/>
+</g>
+<!-- bfo:0000003 -->
+<g id="node9" class="node">
+<title>bfo:0000003</title>
+<ellipse fill="none" stroke="black" cx="810.76" cy="-206.35" rx="60.62" ry="26.74"/>
+<text text-anchor="middle" x="810.76" y="-210.15" font-family="Times,serif" font-size="14.00">occurrent</text>
+<text text-anchor="middle" x="810.76" y="-195.15" font-family="Times,serif" font-size="14.00">bfo:0000003</text>
+</g>
+<!-- bfo:0000015&#45;&gt;bfo:0000003 -->
+<g id="edge6" class="edge">
+<title>bfo:0000015&#45;&gt;bfo:0000003</title>
+<path fill="none" stroke="black" d="M810.76,-268.77C810.76,-260.8 810.76,-251.91 810.76,-243.42"/>
+<polygon fill="black" stroke="black" points="814.26,-243.35 810.76,-233.35 807.26,-243.35 814.26,-243.35"/>
+</g>
+<!-- po:0025240 -->
 <g id="node8" class="node">
-<title>po:0025131</title>
-<ellipse fill="none" stroke="red" cx="465.28" cy="-296.09" rx="100.32" ry="26.74"/>
-<text text-anchor="middle" x="465.28" y="-299.89" font-family="Times,serif" font-size="14.00">plant anatomical entity</text>
-<text text-anchor="middle" x="465.28" y="-284.89" font-family="Times,serif" font-size="14.00">po:0025131</text>
+<title>po:0025240</title>
+<ellipse fill="none" stroke="red" cx="403.76" cy="-385.83" rx="114.6" ry="26.74"/>
+<text text-anchor="middle" x="403.76" y="-389.63" font-family="Times,serif" font-size="14.00">second order inflorescence</text>
+<text text-anchor="middle" x="403.76" y="-374.63" font-family="Times,serif" font-size="14.00">po:0025240</text>
+</g>
+<!-- po:0025240&#45;&gt;caro:0000000 -->
+<g id="edge5" class="edge">
+<title>po:0025240&#45;&gt;caro:0000000</title>
+<path fill="none" stroke="black" d="M403.76,-358.51C403.76,-350.54 403.76,-341.65 403.76,-333.16"/>
+<polygon fill="black" stroke="black" points="407.26,-333.09 403.76,-323.09 400.26,-333.09 407.26,-333.09"/>
+</g>
+<!-- po:0020061 -->
+<g id="node10" class="node">
+<title>po:0020061</title>
+<ellipse fill="none" stroke="red" cx="593.76" cy="-385.83" rx="57.05" ry="26.74"/>
+<text text-anchor="middle" x="593.76" y="-389.63" font-family="Times,serif" font-size="14.00">coma</text>
+<text text-anchor="middle" x="593.76" y="-374.63" font-family="Times,serif" font-size="14.00">po:0020061</text>
+</g>
+<!-- po:0020061&#45;&gt;caro:0000000 -->
+<g id="edge7" class="edge">
+<title>po:0020061&#45;&gt;caro:0000000</title>
+<path fill="none" stroke="black" d="M553.93,-366.44C526.22,-353.64 488.93,-336.42 458.44,-322.34"/>
+<polygon fill="black" stroke="black" points="459.76,-319.09 449.21,-318.08 456.82,-325.45 459.76,-319.09"/>
 </g>
 <!-- bfo:0000040 -->
-<g id="node9" class="node">
+<g id="node11" class="node">
 <title>bfo:0000040</title>
-<ellipse fill="none" stroke="blue" cx="447.28" cy="-206.35" rx="67.76" ry="26.74"/>
-<text text-anchor="middle" x="447.28" y="-210.15" font-family="Times,serif" font-size="14.00">material entity</text>
-<text text-anchor="middle" x="447.28" y="-195.15" font-family="Times,serif" font-size="14.00">bfo:0000040</text>
-</g>
-<!-- po:0025131&#45;&gt;bfo:0000040 -->
-<g id="edge5" class="edge">
-<title>po:0025131&#45;&gt;bfo:0000040</title>
-<path fill="none" stroke="black" d="M459.97,-269.24C458.3,-261.1 456.43,-251.96 454.64,-243.26"/>
-<polygon fill="black" stroke="black" points="458.04,-242.41 452.6,-233.32 451.18,-243.82 458.04,-242.41"/>
+<ellipse fill="none" stroke="blue" cx="582.76" cy="-206.35" rx="67.76" ry="26.74"/>
+<text text-anchor="middle" x="582.76" y="-210.15" font-family="Times,serif" font-size="14.00">material entity</text>
+<text text-anchor="middle" x="582.76" y="-195.15" font-family="Times,serif" font-size="14.00">bfo:0000040</text>
 </g>
 <!-- bfo:0000040&#45;&gt;bfo:0000004 -->
 <g id="edge8" class="edge">
 <title>bfo:0000040&#45;&gt;bfo:0000004</title>
-<path fill="none" stroke="black" d="M422.48,-180.91C412.8,-171.36 401.55,-160.28 391.2,-150.07"/>
-<polygon fill="black" stroke="black" points="393.44,-147.36 383.86,-142.84 388.53,-152.35 393.44,-147.36"/>
+<path fill="none" stroke="black" d="M557.97,-180.91C548.29,-171.36 537.04,-160.28 526.69,-150.07"/>
+<polygon fill="black" stroke="black" points="528.93,-147.36 519.35,-142.84 524.02,-152.35 528.93,-147.36"/>
 </g>
-<!-- po:0025240 -->
-<g id="node10" class="node">
-<title>po:0025240</title>
-<ellipse fill="none" stroke="red" cx="536.28" cy="-385.83" rx="114.6" ry="26.74"/>
-<text text-anchor="middle" x="536.28" y="-389.63" font-family="Times,serif" font-size="14.00">second order inflorescence</text>
-<text text-anchor="middle" x="536.28" y="-374.63" font-family="Times,serif" font-size="14.00">po:0025240</text>
+<!-- po:0025131 -->
+<g id="node12" class="node">
+<title>po:0025131</title>
+<ellipse fill="none" stroke="red" cx="600.76" cy="-296.09" rx="100.32" ry="26.74"/>
+<text text-anchor="middle" x="600.76" y="-299.89" font-family="Times,serif" font-size="14.00">plant anatomical entity</text>
+<text text-anchor="middle" x="600.76" y="-284.89" font-family="Times,serif" font-size="14.00">po:0025131</text>
 </g>
-<!-- po:0025240&#45;&gt;caro:0000000 -->
-<g id="edge6" class="edge">
-<title>po:0025240&#45;&gt;caro:0000000</title>
-<path fill="none" stroke="black" d="M471.4,-363.59C429.58,-349.9 375.39,-332.16 333.5,-318.44"/>
-<polygon fill="black" stroke="black" points="334.54,-315.1 323.94,-315.32 332.36,-321.75 334.54,-315.1"/>
-</g>
-<!-- po:0009012 -->
-<g id="node11" class="node">
-<title>po:0009012</title>
-<ellipse fill="none" stroke="red" cx="810.28" cy="-385.83" rx="141.34" ry="26.74"/>
-<text text-anchor="middle" x="810.28" y="-389.63" font-family="Times,serif" font-size="14.00">plant structure development stage</text>
-<text text-anchor="middle" x="810.28" y="-374.63" font-family="Times,serif" font-size="14.00">po:0009012</text>
-</g>
-<!-- po:0009012&#45;&gt;bfo:0000015 -->
-<g id="edge7" class="edge">
-<title>po:0009012&#45;&gt;bfo:0000015</title>
-<path fill="none" stroke="black" d="M810.28,-358.51C810.28,-350.54 810.28,-341.65 810.28,-333.16"/>
-<polygon fill="black" stroke="black" points="813.78,-333.09 810.28,-323.09 806.78,-333.09 813.78,-333.09"/>
-</g>
-<!-- bfo:0000004&#45;&gt;bfo:0000002 -->
+<!-- po:0025131&#45;&gt;bfo:0000040 -->
 <g id="edge10" class="edge">
-<title>bfo:0000004&#45;&gt;bfo:0000002</title>
-<path fill="none" stroke="black" d="M358.28,-89.29C358.28,-81.32 358.28,-72.43 358.28,-63.94"/>
-<polygon fill="black" stroke="black" points="361.78,-63.87 358.28,-53.87 354.78,-63.87 361.78,-63.87"/>
+<title>po:0025131&#45;&gt;bfo:0000040</title>
+<path fill="none" stroke="black" d="M595.46,-269.24C593.79,-261.1 591.92,-251.96 590.13,-243.26"/>
+<polygon fill="black" stroke="black" points="593.53,-242.41 588.09,-233.32 586.67,-243.82 593.53,-242.41"/>
 </g>
 </g>
 </svg>

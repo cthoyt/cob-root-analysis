@@ -27,17 +27,19 @@ MODULE = pystow.module("bioregistry", "analysis", "roots")
 
 edge_types = {
     "rdfs:subClassOf",
-    "bfo:0000050",
+    "bfo:0000050",  # part of
     "ro:0002202",  # derives from/develops from
+    "ro:0001018",  # contained in
 }
 edge_backwards = {
-    "bfo:0000051",
+    "bfo:0000051",  # has part
 }
 COLORS = {
     "rdfs:subClassOf": "black",
     "bfo:0000050": "blue",
     "bfo:0000051": "blue",
     "ro:0002202": "purple",
+    "ro:0001018": "purple",
 }
 DOMAINS = {
     "anatomy and development",
@@ -161,13 +163,16 @@ def analyze(prefix: str):
 
 @click.command()
 def main():
+    domains = {"anatomy and development", "phenotype"}
     df = pd.read_csv(ERRORS_PATH, sep="\t")
-    prefixes = sorted(df[df.message == NO_ROOTS_MSG].prefix)
+    resources = [
+        bioregistry.get_resource(prefix)
+        for prefix in sorted(df[df.message == NO_ROOTS_MSG].prefix)
+    ]
     prefixes = [
-        prefix
-        for prefix in prefixes
-        if bioregistry.get_resource(prefix).obofoundry["domain"]
-        in {"anatomy and development", "phenotype"}
+        resource.prefix
+        for resource in resources
+        if resource.obofoundry["domain"] in domains and not resource.is_deprecated()
     ]
     it = tqdm(prefixes, desc="suggesting roots", unit="prefix")
     rows = []

@@ -8,19 +8,19 @@
  viewBox="0.00 0.00 341.68 61.74" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 57.74)">
 <polygon fill="white" stroke="transparent" points="-4,4 -4,-57.74 337.68,-57.74 337.68,4 -4,4"/>
-<!-- oarcs:0000250 -->
-<g id="node1" class="node">
-<title>oarcs:0000250</title>
-<ellipse fill="none" stroke="red" cx="79.2" cy="-26.87" rx="79.39" ry="26.74"/>
-<text text-anchor="middle" x="79.2" y="-30.67" font-family="Times,serif" font-size="14.00">anatomical group</text>
-<text text-anchor="middle" x="79.2" y="-15.67" font-family="Times,serif" font-size="14.00">oarcs:0000250</text>
-</g>
 <!-- oarcs:0000226 -->
-<g id="node2" class="node">
+<g id="node1" class="node">
 <title>oarcs:0000226</title>
-<ellipse fill="none" stroke="red" cx="255.2" cy="-26.87" rx="78.48" ry="26.74"/>
-<text text-anchor="middle" x="255.2" y="-30.67" font-family="Times,serif" font-size="14.00">anatomical entity</text>
-<text text-anchor="middle" x="255.2" y="-15.67" font-family="Times,serif" font-size="14.00">oarcs:0000226</text>
+<ellipse fill="none" stroke="red" cx="78.49" cy="-26.87" rx="78.48" ry="26.74"/>
+<text text-anchor="middle" x="78.49" y="-30.67" font-family="Times,serif" font-size="14.00">anatomical entity</text>
+<text text-anchor="middle" x="78.49" y="-15.67" font-family="Times,serif" font-size="14.00">oarcs:0000226</text>
+</g>
+<!-- oarcs:0000250 -->
+<g id="node2" class="node">
+<title>oarcs:0000250</title>
+<ellipse fill="none" stroke="red" cx="254.49" cy="-26.87" rx="79.39" ry="26.74"/>
+<text text-anchor="middle" x="254.49" y="-30.67" font-family="Times,serif" font-size="14.00">anatomical group</text>
+<text text-anchor="middle" x="254.49" y="-15.67" font-family="Times,serif" font-size="14.00">oarcs:0000250</text>
 </g>
 </g>
 </svg>
