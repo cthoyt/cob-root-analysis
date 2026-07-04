@@ -1,17 +1,47 @@
 {
-  "ancestors": [],
-  "children": [],
   "parents": [],
   "roots": [
-    "bto:0000000",
-    "bto:0000590",
-    "bto:0001448",
-    "bto:0002076",
-    "bto:0003120",
-    "bto:0005035",
-    "bto:0005122",
-    "bto:0005313",
-    "bto:0005830",
-    "bto:0005835"
-  ]
+    {
+      "prefix": "BTO",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "BTO",
+      "identifier": "0000590"
+    },
+    {
+      "prefix": "BTO",
+      "identifier": "0001448"
+    },
+    {
+      "prefix": "BTO",
+      "identifier": "0002076"
+    },
+    {
+      "prefix": "BTO",
+      "identifier": "0003120"
+    },
+    {
+      "prefix": "BTO",
+      "identifier": "0005035"
+    },
+    {
+      "prefix": "BTO",
+      "identifier": "0005122"
+    },
+    {
+      "prefix": "BTO",
+      "identifier": "0005313"
+    },
+    {
+      "prefix": "BTO",
+      "identifier": "0005830"
+    },
+    {
+      "prefix": "BTO",
+      "identifier": "0005835"
+    }
+  ],
+  "ancestors": [],
+  "children": []
 }

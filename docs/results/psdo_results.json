@@ -1,0 +1,149 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000145"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000081"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000088"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000178"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000300"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000310"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000314"
+    },
+    {
+      "prefix": "oboInOwl",
+      "identifier": "ObsoleteClass"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "PSDO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "PSDO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "PSDO",
+      "identifier": "0000006"
+    },
+    {
+      "prefix": "PSDO",
+      "identifier": "0000008"
+    },
+    {
+      "prefix": "PSDO",
+      "identifier": "0000009"
+    },
+    {
+      "prefix": "PSDO",
+      "identifier": "0000010"
+    },
+    {
+      "prefix": "PSDO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "PSDO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "PSDO",
+      "identifier": "0000028"
+    },
+    {
+      "prefix": "PSDO",
+      "identifier": "0000029"
+    },
+    {
+      "prefix": "PSDO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "PSDO",
+      "identifier": "0000038"
+    },
+    {
+      "prefix": "PSDO",
+      "identifier": "0000061"
+    },
+    {
+      "prefix": "PSDO",
+      "identifier": "0000062"
+    },
+    {
+      "prefix": "PSDO",
+      "identifier": "0000079"
+    },
+    {
+      "prefix": "PSDO",
+      "identifier": "0000080"
+    },
+    {
+      "prefix": "PSDO",
+      "identifier": "0000098"
+    },
+    {
+      "prefix": "PSDO",
+      "identifier": "0000107"
+    },
+    {
+      "prefix": "PSDO",
+      "identifier": "0000110"
+    },
+    {
+      "prefix": "PSDO",
+      "identifier": "0000114"
+    },
+    {
+      "prefix": "PSDO",
+      "identifier": "0000130"
+    }
+  ]
+}

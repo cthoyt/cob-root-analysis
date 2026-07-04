@@ -8,29 +8,83 @@ agro	OBI:0100026	organism
 agro	PATO:0000001	quality
 agro	PO:0025131	plant anatomical entity
 agro	UO:0000000	unit
+aism	AISM:0000174	insect region of cuticle
+aism	PATO:0000001	quality
+aism	UBERON:0001062	anatomical entity
+bspo	CARO:0000000	anatomical entity
 cl	CL:0000000	cell
+colao	AISM:0000174	region of cuticle
+colao	PATO:0000001	quality
+colao	UBERON:0001062	anatomical entity
 doid	DOID:4	disease
 dpo	FBcv:0000347	phenotypic class
 ecto	ExO:0000002	exposure event
+emapa	EMAPA:0	Anatomical structure
+emapa	TS:0	Theiler stage
+fbbi	FBbi:root:00000000	method involved in biological imaging
 fbbt	FBbt:10000000	anatomical entity
 fbcv	FBcv:0000000	FlyBase CV
 fbdv	FBdv:00000000	Drosophila life
 fbdv	FBdv:00005259	developmental stage
 fbdv	FBdv:00007013	age
 fbdv	FBdv:00007024	biological process
+flopo	FLOPO:0000000	flora phenotype
 fypo	FYPO:0000001	phenotype
+go	GO:0003674	molecular_function
+go	GO:0005575	cellular_component
+go	GO:0008150	biological_process
 hancestro	HANCESTRO:0004	ancestry category
 hancestro	HANCESTRO:0304	ancestry status
+hancestro	HANCESTRO:0601	ethnicity category
+hancestro	HANCESTRO:0602	geography-based population category
+hancestro	HANCESTRO:0632	reference population
 hp	HP:0000001	All
-mondo	MONDO:0000001	disease or disorder
+hsapdv	HsapDv:0000000	life cycle stage
+lepao	AISM:0000174	region of cuticle
+lepao	LEPAO:0000006	anatomical entity
+lepao	PATO:0000001	quality
+maxo	MAXO:0000001	medical action
+mmusdv	MmusDv:0000090	19-month-old stage
+mondo	MONDO:0000001	disease
 mondo	MONDO:0021125	disease characteristic
+mondo	MONDO:0021178	injury
 mondo	MONDO:0042489	disease susceptibility
 mp	MP:0000001	mammalian phenotype
+oba	OBA:0000001	biological attribute
 pato	PATO:0000001	quality
-pr	PR:000000001	protein
-pr	PR:000050098	artificial protein
+prefer	BFO:0000019	quality
+prefer	BFO:0000023	role
+prefer	BFO:0000040	material entity
+prefer	IAO:0000003	measurement unit label
+prefer	PREFER:0000008	cultivation condition
+prefer	PREFER:0000015	operational parameter
+prefer	PREFER:9000000	precision fermentation process control variable
+prefer	PREFER:9000001	precision fermentation process measurement variable
+prefer	PREFER:9000002	precision fermentation process calculated variable
+prefer	PREFER:9000003	precision fermentation process
+so	SO:0000110	sequence_feature
+so	SO:0000400	sequence_attribute
+so	SO:0001060	sequence_variant
+so	SO:0001260	sequence_collection
+symp	SYMP:0000462	symptom
+taxrank	TAXRANK:0000000	taxonomic_rank
+taxrank	TAXRANK:9000000	pseudorank
+trans	TRANS:0000000	transmission process
 uberon	UBERON:0000104	life cycle
+uberon	UBERON:0000105	life cycle stage
 uberon	UBERON:0001062	anatomical entity
+uberon	UBERON:0035943	life cycle temporal boundary
+upheno	UPHENO:0001001	phenotype
+vbo	VBO:0300000	breed status
+vbo	VBO:0400000	Vertebrate breed
 wbbt	WBbt:0000100	C. elegans anatomical entity
 wbls	WBls:0000075	worm life stage
 wbphenotype	WBPhenotype:0000886	nematode phenotype
+xao	XAO:0000000	
+xao	XAO:1000000	
+xpo	XPO:0000000	Xenopus phenotype
+zfa	ZFA:0100000	zebrafish anatomical entity
+zfa	ZFS:0100000	zebrafish stage
+zfs	ZFA:0100000	zebrafish anatomical entity
+zfs	ZFS:0100000	zebrafish stage
+zp	ZP:0000000	Zebrafish Phenotype

@@ -1,9 +1,15 @@
 {
-  "ancestors": [],
-  "children": [],
   "parents": [],
   "roots": [
-    "uo:0000000",
-    "uo:0000046"
-  ]
+    {
+      "prefix": "UO",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "UO",
+      "identifier": "0000046"
+    }
+  ],
+  "ancestors": [],
+  "children": []
 }

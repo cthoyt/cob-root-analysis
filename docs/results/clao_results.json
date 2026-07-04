@@ -1,8 +1,162 @@
 {
-  "ancestors": [],
-  "children": [],
-  "parents": [],
+  "parents": [
+    {
+      "prefix": "HAO",
+      "identifier": "0000183"
+    },
+    {
+      "prefix": "obo",
+      "identifier": "http://purl.obolibrary.org/obo/AISM_0000008"
+    },
+    {
+      "prefix": "obo",
+      "identifier": "http://purl.obolibrary.org/obo/BFO_0000004"
+    },
+    {
+      "prefix": "obo",
+      "identifier": "http://purl.obolibrary.org/obo/BSPO_0000070"
+    },
+    {
+      "prefix": "obo",
+      "identifier": "http://purl.obolibrary.org/obo/CHEBI_24431"
+    },
+    {
+      "prefix": "obo",
+      "identifier": "http://purl.obolibrary.org/obo/UBERON_0000105"
+    }
+  ],
   "roots": [
-    "clao:0001571"
+    {
+      "prefix": "CLAO",
+      "identifier": "0001571"
+    }
+  ],
+  "ancestors": [
+    {
+      "prefix": "CLAO",
+      "identifier": "0000958"
+    },
+    {
+      "prefix": "CLAO",
+      "identifier": "0000960"
+    },
+    {
+      "prefix": "CLAO",
+      "identifier": "0001117"
+    },
+    {
+      "prefix": "CLAO",
+      "identifier": "0001119"
+    },
+    {
+      "prefix": "CLAO",
+      "identifier": "0001132"
+    },
+    {
+      "prefix": "CLAO",
+      "identifier": "0001137"
+    },
+    {
+      "prefix": "CLAO",
+      "identifier": "0001144"
+    },
+    {
+      "prefix": "CLAO",
+      "identifier": "0001148"
+    },
+    {
+      "prefix": "CLAO",
+      "identifier": "0001160"
+    },
+    {
+      "prefix": "CLAO",
+      "identifier": "0001219"
+    },
+    {
+      "prefix": "CLAO",
+      "identifier": "0001221"
+    },
+    {
+      "prefix": "CLAO",
+      "identifier": "0001222"
+    },
+    {
+      "prefix": "CLAO",
+      "identifier": "0001452"
+    },
+    {
+      "prefix": "CLAO",
+      "identifier": "0001498"
+    },
+    {
+      "prefix": "CLAO",
+      "identifier": "0001510"
+    },
+    {
+      "prefix": "CLAO",
+      "identifier": "0001568"
+    },
+    {
+      "prefix": "CLAO",
+      "identifier": "0001570"
+    },
+    {
+      "prefix": "CLAO",
+      "identifier": "0001571"
+    },
+    {
+      "prefix": "obo",
+      "identifier": "http://purl.obolibrary.org/obo/BFO_0000004"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "CLAO",
+      "identifier": "0000127"
+    },
+    {
+      "prefix": "CLAO",
+      "identifier": "0000128"
+    },
+    {
+      "prefix": "CLAO",
+      "identifier": "0000129"
+    },
+    {
+      "prefix": "CLAO",
+      "identifier": "0000957"
+    },
+    {
+      "prefix": "CLAO",
+      "identifier": "0001065"
+    },
+    {
+      "prefix": "CLAO",
+      "identifier": "0001117"
+    },
+    {
+      "prefix": "CLAO",
+      "identifier": "0001121"
+    },
+    {
+      "prefix": "CLAO",
+      "identifier": "0001227"
+    },
+    {
+      "prefix": "CLAO",
+      "identifier": "0001253"
+    },
+    {
+      "prefix": "CLAO",
+      "identifier": "0001499"
+    },
+    {
+      "prefix": "CLAO",
+      "identifier": "0001500"
+    },
+    {
+      "prefix": "CLAO",
+      "identifier": "0001501"
+    }
   ]
 }

@@ -1,0 +1,1066 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "133331"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0002209"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0003015"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0003016"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000436"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000495"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000504"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000586"
+    },
+    {
+      "prefix": "MF",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "MF",
+      "identifier": "0000024"
+    },
+    {
+      "prefix": "MF",
+      "identifier": "0000038"
+    },
+    {
+      "prefix": "MF",
+      "identifier": "0000055"
+    },
+    {
+      "prefix": "MF",
+      "identifier": "0000056"
+    },
+    {
+      "prefix": "NBO",
+      "identifier": "0000007"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "9606"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000047"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000093"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000245"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000319"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000444"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000652"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000045"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000057"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000060"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000061"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000063"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000065"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000085"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000097"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000099"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000102"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001044"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001091"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001751"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001752"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001758"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001828"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0003677"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0003729"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0007774"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0013164"
+    },
+    {
+      "prefix": "oboInOwl",
+      "identifier": "ObsoleteClass"
+    }
+  ],
+  "roots": [
+    {
+      "prefix": "OHD",
+      "identifier": "0000010"
+    }
+  ],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23367"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24431"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24835"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24836"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25806"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33304"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33579"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33675"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36357"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "37577"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000428"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000254"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001110"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0003008"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0003013"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0006950"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0006952"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0007610"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0008150"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0032501"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0050896"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000586"
+    },
+    {
+      "prefix": "MF",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "MF",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000047"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000094"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0100026"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000045"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000060"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000063"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000096"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000097"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000108"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000010"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000206"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000414"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000418"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010070"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010072"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010117"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010289"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "RO",
+      "identifier": "0002577"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000042"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000060"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000061"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000062"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000063"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000064"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000165"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000211"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000344"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000465"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000479"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000481"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001062"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001091"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001758"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0002365"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0002384"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0002530"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0003408"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0003672"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0003729"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0003913"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0004120"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0004121"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0004755"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0004756"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0004765"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0004921"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0004923"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0010000"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0010047"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0010313"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0010314"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0010365"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0013522"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0013765"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0034925"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "4000013"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "OHD",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000005"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000007"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000009"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000012"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000013"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000029"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000035"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000037"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000038"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000056"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000058"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000100"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000101"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000179"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000189"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000190"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000191"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000197"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000206"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000207"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000208"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000211"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000212"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000214"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000231"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000233"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000258"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000267"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000268"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000269"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000274"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000282"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000284"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000301"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000307"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000308"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000314"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000349"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000364"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000365"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000366"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000404"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000406"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000414"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000415"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000418"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000420"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000425"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000442"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000443"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000451"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0000482"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0001076"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0001077"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0001079"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0001080"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0001081"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0002000"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0005001"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0005005"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0008000"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0008002"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0008005"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0008011"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0008016"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0008025"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0008026"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0008033"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0008036"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0008037"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0008038"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0008039"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0008040"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0008049"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0008051"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0008052"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010000"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010001"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010003"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010004"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010009"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010031"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010034"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010062"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010063"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010065"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010096"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010097"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010115"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010116"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010117"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010140"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010141"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010148"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010165"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010172"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010183"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010184"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010187"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010196"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010202"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010208"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010248"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010251"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010252"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010266"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010289"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010290"
+    },
+    {
+      "prefix": "OHD",
+      "identifier": "0010309"
+    }
+  ]
+}

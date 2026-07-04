@@ -1,0 +1,201 @@
+{
+  "parents": [
+    {
+      "prefix": "ECO",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "ECO",
+      "identifier": "0000006"
+    },
+    {
+      "prefix": "ECO",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0042611"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "1110037"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "1110128"
+    },
+    {
+      "prefix": "PR",
+      "identifier": "000000001"
+    },
+    {
+      "prefix": "PR",
+      "identifier": "000004580"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0000704"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0001024"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "ECO",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "ECO",
+      "identifier": "0000204"
+    },
+    {
+      "prefix": "ECO",
+      "identifier": "0006151"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0032991"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0003128"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "1110128"
+    },
+    {
+      "prefix": "PR",
+      "identifier": "000000001"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "MRO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "MRO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "MRO",
+      "identifier": "0000005"
+    },
+    {
+      "prefix": "MRO",
+      "identifier": "0000006"
+    },
+    {
+      "prefix": "MRO",
+      "identifier": "0000008"
+    },
+    {
+      "prefix": "MRO",
+      "identifier": "0000009"
+    },
+    {
+      "prefix": "MRO",
+      "identifier": "0000010"
+    },
+    {
+      "prefix": "MRO",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "MRO",
+      "identifier": "0000012"
+    },
+    {
+      "prefix": "MRO",
+      "identifier": "0000035"
+    },
+    {
+      "prefix": "MRO",
+      "identifier": "0000086"
+    },
+    {
+      "prefix": "MRO",
+      "identifier": "0000775"
+    },
+    {
+      "prefix": "MRO",
+      "identifier": "0000776"
+    },
+    {
+      "prefix": "MRO",
+      "identifier": "0000903"
+    },
+    {
+      "prefix": "MRO",
+      "identifier": "0001355"
+    },
+    {
+      "prefix": "MRO",
+      "identifier": "0001356"
+    },
+    {
+      "prefix": "MRO",
+      "identifier": "0001464"
+    },
+    {
+      "prefix": "MRO",
+      "identifier": "0001724"
+    },
+    {
+      "prefix": "MRO",
+      "identifier": "0001725"
+    },
+    {
+      "prefix": "MRO",
+      "identifier": "0001726"
+    },
+    {
+      "prefix": "MRO",
+      "identifier": "0001727"
+    },
+    {
+      "prefix": "MRO",
+      "identifier": "0001728"
+    },
+    {
+      "prefix": "MRO",
+      "identifier": "0036981"
+    },
+    {
+      "prefix": "MRO",
+      "identifier": "0037049"
+    },
+    {
+      "prefix": "MRO",
+      "identifier": "0037052"
+    },
+    {
+      "prefix": "MRO",
+      "identifier": "0046251"
+    }
+  ]
+}

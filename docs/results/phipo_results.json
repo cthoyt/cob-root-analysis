@@ -1,8 +1,11 @@
 {
-  "ancestors": [],
-  "children": [],
   "parents": [],
   "roots": [
-    "phipo:0000505"
-  ]
+    {
+      "prefix": "PHIPO",
+      "identifier": "0000505"
+    }
+  ],
+  "ancestors": [],
+  "children": []
 }

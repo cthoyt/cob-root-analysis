@@ -1,0 +1,341 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000022"
+    },
+    {
+      "prefix": "DRON",
+      "identifier": "00000005"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000428"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0008150"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000109"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "2"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "9606"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "1110021"
+    },
+    {
+      "prefix": "OGG",
+      "identifier": "0000000001"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001236"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001241"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "UPHENO",
+      "identifier": "0001002"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000022"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000428"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000254"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001110"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0008150"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "117571"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "2759"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "314146"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "32523"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "32524"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "33154"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "33213"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "40674"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "7742"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "1110122"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000460"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001241"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0002003"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "RO",
+      "identifier": "0002577"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000465"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001062"
+    },
+    {
+      "prefix": "UPHENO",
+      "identifier": "0001001"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "OHMI",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000028"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000032"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000035"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000046"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000052"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000460"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000461"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000462"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000463"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000464"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000465"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000466"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000468"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000470"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000471"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000472"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000473"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000474"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000485"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000490"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000664"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000665"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000666"
+    },
+    {
+      "prefix": "OHMI",
+      "identifier": "0000671"
+    }
+  ]
+}

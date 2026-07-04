@@ -1,0 +1,437 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33696"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000181"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "RO",
+      "identifier": "0002532"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0000105"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0000110"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0000340"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0000341"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0000667"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0000704"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0000804"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0000830"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0000902"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0001026"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0001059"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0001218"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0005836"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000105"
+    },
+    {
+      "prefix": "UPHENO",
+      "identifier": "0001001"
+    },
+    {
+      "prefix": "oban",
+      "identifier": "association"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23367"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33839"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000113"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000351"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000481"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000512"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000614"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000659"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000660"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000666"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000701"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000897"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000904"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0008150"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "RO",
+      "identifier": "0002532"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0000105"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0000110"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0000667"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0000704"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0000830"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0001026"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0001059"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "GENO",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000047"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000054"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000057"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000092"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000093"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000108"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000111"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000113"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000138"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000141"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000160"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000343"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000346"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000351"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000481"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000482"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000492"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000502"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000533"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000536"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000575"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000614"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000616"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000628"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000629"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000637"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000642"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000666"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000667"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000684"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000688"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000701"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000713"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000788"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000815"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000833"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000856"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000861"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000874"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000897"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000904"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000907"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000914"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000921"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000965"
+    }
+  ]
+}

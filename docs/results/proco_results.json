@@ -1,0 +1,681 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000008"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000035"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000144"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24431"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "51086"
+    },
+    {
+      "prefix": "CHMO",
+      "identifier": "0000993"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000005"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000007"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000032"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000102"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000104"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000109"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000310"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000314"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000578"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000590"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000066"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000051"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000965"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0002182"
+    },
+    {
+      "prefix": "SBO",
+      "identifier": "0000009"
+    },
+    {
+      "prefix": "afo",
+      "identifier": "0000250"
+    },
+    {
+      "prefix": "afo",
+      "identifier": "0000354"
+    },
+    {
+      "prefix": "afo",
+      "identifier": "0000364"
+    },
+    {
+      "prefix": "afo",
+      "identifier": "0000407"
+    },
+    {
+      "prefix": "afo",
+      "identifier": "0000992"
+    },
+    {
+      "prefix": "afo",
+      "identifier": "0001128"
+    },
+    {
+      "prefix": "afo",
+      "identifier": "0002168"
+    },
+    {
+      "prefix": "afo",
+      "identifier": "material#AFM_0001034"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "CHMO",
+      "identifier": "0000993"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000104"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000109"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000300"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000310"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0020000"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000051"
+    },
+    {
+      "prefix": "SBO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "afo",
+      "identifier": "0000344"
+    },
+    {
+      "prefix": "afo",
+      "identifier": "0000354"
+    },
+    {
+      "prefix": "afo",
+      "identifier": "material#AFM_0001038"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "PROCO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000005"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000006"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000010"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000012"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000013"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000014"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000018"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000025"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000029"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000046"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000047"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000051"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000054"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000056"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000057"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000058"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000059"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000060"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000061"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000062"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000064"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000066"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000067"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000068"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000069"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000072"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000074"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000093"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000094"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000095"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000103"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000106"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000107"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000109"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000110"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000111"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000120"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000136"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000137"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000138"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000141"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000142"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000149"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000150"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000151"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000152"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000169"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000170"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000171"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000172"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000173"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000174"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000178"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000187"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000188"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000191"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000194"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000196"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000197"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000198"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000199"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000200"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000201"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000202"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000203"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000204"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000205"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000206"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000208"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000210"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000211"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000212"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000214"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000216"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000217"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000232"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000236"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000238"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000270"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000274"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000276"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000277"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000281"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000282"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000284"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000286"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000288"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000289"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000290"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000291"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000294"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000295"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000299"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000301"
+    },
+    {
+      "prefix": "PROCO",
+      "identifier": "0000303"
+    }
+  ]
+}

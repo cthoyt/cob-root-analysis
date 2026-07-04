@@ -1,0 +1,88 @@
+{
+  "parents": [
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000311"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000315"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000317"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000318"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000319"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000326"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000620"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000644"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000070"
+    }
+  ],
+  "roots": [],
+  "ancestors": [],
+  "children": [
+    {
+      "prefix": "ONE",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "ONE",
+      "identifier": "0001001"
+    },
+    {
+      "prefix": "ONE",
+      "identifier": "0002001"
+    },
+    {
+      "prefix": "ONE",
+      "identifier": "0002003"
+    },
+    {
+      "prefix": "ONE",
+      "identifier": "0002004"
+    },
+    {
+      "prefix": "ONE",
+      "identifier": "0002005"
+    },
+    {
+      "prefix": "ONE",
+      "identifier": "0002006"
+    },
+    {
+      "prefix": "ONE",
+      "identifier": "0002008"
+    },
+    {
+      "prefix": "ONE",
+      "identifier": "0002015"
+    },
+    {
+      "prefix": "ONE",
+      "identifier": "0003001"
+    }
+  ]
+}

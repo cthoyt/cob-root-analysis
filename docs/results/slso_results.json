@@ -1,0 +1,593 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000254"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000813"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001813"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "02500000"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "03000010"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "03501288"
+    },
+    {
+      "prefix": "ExO",
+      "identifier": "0000102"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000100"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000101"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000310"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "9606"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000066"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000245"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000968"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001479"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0100026"
+    },
+    {
+      "prefix": "RBO",
+      "identifier": "00000011"
+    },
+    {
+      "prefix": "RBO",
+      "identifier": "00000016"
+    },
+    {
+      "prefix": "SWO",
+      "identifier": "9000052"
+    },
+    {
+      "prefix": "T4FS",
+      "identifier": "0000347"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "commoncoreontology",
+      "identifier": "00000300"
+    },
+    {
+      "prefix": "commoncoreontology",
+      "identifier": "00000556"
+    },
+    {
+      "prefix": "commoncoreontology",
+      "identifier": "00000756"
+    },
+    {
+      "prefix": "commoncoreontology",
+      "identifier": "00001017"
+    },
+    {
+      "prefix": "commoncoreontology",
+      "identifier": "00001180"
+    },
+    {
+      "prefix": "foaf",
+      "identifier": "Agent"
+    },
+    {
+      "prefix": "prov",
+      "identifier": "Activity"
+    },
+    {
+      "prefix": "sosa",
+      "identifier": "Platform"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000022"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000026"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000035"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000082"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0001300"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000070"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00003074"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000254"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000785"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000799"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000804"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000813"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000983"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000996"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001436"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001437"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001444"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001445"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001813"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "02500000"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "02500027"
+    },
+    {
+      "prefix": "ExO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "ExO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "ExO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "ExO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "ExO",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "ExO",
+      "identifier": "0000038"
+    },
+    {
+      "prefix": "ExO",
+      "identifier": "0000042"
+    },
+    {
+      "prefix": "ExO",
+      "identifier": "0000089"
+    },
+    {
+      "prefix": "ExO",
+      "identifier": "0000103"
+    },
+    {
+      "prefix": "GENO",
+      "identifier": "0000904"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000308"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "1"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "117570"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "117571"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "131567"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "1338369"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "1437010"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "207598"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "2759"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "314146"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "314293"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "314295"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "32523"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "32524"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "32525"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "33154"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "33208"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "33213"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "33511"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "376913"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "40674"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "6072"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "7711"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "7742"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "7776"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "8287"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "89593"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "9347"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "9443"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "9526"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "9604"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "9605"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000047"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0100026"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0100051"
+    },
+    {
+      "prefix": "RBO",
+      "identifier": "00000115"
+    },
+    {
+      "prefix": "RO",
+      "identifier": "0002577"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000465"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001062"
+    },
+    {
+      "prefix": "commoncoreontology",
+      "identifier": "00000300"
+    },
+    {
+      "prefix": "commoncoreontology",
+      "identifier": "00000798"
+    },
+    {
+      "prefix": "commoncoreontology",
+      "identifier": "00000995"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "SLSO",
+      "identifier": "0000021"
+    },
+    {
+      "prefix": "SLSO",
+      "identifier": "0000022"
+    },
+    {
+      "prefix": "SLSO",
+      "identifier": "0000026"
+    },
+    {
+      "prefix": "SLSO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "SLSO",
+      "identifier": "0000028"
+    },
+    {
+      "prefix": "SLSO",
+      "identifier": "0000029"
+    },
+    {
+      "prefix": "SLSO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "SLSO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "SLSO",
+      "identifier": "0000032"
+    },
+    {
+      "prefix": "SLSO",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "SLSO",
+      "identifier": "0000035"
+    },
+    {
+      "prefix": "SLSO",
+      "identifier": "0000037"
+    },
+    {
+      "prefix": "SLSO",
+      "identifier": "0000038"
+    },
+    {
+      "prefix": "SLSO",
+      "identifier": "0000043"
+    },
+    {
+      "prefix": "SLSO",
+      "identifier": "0000044"
+    },
+    {
+      "prefix": "SLSO",
+      "identifier": "0000047"
+    },
+    {
+      "prefix": "SLSO",
+      "identifier": "0000050"
+    },
+    {
+      "prefix": "SLSO",
+      "identifier": "0000053"
+    },
+    {
+      "prefix": "SLSO",
+      "identifier": "0000055"
+    },
+    {
+      "prefix": "SLSO",
+      "identifier": "0000058"
+    },
+    {
+      "prefix": "SLSO",
+      "identifier": "0000064"
+    },
+    {
+      "prefix": "SLSO",
+      "identifier": "0000066"
+    },
+    {
+      "prefix": "SLSO",
+      "identifier": "0000068"
+    },
+    {
+      "prefix": "SLSO",
+      "identifier": "0000069"
+    },
+    {
+      "prefix": "SLSO",
+      "identifier": "0000070"
+    },
+    {
+      "prefix": "SLSO",
+      "identifier": "1100010"
+    },
+    {
+      "prefix": "SLSO",
+      "identifier": "1100019"
+    }
+  ]
+}

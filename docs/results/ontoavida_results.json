@@ -1,0 +1,73 @@
+{
+  "parents": [
+    {
+      "prefix": "GSSO",
+      "identifier": "009994"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C42790"
+    },
+    {
+      "prefix": "STATO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "ONTOAVIDA",
+      "identifier": "00000001"
+    },
+    {
+      "prefix": "ONTOAVIDA",
+      "identifier": "00000002"
+    },
+    {
+      "prefix": "ONTOAVIDA",
+      "identifier": "00000003"
+    },
+    {
+      "prefix": "ONTOAVIDA",
+      "identifier": "00000007"
+    },
+    {
+      "prefix": "ONTOAVIDA",
+      "identifier": "00000011"
+    },
+    {
+      "prefix": "ONTOAVIDA",
+      "identifier": "00000017"
+    },
+    {
+      "prefix": "ONTOAVIDA",
+      "identifier": "00000018"
+    },
+    {
+      "prefix": "ONTOAVIDA",
+      "identifier": "00000022"
+    },
+    {
+      "prefix": "ONTOAVIDA",
+      "identifier": "00000085"
+    },
+    {
+      "prefix": "ONTOAVIDA",
+      "identifier": "00000096"
+    },
+    {
+      "prefix": "ONTOAVIDA",
+      "identifier": "00000190"
+    }
+  ]
+}

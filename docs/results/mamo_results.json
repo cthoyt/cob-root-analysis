@@ -1,0 +1,23 @@
+{
+  "parents": [],
+  "roots": [
+    {
+      "prefix": "MAMO",
+      "identifier": "0000010"
+    },
+    {
+      "prefix": "MAMO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "MAMO",
+      "identifier": "0000037"
+    },
+    {
+      "prefix": "MAMO",
+      "identifier": "0000054"
+    }
+  ],
+  "ancestors": [],
+  "children": []
+}

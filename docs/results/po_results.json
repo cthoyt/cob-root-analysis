@@ -1,21 +1,40 @@
 {
-  "ancestors": [
-    "bfo:0000002",
-    "bfo:0000003",
-    "bfo:0000004",
-    "caro:0030000"
-  ],
-  "children": [
-    "po:0009012",
-    "po:0020061",
-    "po:0025131",
-    "po:0025240",
-    "po:0025282"
-  ],
   "parents": [
-    "bfo:0000015",
-    "bfo:0000040",
-    "caro:0000000"
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001062"
+    }
   ],
-  "roots": []
+  "roots": [],
+  "ancestors": [],
+  "children": [
+    {
+      "prefix": "PO",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0000012"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0000032"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0009012"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0025131"
+    }
+  ]
 }

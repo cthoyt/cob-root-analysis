@@ -1,0 +1,473 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000038"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "DRON",
+      "identifier": "00000005"
+    },
+    {
+      "prefix": "DRON",
+      "identifier": "00000074"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000005"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000007"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000300"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000310"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000577"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000590"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001929"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001930"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001931"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001933"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0002139"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000039"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000012"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000102"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000125"
+    },
+    {
+      "prefix": "oboInOwl",
+      "identifier": "ObsoleteClass"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000008"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "DRON",
+      "identifier": "00000074"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000009"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000028"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000104"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000300"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000578"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001931"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001933"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000010"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000024"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000061"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000062"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001018"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001241"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "PDRO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000005"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000007"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000009"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000021"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000039"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000044"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000050"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000061"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000062"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000066"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000074"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000077"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000080"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000088"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000096"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000097"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000099"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000100"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000103"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000109"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000114"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000115"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000121"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000151"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000190"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000195"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000201"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000202"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000203"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000304"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000310"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000311"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000313"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000319"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000321"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000322"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000323"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0010008"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0010010"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0010024"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0010025"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0010028"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0010036"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0010080"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0012001"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0020006"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0040002"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "1000009"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "9876001"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "9876002"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "9876003"
+    }
+  ]
+}

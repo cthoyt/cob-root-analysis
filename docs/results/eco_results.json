@@ -1,0 +1,62 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    }
+  ],
+  "roots": [
+    {
+      "prefix": "ECO",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "ECO",
+      "identifier": "0000217"
+    }
+  ],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "ECO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "ECO",
+      "identifier": "0000049"
+    },
+    {
+      "prefix": "ECO",
+      "identifier": "0000058"
+    },
+    {
+      "prefix": "ECO",
+      "identifier": "0000180"
+    },
+    {
+      "prefix": "ECO",
+      "identifier": "0000221"
+    },
+    {
+      "prefix": "ECO",
+      "identifier": "0000232"
+    }
+  ]
+}

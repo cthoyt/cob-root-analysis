@@ -1,0 +1,1022 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23367"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23888"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24431"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33697"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35222"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "51086"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "52206"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "9500"
+    },
+    {
+      "prefix": "DRON",
+      "identifier": "00000001"
+    },
+    {
+      "prefix": "DRON",
+      "identifier": "00000005"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00010505"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0008150"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0016485"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0019058"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0019076"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0046718"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0001681"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000005"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000109"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000502"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000503"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "10090"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "2697049"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "9606"
+    },
+    {
+      "prefix": "OBCS",
+      "identifier": "0000094"
+    },
+    {
+      "prefix": "OBCS",
+      "identifier": "0000095"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000070"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000245"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000725"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000968"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "1110001"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000060"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000073"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000090"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000104"
+    },
+    {
+      "prefix": "OPMI",
+      "identifier": "0000417"
+    },
+    {
+      "prefix": "OPMI",
+      "identifier": "0000441"
+    },
+    {
+      "prefix": "OPMI",
+      "identifier": "0000446"
+    },
+    {
+      "prefix": "PR",
+      "identifier": "000000001"
+    },
+    {
+      "prefix": "PR",
+      "identifier": "000050274"
+    },
+    {
+      "prefix": "TRANS",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "VO",
+      "identifier": "0010754"
+    },
+    {
+      "prefix": "obo",
+      "identifier": "ICDO_0000001"
+    }
+  ],
+  "roots": [
+    {
+      "prefix": "CIDO",
+      "identifier": "0000409"
+    }
+  ],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "16670"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23367"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24431"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24432"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25806"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "32988"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33232"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33256"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33285"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33302"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33304"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33579"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33582"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33675"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33696"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33839"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35352"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36357"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36962"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36963"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "37622"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "50047"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "50860"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "50906"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "51143"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "52217"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "4"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "7"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "74"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00010483"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0006807"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0008150"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0008152"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0016032"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0019538"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0032991"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0043170"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0044238"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0044419"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0052126"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0071704"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "1901564"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0000118"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0001626"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0011025"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000104"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "10066"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "10088"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "10239"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "11118"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "117570"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "117571"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "1338369"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "1437010"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "1963758"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "207598"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "2499399"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "2501931"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "2509511"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "2559587"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "2732396"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "2732408"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "2732506"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "2759"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "314146"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "314147"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "314293"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "314295"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "32523"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "32524"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "32525"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "33154"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "33208"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "33213"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "33511"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "337687"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "376913"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "39107"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "40674"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "6072"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "694002"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "694009"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "76804"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "7711"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "7742"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "7776"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "8287"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "862507"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "89593"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "9347"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "9443"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "9526"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "9604"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "9605"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "9606"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "9989"
+    },
+    {
+      "prefix": "OBCS",
+      "identifier": "0000058"
+    },
+    {
+      "prefix": "OBCS",
+      "identifier": "0000059"
+    },
+    {
+      "prefix": "OBCS",
+      "identifier": "0000218"
+    },
+    {
+      "prefix": "OBCS",
+      "identifier": "0000220"
+    },
+    {
+      "prefix": "OBCS",
+      "identifier": "0000233"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000047"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0100026"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000060"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000061"
+    },
+    {
+      "prefix": "OPMI",
+      "identifier": "0000445"
+    },
+    {
+      "prefix": "PR",
+      "identifier": "000000001"
+    },
+    {
+      "prefix": "PR",
+      "identifier": "000018264"
+    },
+    {
+      "prefix": "PR",
+      "identifier": "000036197"
+    },
+    {
+      "prefix": "PR",
+      "identifier": "000050262"
+    },
+    {
+      "prefix": "PR",
+      "identifier": "000050263"
+    },
+    {
+      "prefix": "PR",
+      "identifier": "000050281"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "CIDO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000025"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000042"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000065"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000066"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000069"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000084"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000085"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000097"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000110"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000151"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000153"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000155"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000164"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000167"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000172"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000180"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000185"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000198"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000202"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000218"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000225"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000227"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000228"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000229"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000243"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000247"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000250"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000253"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000254"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000256"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000257"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000258"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000266"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000268"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000271"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000282"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000284"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000290"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000300"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000301"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000313"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000354"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000355"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000356"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000357"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000361"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000362"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000365"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000387"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000388"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000390"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000405"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000406"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000407"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000416"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000419"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000423"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000427"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000431"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000432"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000434"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000440"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000453"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000457"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0000589"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0001000"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0001001"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0001091"
+    },
+    {
+      "prefix": "CIDO",
+      "identifier": "0001169"
+    }
+  ]
+}

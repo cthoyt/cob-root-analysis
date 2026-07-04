@@ -1,0 +1,237 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000278"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "OGMS",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000022"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000024"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000032"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000039"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000045"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000059"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000060"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000063"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000067"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000074"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000077"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000078"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000086"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000088"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000091"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000092"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000093"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000096"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000103"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000105"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000106"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000107"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000117"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000118"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000122"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000123"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000133"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000141"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000142"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000148"
+    }
+  ]
+}

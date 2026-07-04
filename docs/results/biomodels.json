@@ -1,0 +1,35 @@
+{
+  "parents": [],
+  "roots": [
+    {
+      "prefix": "biomodels.kisao",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "biomodels.kisao",
+      "identifier": "0000097"
+    },
+    {
+      "prefix": "biomodels.kisao",
+      "identifier": "0000201"
+    },
+    {
+      "prefix": "biomodels.kisao",
+      "identifier": "0000628"
+    },
+    {
+      "prefix": "biomodels.kisao",
+      "identifier": "0000633"
+    },
+    {
+      "prefix": "biomodels.kisao",
+      "identifier": "0000820"
+    },
+    {
+      "prefix": "biomodels.kisao",
+      "identifier": "0000831"
+    }
+  ],
+  "ancestors": [],
+  "children": []
+}

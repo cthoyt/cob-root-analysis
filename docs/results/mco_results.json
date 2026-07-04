@@ -1,0 +1,4157 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "100147"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "100246"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "113455"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "132943"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "132951"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "137081"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "15361"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "15379"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "15676"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "15713"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "15724"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "15740"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "15760"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "15956"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "15996"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "16236"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "16240"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "16411"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "16449"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "16467"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "16526"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "16643"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "16695"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "16708"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "16793"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "16811"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "16914"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "17230"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "17234"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "17289"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "17306"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "17489"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "17568"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "17632"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "17677"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "17716"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "17750"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "17754"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "17833"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "17992"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "18050"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "18186"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "18287"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "204928"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23414"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24431"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25017"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25115"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25255"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25350"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25941"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26710"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "2676"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26806"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26948"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "27082"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "27504"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "27744"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "27897"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "27899"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "27902"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "28044"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "28077"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "28260"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "28262"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "28300"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "28368"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "28757"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "28837"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "28885"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "28971"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "29016"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "29105"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "29321"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "2956"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "29678"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "30089"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "3020"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "30351"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "30477"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "30740"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "30753"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "30762"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "30763"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "30812"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "31206"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "31460"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "3259"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "32954"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33191"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33709"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "34887"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "34905"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "3507"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35176"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35456"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35581"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35720"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "37684"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "38290"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "40646"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "42017"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "44423"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "46645"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "48775"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "4883"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "48843"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "48923"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "49105"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "49807"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "49976"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "50091"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "5044"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "51050"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "51208"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "52211"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "53258"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "60004"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "60584"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "6104"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "61448"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "62345"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "62946"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "62965"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "63005"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "63041"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "63043"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "63789"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "65327"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "75215"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "75494"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "75832"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "77922"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "78870"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "7916"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "88212"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "88217"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "9180"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "9473"
+    },
+    {
+      "prefix": "MICRO",
+      "identifier": "0000067"
+    },
+    {
+      "prefix": "MICRO",
+      "identifier": "0000068"
+    },
+    {
+      "prefix": "MICRO",
+      "identifier": "0000182"
+    },
+    {
+      "prefix": "MICRO",
+      "identifier": "0000184"
+    },
+    {
+      "prefix": "MICRO",
+      "identifier": "0000201"
+    },
+    {
+      "prefix": "MICRO",
+      "identifier": "0000562"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "562"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C120538"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C25360"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C96144"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000079"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000094"
+    },
+    {
+      "prefix": "OMP",
+      "identifier": "0007156"
+    },
+    {
+      "prefix": "OMP",
+      "identifier": "0007167"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000146"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001018"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001025"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001300"
+    },
+    {
+      "prefix": "PECO",
+      "identifier": "0001036"
+    },
+    {
+      "prefix": "PECO",
+      "identifier": "0001038"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001088"
+    },
+    {
+      "prefix": "obo",
+      "identifier": "zeco.owl/ZECO_0000200"
+    },
+    {
+      "prefix": "obo",
+      "identifier": "zeco.owl/ZECO_0000201"
+    },
+    {
+      "prefix": "obo",
+      "identifier": "zeco.owl/ZECO_0000202"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "131401"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "13248"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "134179"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "134363"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "134438"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "134441"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "15693"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "15705"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "15734"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "16646"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "16701"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "16811"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "17087"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "17188"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "17326"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "17334"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "17522"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "17593"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "17972"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "18059"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "18133"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "18222"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "18254"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "18282"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "18375"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "18379"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "19834"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "20706"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "21731"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "22063"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "22479"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "22495"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "22507"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "22527"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "22563"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "22565"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "22632"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "22645"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "22651"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "22658"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "22702"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "22712"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "22718"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "22723"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "22727"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "22728"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "22823"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "22860"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "22918"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "22925"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "22928"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "22950"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "22978"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23003"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23007"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23014"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23066"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23114"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23117"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23132"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23232"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23367"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23403"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23424"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23443"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23447"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23451"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23521"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23523"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23524"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23622"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23628"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23639"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23666"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23765"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23906"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23953"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23982"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24062"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24268"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24318"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24337"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24373"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24400"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24405"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24407"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24431"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24432"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24436"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24455"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24458"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24471"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24531"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24532"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24610"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24628"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24650"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24651"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24675"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24676"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24803"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24810"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24828"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24833"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24834"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24835"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24836"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24837"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24839"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24840"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24866"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24867"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24868"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24870"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24873"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24951"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24961"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24973"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24978"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24995"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25000"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25105"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25106"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25154"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25196"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25197"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25213"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25223"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25357"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25362"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25367"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25375"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25384"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25388"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25389"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25549"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25558"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25562"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25608"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25693"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25696"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25697"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25698"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25699"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25701"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25703"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "2571"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25710"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25741"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25806"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25830"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25848"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25865"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25900"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25901"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25940"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26004"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26020"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26069"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26079"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26082"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26144"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26188"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26191"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26217"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26218"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26386"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26393"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26394"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26395"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26398"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26399"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26400"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26401"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26421"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26432"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26438"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26439"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26440"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26441"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26443"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26444"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26446"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26469"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26512"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26513"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26523"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26546"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26558"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26561"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26562"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26580"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26607"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26626"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26628"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26649"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26712"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26714"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26816"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26820"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26834"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26835"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26895"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26912"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26948"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26979"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "27136"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "27171"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "27175"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "27232"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "27237"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "27242"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "27364"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "27365"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "27369"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "27933"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "28163"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "28300"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "29016"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "29067"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "29075"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "29347"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "30412"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "30879"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "32114"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "32234"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "32954"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "32988"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33238"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33240"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33241"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33245"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33256"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33259"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33261"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33262"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33263"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33273"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33285"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33296"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33302"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33304"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33305"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33308"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33408"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33424"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33447"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33457"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33458"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33459"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33485"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33497"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33515"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33520"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33558"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33575"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33576"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33579"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33582"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33585"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33595"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33597"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33598"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33608"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33635"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33636"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33637"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33655"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33659"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33661"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33670"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33671"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33672"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33673"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33674"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33675"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33676"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33692"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33704"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33709"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33721"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33743"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33744"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33747"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33748"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33749"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33768"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33822"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33823"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33832"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33833"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33836"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33838"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33853"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33856"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33859"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33860"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33861"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33862"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33892"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33916"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33917"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33958"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33983"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33984"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35113"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35117"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35131"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35175"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35176"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35179"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35273"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35275"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35276"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35281"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35284"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35293"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35313"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35352"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35366"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35381"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35406"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35438"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35479"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35545"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35552"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35568"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35570"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35571"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35573"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35580"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35605"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35627"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35693"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35701"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35715"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35716"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35742"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35757"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35875"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35902"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35903"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35990"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35992"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36059"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36093"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36094"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36141"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36233"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36357"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36358"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36359"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36360"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36562"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36563"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36565"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36572"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36586"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36587"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36683"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36684"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36688"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36807"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36816"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36820"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36914"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36915"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36916"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36962"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36963"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36976"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36982"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "37010"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "37015"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "37022"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "37044"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "37045"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "37076"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "37121"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "37143"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "37175"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "37185"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "37193"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "37217"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "37253"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "37577"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "37578"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "37581"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "37622"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "37734"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "37826"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "37912"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "38037"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "38101"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "38104"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "38106"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "38163"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "38166"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "38179"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "38180"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "38261"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "38295"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "38297"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "38303"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "38304"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "38311"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "38313"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "38337"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "38338"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "38418"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "38443"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "38445"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "38532"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "38631"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "38700"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "38702"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "39270"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "39352"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "39418"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "39446"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "39447"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "39457"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "3992"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "44976"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "46648"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "46774"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "46786"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "46845"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "46847"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "46848"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "46850"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "46867"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "46920"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "47016"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "47017"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "47019"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "47704"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "47779"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "47857"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "48369"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "48544"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "48840"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "48901"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "50047"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "50441"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "50511"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "50584"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "50699"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "50795"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "50803"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "50860"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "50906"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "50994"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "50996"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "51026"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "51069"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "51082"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "51084"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "51143"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "51151"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "51214"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "51336"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "51454"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "51570"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "51958"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "51959"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "52362"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "52855"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "53443"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "53468"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "55370"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "55474"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "5686"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "59202"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "59554"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "5975"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "59769"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "59777"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "59779"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "59792"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "59793"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "59999"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "60004"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "60240"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "60249"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "60252"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "61120"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "61292"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "61293"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "61295"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "61296"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "62733"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "62764"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "62965"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "63056"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "63063"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "63161"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "63299"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "63367"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "63409"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "63534"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "63944"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "64365"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "64382"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "64459"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "64641"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "64708"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "64709"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "68452"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "72588"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "72695"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "73537"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "73539"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "73754"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "78616"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "78840"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "79389"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "83347"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "83403"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "83811"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "83812"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "83813"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "83820"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "83821"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "83925"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "84055"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "84688"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "84734"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "86324"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "87211"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "88061"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "88187"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000013"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000014"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000383"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000866"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000867"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000894"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000895"
+    },
+    {
+      "prefix": "MICRO",
+      "identifier": "0000067"
+    },
+    {
+      "prefix": "MICRO",
+      "identifier": "0000116"
+    },
+    {
+      "prefix": "MICRO",
+      "identifier": "0000164"
+    },
+    {
+      "prefix": "MICRO",
+      "identifier": "0000167"
+    },
+    {
+      "prefix": "MICRO",
+      "identifier": "0000170"
+    },
+    {
+      "prefix": "MICRO",
+      "identifier": "0000172"
+    },
+    {
+      "prefix": "MICRO",
+      "identifier": "0000173"
+    },
+    {
+      "prefix": "MICRO",
+      "identifier": "0000174"
+    },
+    {
+      "prefix": "MICRO",
+      "identifier": "0000465"
+    },
+    {
+      "prefix": "MICRO",
+      "identifier": "0001366"
+    },
+    {
+      "prefix": "MICRO",
+      "identifier": "0001370"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "1224"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "1236"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "131567"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "2"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "543"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "561"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "91347"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C14250"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000047"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000079"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000967"
+    },
+    {
+      "prefix": "OMP",
+      "identifier": "0007167"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001018"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001241"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001291"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001739"
+    },
+    {
+      "prefix": "PECO",
+      "identifier": "0001036"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000174"
+    },
+    {
+      "prefix": "obo",
+      "identifier": "zeco.owl/ZECO_0000200"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "MCO",
+      "identifier": "00000000"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000013"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000014"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000032"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000041"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000042"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000043"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000050"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000051"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000052"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000072"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000073"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000077"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000078"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000079"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000080"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000081"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000083"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000084"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000085"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000125"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000163"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000164"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000165"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000196"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000197"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000198"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000202"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000203"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000204"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000205"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000206"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000207"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000209"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000210"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000211"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000212"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000213"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000214"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000215"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000216"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000217"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000218"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000219"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000220"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000221"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000222"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000223"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000224"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000225"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000226"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000227"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000228"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000229"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000230"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000232"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000233"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000234"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000235"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000236"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000237"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000238"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000240"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000241"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000242"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000243"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000244"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000245"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000246"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000247"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000248"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000249"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000250"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000251"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000252"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000253"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000254"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000255"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000256"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000257"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000258"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000259"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000260"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000261"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000262"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000263"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000264"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000265"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000266"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000267"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000268"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000269"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000271"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000272"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000273"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000282"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000283"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000284"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000285"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000286"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000287"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000288"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000289"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000290"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000291"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000292"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000293"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000294"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000295"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000296"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000297"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000298"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000299"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000300"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000301"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000302"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000303"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000304"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000305"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000306"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000309"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000310"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000311"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000312"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000313"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000314"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000315"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000316"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000317"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000318"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000319"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000320"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000321"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000322"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000323"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000324"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000325"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000326"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000327"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000328"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000329"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000330"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000334"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000335"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000336"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000337"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000338"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000339"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000341"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000342"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000344"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000352"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000355"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000356"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000357"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000358"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000360"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000361"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000386"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000387"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000388"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000408"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000409"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000410"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000411"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000412"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000413"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000414"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000415"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000416"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000417"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000418"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000419"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000420"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000421"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000422"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000423"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000424"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000425"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000426"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000427"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000428"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000429"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000430"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000431"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000432"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000433"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000434"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000435"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000436"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000437"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000438"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000439"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000440"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000441"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000442"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000443"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000444"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000445"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000446"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000447"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000448"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000449"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000450"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000662"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000717"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000718"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000719"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000722"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000727"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000728"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000729"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000730"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000731"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000732"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000733"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000734"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000735"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000736"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000737"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000738"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000739"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000740"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000741"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000744"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000751"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000752"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000753"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000754"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000755"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000756"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000757"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000758"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000759"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000760"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000761"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000762"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000763"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000764"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000765"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000766"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000767"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000777"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000778"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000779"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000780"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000781"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000782"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000783"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000784"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000785"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000786"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000787"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000788"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000789"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000794"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000842"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000844"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000845"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000847"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000848"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000850"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000852"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000853"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000854"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000857"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000858"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000864"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000865"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000867"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000870"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000872"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000873"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000875"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000876"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000877"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000880"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000881"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000883"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000894"
+    },
+    {
+      "prefix": "MCO",
+      "identifier": "0000895"
+    }
+  ]
+}

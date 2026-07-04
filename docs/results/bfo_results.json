@@ -1,0 +1,16 @@
+{
+  "parents": [
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "roots": [],
+  "ancestors": [],
+  "children": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    }
+  ]
+}

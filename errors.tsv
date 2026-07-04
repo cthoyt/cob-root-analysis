@@ -1,48 +1,150 @@
-prefix	message
-aism	no roots annotated with IAO_0000700
-amphx	no roots annotated with IAO_0000700
-apo	no roots annotated with IAO_0000700
-bspo	no roots annotated with IAO_0000700
-bto	no roots annotated with IAO_0000700
-caro	no roots annotated with IAO_0000700
-clao	no roots annotated with IAO_0000700
-clo	no roots annotated with IAO_0000700
-clyh	no roots annotated with IAO_0000700
-colao	no roots annotated with IAO_0000700
-cteno	no roots annotated with IAO_0000700
-ddanat	no roots annotated with IAO_0000700
-ddpheno	no roots annotated with IAO_0000700
-ecao	no roots annotated with IAO_0000700
-emapa	no roots annotated with IAO_0000700
-fao	no roots annotated with IAO_0000700
-flopo	no roots annotated with IAO_0000700
-fovt	no roots annotated with IAO_0000700
-hao	no roots annotated with IAO_0000700
-hom	no roots annotated with IAO_0000700
-hsapdv	no roots annotated with IAO_0000700
-lepao	no roots annotated with IAO_0000700
-ma	no roots annotated with IAO_0000700
-mfmo	no roots annotated with IAO_0000700
-mmusdv	no roots annotated with IAO_0000700
-oarcs	no roots annotated with IAO_0000700
-oba	no roots annotated with IAO_0000700
-olatdv	no roots annotated with IAO_0000700
-omp	no roots annotated with IAO_0000700
-pcl	no roots annotated with IAO_0000700
-pdumdv	no roots annotated with IAO_0000700
-phipo	no roots annotated with IAO_0000700
-plana	no roots annotated with IAO_0000700
-planp	no roots annotated with IAO_0000700
-po	no roots annotated with IAO_0000700
-poro	no roots annotated with IAO_0000700
-ppo	no roots annotated with IAO_0000700
-spd	no roots annotated with IAO_0000700
-to	no roots annotated with IAO_0000700
-uo	no roots annotated with IAO_0000700
-upheno	no roots annotated with IAO_0000700
-vt	no roots annotated with IAO_0000700
-xao	no roots annotated with IAO_0000700
-xpo	no roots annotated with IAO_0000700
-zfa	no roots annotated with IAO_0000700
-zfs	no roots annotated with IAO_0000700
-zp	no roots annotated with IAO_0000700
+prefix	obo	name	repository	message
+ado	ADO	Alzheimer's Disease Ontology	https://github.com/Fraunhofer-SCAI-Applied-Semantics/ADO	no roots annotated with IAO_0000700
+afpo	AfPO	African Population Ontology	https://github.com/h3abionet/afpo	no roots annotated with IAO_0000700
+amphx	AMPHX	The Amphioxus Development and Anatomy Ontology	https://github.com/EBISPOT/amphx_ontology	no roots annotated with IAO_0000700
+apo	APO	Ascomycete phenotype ontology	https://github.com/obophenotype/ascomycete-phenotype-ontology	no roots annotated with IAO_0000700
+apollosv	APOLLO_SV	Apollo Structured Vocabulary	https://github.com/ApolloDev/apollo-sv	no roots annotated with IAO_0000700
+aro	ARO	Antibiotic Resistance Ontology	https://github.com/arpcard/aro	no roots annotated with IAO_0000700
+bco	BCO	Biological Collections Ontology	https://github.com/BiodiversityOntologies/bco	no roots annotated with IAO_0000700
+bfo	BFO	Basic Formal Ontology	https://github.com/BFO-ontology/BFO	no roots annotated with IAO_0000700
+biomodels.kisao	KISAO	Kinetic Simulation Algorithm Ontology	https://github.com/SED-ML/KiSAO	no roots annotated with IAO_0000700
+bmont	BMONT	Biomarker Ontology	https://github.com/SCAI-BIO/BiomarkerOntology	no roots annotated with IAO_0000700
+bto	BTO	BRENDA Tissue Ontology	https://github.com/BRENDA-Enzymes/BTO	no roots annotated with IAO_0000700
+cdao	CDAO	Comparative Data Analysis Ontology	https://github.com/evoinfo/cdao	no roots annotated with IAO_0000700
+cdno	CDNO	Compositional Dietary Nutrition Ontology	https://github.com/CompositionalDietaryNutritionOntology/cdno	no roots annotated with IAO_0000700
+cheminf	CHEMINF	Chemical Information Ontology	https://github.com/semanticchemistry/semanticchemistry	no roots annotated with IAO_0000700
+chiro	CHIRO	ChEBI Integrated Role Ontology	https://github.com/obophenotype/chiro	no roots annotated with IAO_0000700
+chmo	CHMO	Chemical Methods Ontology	https://github.com/rsc-ontologies/rsc-cmo	no roots annotated with IAO_0000700
+cido	CIDO	Coronavirus Infectious Disease Ontology	https://github.com/cido-ontology/cido	no roots annotated with IAO_0000700
+cio	CIO	Confidence Information Ontology	https://github.com/BgeeDB/confidence-information-ontology	no roots annotated with IAO_0000700
+clao	CLAO	Collembola Anatomy Ontology	https://github.com/luis-gonzalez-m/Collembola	no roots annotated with IAO_0000700
+clo	CLO	Cell Line Ontology	https://github.com/CLO-Ontology/CLO	no roots annotated with IAO_0000700
+clyh	CLYH	Clytia hemisphaerica Development and Anatomy Ontology	https://github.com/EBISPOT/clyh_ontology	no roots annotated with IAO_0000700
+cmo	CMO	Clinical measurement ontology	https://github.com/rat-genome-database/CMO-Clinical-Measurement-Ontology	no roots annotated with IAO_0000700
+cob	COB	Core Ontology for Biology and Biomedicine	https://github.com/OBOFoundry/COB	no roots annotated with IAO_0000700
+cro	CRO	Contributor Role Ontology	https://github.com/data2health/contributor-role-ontology	no roots annotated with IAO_0000700
+cteno	CTENO	Ctenophore Ontology	https://github.com/obophenotype/ctenophore-ontology	no roots annotated with IAO_0000700
+cto	CTO	Clinical Trials Ontology	https://github.com/ClinicalTrialOntology/CTO	no roots annotated with IAO_0000700
+cvdo	CVDO	Cardiovascular Disease Ontology	https://github.com/OpenLHS/CVDO	no roots annotated with IAO_0000700
+ddanat	DDANAT	Dictyostelium discoideum anatomy	https://github.com/dictyBase/migration-data	no roots annotated with IAO_0000700
+ddpheno	DDPHENO	Dictyostelium discoideum phenotype ontology	https://github.com/obophenotype/dicty-phenotype-ontology	no roots annotated with IAO_0000700
+dideo	DIDEO	Drug-drug Interaction and Drug-drug Interaction Evidence Ontology	https://github.com/DIDEO/DIDEO	no roots annotated with IAO_0000700
+disdriv	DISDRIV	Disease Drivers Ontology	https://github.com/DiseaseOntology/DiseaseDriversOntology	no roots annotated with IAO_0000700
+dron	DRON	The Drug Ontology	https://github.com/mcwdsi/dron	no roots annotated with IAO_0000700
+duo	DUO	Data Use Ontology	https://github.com/EBISPOT/DUO	no roots annotated with IAO_0000700
+ecao	ECAO	The Echinoderm Anatomy and Development Ontology	https://github.com/echinoderm-ontology/ecao_ontology	no roots annotated with IAO_0000700
+eco	ECO	Evidence and Conclusion Ontology	https://github.com/evidenceontology/evidenceontology	no roots annotated with IAO_0000700
+ecocore	ECOCORE	An ontology of core ecological entities	https://github.com/EcologicalSemantics/ecocore	no roots annotated with IAO_0000700
+envo	ENVO	Environment Ontology	https://github.com/EnvironmentOntology/envo	no roots annotated with IAO_0000700
+epio	EPIO	Epilepsy Ontology	https://github.com/SCAI-BIO/EpilepsyOntology	no roots annotated with IAO_0000700
+exmo	EXMO	Exercise Medicine Ontology	https://github.com/Exercise-Medicine-Ontology/EXMO	no roots annotated with IAO_0000700
+exo	ExO	Exposure ontology	https://github.com/CTDbase/exposure-ontology	no roots annotated with IAO_0000700
+fao	FAO	Fungal gross anatomy	https://github.com/obophenotype/fungal-anatomy-ontology	no roots annotated with IAO_0000700
+fideo	FIDEO	Food Interactions with Drugs Evidence Ontology	https://gitub.u-bordeaux.fr/erias/fideo	no roots annotated with IAO_0000700
+fix	FIX	Physico-chemical methods and properties	https://github.com/cmungall/fix	no roots annotated with IAO_0000700
+fobi	FOBI	Food-Biomarker Ontology	https://github.com/pcastellanoescuder/FoodBiomarkerOntology	no roots annotated with IAO_0000700
+foodon	FOODON	The Food Ontology	https://github.com/FoodOntology/foodon	no roots annotated with IAO_0000700
+fovt	FOVT	FuTRES Ontology of Vertebrate Traits	https://github.com/futres/fovt	no roots annotated with IAO_0000700
+gallont	GALLONT	Plant Gall Ontology	https://github.com/adeans/gallont	no roots annotated with IAO_0000700
+gecko	GECKO	Genomics Cohorts Knowledge Ontology	https://github.com/IHCC-cohorts/GECKO	no roots annotated with IAO_0000700
+genepio	GENEPIO	Genomic Epidemiology Ontology	https://github.com/GenEpiO/genepio	no roots annotated with IAO_0000700
+geno	GENO	Genotype Ontology	https://github.com/monarch-initiative/GENO-ontology	no roots annotated with IAO_0000700
+geogeo	GEO	Geographical Entity Ontology	https://github.com/ufbmi/geographical-entity-ontology	no roots annotated with IAO_0000700
+gno	GNO	Glycan Naming and Subsumption Ontology	https://github.com/glygen-glycan-data/GNOme	no roots annotated with IAO_0000700
+gsso	GSSO	Gender, Sex, and Sexual Orientation Ontology	https://github.com/Superraptor/GSSO	no roots annotated with IAO_0000700
+hao	HAO	Hymenoptera Anatomy Ontology	https://github.com/hymao/hao	no roots annotated with IAO_0000700
+hom	HOM	Homology Ontology	https://github.com/BgeeDB/homology-ontology	no roots annotated with IAO_0000700
+hso	HSO	Health Surveillance Ontology	https://github.com/SVA-SE/HSO	no roots annotated with IAO_0000700
+htn	HTN	Hypertension Ontology	https://github.com/aellenhicks/htn_owl	no roots annotated with IAO_0000700
+iao	IAO	Information Artifact Ontology	https://github.com/information-artifact-ontology/IAO	no roots annotated with IAO_0000700
+iceo	ICEO	Integrative and Conjugative Element Ontology	https://github.com/ontoice/ICEO	no roots annotated with IAO_0000700
+ico	ICO	Informed Consent Ontology	https://github.com/ICO-ontology/ICO	no roots annotated with IAO_0000700
+ido	IDO	Infectious Disease Ontology	https://github.com/infectious-disease-ontology/infectious-disease-ontology	no roots annotated with IAO_0000700
+ino	INO	Interaction Network Ontology	https://github.com/INO-ontology/ino	no roots annotated with IAO_0000700
+interpro	IPR	InterPro		no roots annotated with IAO_0000700
+labo	LABO	clinical LABoratory Ontology	https://github.com/OpenLHS/LABO	no roots annotated with IAO_0000700
+ma	MA	Mouse adult gross anatomy	https://github.com/obophenotype/adult-mouse-anatomy-ontology	no roots annotated with IAO_0000700
+mamo	MAMO	Mathematical modeling ontology	https://github.com/cmungall/mamo	no roots annotated with IAO_0000700
+mco	MCO	Microbial Conditions Ontology	https://github.com/microbial-conditions-ontology/microbial-conditions-ontology	no roots annotated with IAO_0000700
+mcro	MCRO	Model Card Report Ontology	https://github.com/UTHealth-Ontology/MCRO	no roots annotated with IAO_0000700
+mf	MF	Mental Functioning Ontology	https://github.com/jannahastings/mental-functioning-ontology	no roots annotated with IAO_0000700
+mfoem	MFOEM	Emotion Ontology	https://github.com/jannahastings/emotion-ontology	no roots annotated with IAO_0000700
+mfomd	MFOMD	Mental Disease Ontology	https://github.com/jannahastings/mental-functioning-ontology	malformed data
+mi	MI	Molecular Interactions Controlled Vocabulary	https://github.com/HUPO-PSI/psi-mi-CV	no roots annotated with IAO_0000700
+miapa	MIAPA	Minimum Anformation About a Phylogenetic Analysis Ontology	https://github.com/evoinfo/miapa	no roots annotated with IAO_0000700
+mmo	MMO	Measurement method ontology	https://github.com/rat-genome-database/MMO-Measurement-Method-Ontology	no roots annotated with IAO_0000700
+mod	MOD	PSI-MOD Protein Modifications Ontology	https://github.com/HUPO-PSI/psi-mod-CV	no roots annotated with IAO_0000700
+mop	MOP	Molecular Process Ontology	https://github.com/rsc-ontologies/rxno	no roots annotated with IAO_0000700
+mpath	MPATH	Mouse pathology ontology	https://github.com/PaulNSchofield/mpath	no roots annotated with IAO_0000700
+mpio	MPIO	Minimum PDDI Information Ontology	https://github.com/MPIO-Developers/MPIO	no roots annotated with IAO_0000700
+mro	MRO	MHC Restriction Ontology	https://github.com/IEDB/MRO	no roots annotated with IAO_0000700
+ms	MS	Mass spectrometry ontology	https://github.com/HUPO-PSI/psi-ms-CV	no roots annotated with IAO_0000700
+nbo	NBO	Neuro Behavior Ontology	https://github.com/obo-behavior/behavior-ontology	no roots annotated with IAO_0000700
+ncro	NCRO	Non-Coding RNA Ontology	https://github.com/OmniSearch/ncro	no roots annotated with IAO_0000700
+ngbo	NGBO	Next Generation Biobanking Ontology	https://github.com/Dalalghamdi/NGBO	no roots annotated with IAO_0000700
+nomen	NOMEN	A nomenclatural ontology for biological names	https://github.com/SpeciesFileGroup/nomen	no roots annotated with IAO_0000700
+oae	OAE	Ontology of Adverse Events	https://github.com/OAE-ontology/OAE	no roots annotated with IAO_0000700
+oarcs	OARCS	Ontology of Arthropod Circulatory Systems	https://github.com/aszool/oarcs	no roots annotated with IAO_0000700
+obcs	OBCS	Ontology of Biological and Clinical Statistics	https://github.com/obcs/obcs	no roots annotated with IAO_0000700
+obi	OBI	Ontology for Biomedical Investigations	https://github.com/obi-ontology/obi	no roots annotated with IAO_0000700
+obib	OBIB	Ontology for Biobanking	https://github.com/biobanking/biobanking	no roots annotated with IAO_0000700
+occo	OCCO	Occupation Ontology	https://github.com/Occupation-Ontology/OccO	no roots annotated with IAO_0000700
+ogg	OGG	The Ontology of Genes and Genomes	https://bitbucket.org/hegroup/ogg	malformed data
+ogms	OGMS	Ontology for General Medical Science	https://github.com/OGMS/ogms	no roots annotated with IAO_0000700
+ohd	OHD	Oral Health and Disease Ontology	https://github.com/oral-health-and-disease-ontologies/ohd-ontology	no roots annotated with IAO_0000700
+ohmi	OHMI	Ontology of Host-Microbiome Interactions	https://github.com/ohmi-ontology/ohmi	no roots annotated with IAO_0000700
+ohpi	OHPI	Ontology of Host Pathogen Interactions	https://github.com/OHPI/ohpi	no roots annotated with IAO_0000700
+omit	OMIT	Ontology for MicroRNA Target	https://github.com/OmniSearch/omit	malformed data
+omo	OMO	OBO Metadata Ontology	https://github.com/information-artifact-ontology/ontology-metadata	no roots annotated with IAO_0000700
+omp	OMP	Ontology of Microbial Phenotypes	https://github.com/microbialphenotypes/OMP-ontology	no roots annotated with IAO_0000700
+omrse	OMRSE	Ontology for Modeling and Representation of Social Entities	https://github.com/mcwdsi/OMRSE	no roots annotated with IAO_0000700
+one	ONE	Ontology for Nutritional Epidemiology	https://github.com/cyang0128/Nutritional-epidemiologic-ontologies	no roots annotated with IAO_0000700
+ons	ONS	Ontology for Nutritional Studies	https://github.com/enpadasi/Ontology-for-Nutritional-Studies	no roots annotated with IAO_0000700
+ontoavida	ONTOAVIDA	Ontology for Avida digital evolution platform	https://gitlab.com/fortunalab/ontoavida	no roots annotated with IAO_0000700
+ontoneo	ONTONEO	Obstetric and Neonatal Ontology	https://github.com/ontoneo-project/Ontoneo	no roots annotated with IAO_0000700
+oostt	OOSTT	Ontology of Organizational Structures of Trauma centers and Trauma systems	https://github.com/OOSTT/OOSTT	no roots annotated with IAO_0000700
+opl	OPL	Ontology for Parasite LifeCycle	https://github.com/OPL-ontology/OPL	no roots annotated with IAO_0000700
+opmi	OPMI	Ontology of Precision Medicine and Investigation	https://github.com/OPMI/opmi	no roots annotated with IAO_0000700
+ornaseq	ORNASEQ	Ontology of RNA Sequencing	https://github.com/safisher/ornaseq	no roots annotated with IAO_0000700
+ovae	OVAE	Ontology of Vaccine Adverse Events	https://github.com/OVAE-Ontology/ovae	malformed data
+pbpko	PBPKO	Physiologically-Based Pharmacokinetic Ontology	https://github.com/InSilicoVida-Research-Lab/pbpko	malformed data
+pcl	PCL	Provisional Cell Ontology	https://github.com/obophenotype/provisional_cell_ontology	malformed data
+pco	PCO	Population and Community Ontology	https://github.com/PopulationAndCommunityOntology/pco	no roots annotated with IAO_0000700
+pdro	PDRO	The Prescription of Drugs Ontology	https://github.com/OpenLHS/PDRO	no roots annotated with IAO_0000700
+peco	PECO	Plant Experimental Conditions Ontology	https://github.com/Planteome/plant-experimental-conditions-ontology	no roots annotated with IAO_0000700
+phipo	PHIPO	Pathogen Host Interaction Phenotype Ontology	https://github.com/PHI-base/phipo	no roots annotated with IAO_0000700
+plana	PLANA	Planarian Anatomy and Schmidtea mediterranean Developmental Stage Ontology	https://github.com/obophenotype/planaria-ontology	no roots annotated with IAO_0000700
+planp	PLANP	Planarian Phenotype Ontology	https://github.com/obophenotype/planarian-phenotype-ontology	no roots annotated with IAO_0000700
+po	PO	Plant Ontology	https://github.com/Planteome/plant-ontology	no roots annotated with IAO_0000700
+poro	PORO	Porifera Ontology	https://github.com/obophenotype/porifera-ontology	no roots annotated with IAO_0000700
+ppo	PPO	Plant Phenology Ontology	https://github.com/PlantPhenoOntology/PPO	no roots annotated with IAO_0000700
+pr	PR	Protein Ontology	https://github.com/PROconsortium/PRoteinOntology	malformed data
+proco	PROCO	Process Chemistry Ontology	https://github.com/proco-ontology/PROCO	no roots annotated with IAO_0000700
+psdo	PSDO	Performance Summary Display Ontology	https://github.com/Display-Lab/psdo	no roots annotated with IAO_0000700
+pso	PSO	Plant Stress Ontology	https://github.com/Planteome/plant-stress-ontology	no roots annotated with IAO_0000700
+pw	PW	Pathway ontology	https://github.com/rat-genome-database/PW-Pathway-Ontology	no roots annotated with IAO_0000700
+rbo	RBO	Radiation Biology Ontology	https://github.com/Radiobiology-Informatics-Consortium/RBO	no roots annotated with IAO_0000700
+rex	REX	Physico-chemical process	https://github.com/cmungall/rex	no roots annotated with IAO_0000700
+ro	RO	Relation Ontology	https://github.com/oborel/obo-relations	no roots annotated with IAO_0000700
+rs	RS	Rat Strain Ontology	https://github.com/rat-genome-database/RS-Rat-Strain-Ontology	no roots annotated with IAO_0000700
+rxno	RXNO	Name Reaction Ontology	https://github.com/rsc-ontologies/rxno	no roots annotated with IAO_0000700
+sbo	SBO	Systems Biology Ontology	https://github.com/EBI-BioModels/SBO	no roots annotated with IAO_0000700
+scdo	SCDO	Sickle Cell Disease Ontology	https://github.com/scdodev/scdo-ontology	no roots annotated with IAO_0000700
+sepio	SEPIO	Scientific Evidence and Provenance Information Ontology	https://github.com/monarch-initiative/SEPIO-ontology	no roots annotated with IAO_0000700
+sibo	SIBO	Social Insect Behavior Ontology	https://github.com/obophenotype/sibo	no roots annotated with IAO_0000700
+slso	SLSO	Space Life Sciences Ontology	https://github.com/nasa/LSDAO	no roots annotated with IAO_0000700
+spd	SPD	Spider Ontology	https://github.com/obophenotype/spider-ontology	no roots annotated with IAO_0000700
+stato	STATO	The Statistical Methods Ontology	https://github.com/ISA-tools/stato	no roots annotated with IAO_0000700
+swo	SWO	Software Ontology	https://github.com/allysonlister/swo	no roots annotated with IAO_0000700
+t4fs	T4FS	terms4FAIRskills	https://github.com/terms4fairskills/FAIRterminology	no roots annotated with IAO_0000700
+to	TO	Plant Trait Ontology	https://github.com/Planteome/plant-trait-ontology	no roots annotated with IAO_0000700
+tto	TTO	Teleost taxonomy ontology	https://github.com/phenoscape/teleost-taxonomy-ontology	no roots annotated with IAO_0000700
+txpo	TXPO	Toxic Process Ontology	https://github.com/txpo-ontology/TXPO	no roots annotated with IAO_0000700
+uo	UO	Units of measurement ontology	https://github.com/bio-ontology-research-group/unit-ontology	no roots annotated with IAO_0000700
+vario	VariO	Variation Ontology		no roots annotated with IAO_0000700
+vo	VO	Vaccine Ontology	https://github.com/vaccineontology/VO	no roots annotated with IAO_0000700
+vt	VT	Vertebrate trait ontology	https://github.com/AnimalGenome/vertebrate-trait-ontology	no roots annotated with IAO_0000700
+vto	VTO	Vertebrate Taxonomy Ontology	https://github.com/phenoscape/vertebrate-taxonomy-ontology	no roots annotated with IAO_0000700
+xco	XCO	Experimental condition ontology	https://github.com/rat-genome-database/XCO-experimental-condition-ontology	no roots annotated with IAO_0000700
+xlmod	XLMOD	HUPO-PSI cross-linking and derivatization reagents controlled vocabulary	https://github.com/HUPO-PSI/xlmod-CV	no roots annotated with IAO_0000700
+zeco	ZECO	Zebrafish Experimental Conditions Ontology	https://github.com/ybradford/zebrafish-experimental-conditions-ontology	no roots annotated with IAO_0000700

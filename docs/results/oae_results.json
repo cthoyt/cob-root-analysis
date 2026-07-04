@@ -1,0 +1,417 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000029"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000038"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000148"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000415"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0100026"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0302910"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000045"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000061"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000186"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001018"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001236"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0002062"
+    },
+    {
+      "prefix": "VO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "oboInOwl",
+      "identifier": "ObsoleteClass"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000008"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000141"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000300"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000060"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001236"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001241"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001995"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "OAE",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000006"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000028"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000055"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000065"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000071"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000072"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000077"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000101"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000107"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000114"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000115"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000125"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000128"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000137"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000149"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000177"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000178"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000189"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000191"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000192"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000193"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000225"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000227"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000246"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000251"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000682"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000725"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000726"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000738"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000991"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0001000"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0001002"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0001010"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0001017"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0001022"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0001258"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0001277"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0001563"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0001565"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0001566"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0001750"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0001804"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0001810"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0001811"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0001812"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0001813"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0001814"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0001815"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0001816"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0001817"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0001867"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0001868"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0001872"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0003230"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0004328"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0004372"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0004442"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0004449"
+    }
+  ]
+}

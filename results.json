@@ -10,8 +10,21 @@
     "http://purl.obolibrary.org/obo/PO_0025131": "plant anatomical entity",
     "http://purl.obolibrary.org/obo/UO_0000000": "unit"
   },
+  "aism": {
+    "http://purl.obolibrary.org/obo/AISM_0000174": "insect region of cuticle",
+    "http://purl.obolibrary.org/obo/PATO_0000001": "quality",
+    "http://purl.obolibrary.org/obo/UBERON_0001062": "anatomical entity"
+  },
+  "bspo": {
+    "http://purl.obolibrary.org/obo/CARO_0000000": "anatomical entity"
+  },
   "cl": {
     "http://purl.obolibrary.org/obo/CL_0000000": "cell"
+  },
+  "colao": {
+    "http://purl.obolibrary.org/obo/AISM_0000174": "region of cuticle",
+    "http://purl.obolibrary.org/obo/PATO_0000001": "quality",
+    "http://purl.obolibrary.org/obo/UBERON_0001062": "anatomical entity"
   },
   "doid": {
     "http://purl.obolibrary.org/obo/DOID_4": "disease"
@@ -21,6 +34,13 @@
   },
   "ecto": {
     "http://purl.obolibrary.org/obo/ExO_0000002": "exposure event"
+  },
+  "emapa": {
+    "http://purl.obolibrary.org/obo/EMAPA_0": "Anatomical structure",
+    "http://purl.obolibrary.org/obo/TS_0": "Theiler stage"
+  },
+  "fbbi": {
+    "http://purl.obolibrary.org/obo/FBbi_root_00000000": "method involved in biological imaging"
   },
   "fbbt": {
     "http://purl.obolibrary.org/obo/FBbt_10000000": "anatomical entity"
@@ -34,34 +54,96 @@
     "http://purl.obolibrary.org/obo/FBdv_00007013": "age",
     "http://purl.obolibrary.org/obo/FBdv_00007024": "biological process"
   },
+  "flopo": {
+    "http://purl.obolibrary.org/obo/FLOPO_0000000": "flora phenotype"
+  },
   "fypo": {
     "http://purl.obolibrary.org/obo/FYPO_0000001": "phenotype"
   },
+  "go": {
+    "http://purl.obolibrary.org/obo/GO_0003674": "molecular_function",
+    "http://purl.obolibrary.org/obo/GO_0005575": "cellular_component",
+    "http://purl.obolibrary.org/obo/GO_0008150": "biological_process"
+  },
   "hancestro": {
     "http://purl.obolibrary.org/obo/HANCESTRO_0004": "ancestry category",
-    "http://purl.obolibrary.org/obo/HANCESTRO_0304": "ancestry status"
+    "http://purl.obolibrary.org/obo/HANCESTRO_0304": "ancestry status",
+    "http://purl.obolibrary.org/obo/HANCESTRO_0601": "ethnicity category",
+    "http://purl.obolibrary.org/obo/HANCESTRO_0602": "geography-based population category",
+    "http://purl.obolibrary.org/obo/HANCESTRO_0632": "reference population"
   },
   "hp": {
     "http://purl.obolibrary.org/obo/HP_0000001": "All"
   },
+  "hsapdv": {
+    "http://purl.obolibrary.org/obo/HsapDv_0000000": "life cycle stage"
+  },
+  "lepao": {
+    "http://purl.obolibrary.org/obo/AISM_0000174": "region of cuticle",
+    "http://purl.obolibrary.org/obo/LEPAO_0000006": "anatomical entity",
+    "http://purl.obolibrary.org/obo/PATO_0000001": "quality"
+  },
+  "maxo": {
+    "http://purl.obolibrary.org/obo/MAXO_0000001": "medical action"
+  },
+  "mmusdv": {
+    "http://purl.obolibrary.org/obo/MmusDv_0000090": "19-month-old stage"
+  },
   "mondo": {
-    "http://purl.obolibrary.org/obo/MONDO_0000001": "disease or disorder",
+    "http://purl.obolibrary.org/obo/MONDO_0000001": "disease",
     "http://purl.obolibrary.org/obo/MONDO_0021125": "disease characteristic",
+    "http://purl.obolibrary.org/obo/MONDO_0021178": "injury",
     "http://purl.obolibrary.org/obo/MONDO_0042489": "disease susceptibility"
   },
   "mp": {
     "http://purl.obolibrary.org/obo/MP_0000001": "mammalian phenotype"
   },
+  "oba": {
+    "http://purl.obolibrary.org/obo/OBA_0000001": "biological attribute"
+  },
   "pato": {
     "http://purl.obolibrary.org/obo/PATO_0000001": "quality"
   },
-  "pr": {
-    "http://purl.obolibrary.org/obo/PR_000000001": "protein",
-    "http://purl.obolibrary.org/obo/PR_000050098": "artificial protein"
+  "prefer": {
+    "http://purl.obolibrary.org/obo/BFO_0000019": "quality",
+    "http://purl.obolibrary.org/obo/BFO_0000023": "role",
+    "http://purl.obolibrary.org/obo/BFO_0000040": "material entity",
+    "http://purl.obolibrary.org/obo/IAO_0000003": "measurement unit label",
+    "http://purl.obolibrary.org/obo/PREFER_0000008": "cultivation condition",
+    "http://purl.obolibrary.org/obo/PREFER_0000015": "operational parameter",
+    "http://purl.obolibrary.org/obo/PREFER_9000000": "precision fermentation process control variable",
+    "http://purl.obolibrary.org/obo/PREFER_9000001": "precision fermentation process measurement variable",
+    "http://purl.obolibrary.org/obo/PREFER_9000002": "precision fermentation process calculated variable",
+    "http://purl.obolibrary.org/obo/PREFER_9000003": "precision fermentation process"
+  },
+  "so": {
+    "http://purl.obolibrary.org/obo/SO_0000110": "sequence_feature",
+    "http://purl.obolibrary.org/obo/SO_0000400": "sequence_attribute",
+    "http://purl.obolibrary.org/obo/SO_0001060": "sequence_variant",
+    "http://purl.obolibrary.org/obo/SO_0001260": "sequence_collection"
+  },
+  "symp": {
+    "http://purl.obolibrary.org/obo/SYMP_0000462": "symptom"
+  },
+  "taxrank": {
+    "http://purl.obolibrary.org/obo/TAXRANK_0000000": "taxonomic_rank",
+    "http://purl.obolibrary.org/obo/TAXRANK_9000000": "pseudorank"
+  },
+  "trans": {
+    "http://purl.obolibrary.org/obo/TRANS_0000000": "transmission process"
   },
   "uberon": {
     "http://purl.obolibrary.org/obo/UBERON_0000104": "life cycle",
-    "http://purl.obolibrary.org/obo/UBERON_0001062": "anatomical entity"
+    "http://purl.obolibrary.org/obo/UBERON_0000105": "life cycle stage",
+    "http://purl.obolibrary.org/obo/UBERON_0001062": "anatomical entity",
+    "http://purl.obolibrary.org/obo/UBERON_0035943": "life cycle temporal boundary"
+  },
+  "upheno": {
+    "http://purl.obolibrary.org/obo/UPHENO_0001001": "phenotype"
+  },
+  "vbo": {
+    "http://purl.obolibrary.org/obo/VBO_0300000": "breed status",
+    "http://purl.obolibrary.org/obo/VBO_0400000": "Vertebrate breed"
   },
   "wbbt": {
     "http://purl.obolibrary.org/obo/WBbt_0000100": "C. elegans anatomical entity"
@@ -71,5 +153,23 @@
   },
   "wbphenotype": {
     "http://purl.obolibrary.org/obo/WBPhenotype_0000886": "nematode phenotype"
+  },
+  "xao": {
+    "XAO:0000000": null,
+    "XAO:1000000": null
+  },
+  "xpo": {
+    "http://purl.obolibrary.org/obo/XPO_0000000": "Xenopus phenotype"
+  },
+  "zfa": {
+    "http://purl.obolibrary.org/obo/ZFA_0100000": "zebrafish anatomical entity",
+    "http://purl.obolibrary.org/obo/ZFS_0100000": "zebrafish stage"
+  },
+  "zfs": {
+    "http://purl.obolibrary.org/obo/ZFA_0100000": "zebrafish anatomical entity",
+    "http://purl.obolibrary.org/obo/ZFS_0100000": "zebrafish stage"
+  },
+  "zp": {
+    "http://purl.obolibrary.org/obo/ZP_0000000": "Zebrafish Phenotype"
   }
 }

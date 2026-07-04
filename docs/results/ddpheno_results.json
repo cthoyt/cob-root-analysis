@@ -1,8 +1,11 @@
 {
-  "ancestors": [],
-  "children": [],
   "parents": [],
   "roots": [
-    "ddpheno:0010000"
-  ]
+    {
+      "prefix": "DDPHENO",
+      "identifier": "0010000"
+    }
+  ],
+  "ancestors": [],
+  "children": []
 }

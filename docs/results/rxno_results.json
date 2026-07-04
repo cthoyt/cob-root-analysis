@@ -1,0 +1,614 @@
+{
+  "parents": [
+    {
+      "prefix": "IAO",
+      "identifier": "0000005"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000411"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000422"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000543"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000550"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000555"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000556"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000561"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000562"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000563"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000565"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000566"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000568"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000569"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000572"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000573"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000574"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000580"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000581"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000589"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000627"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000628"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000642"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000650"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000671"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000713"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000714"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000715"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000720"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000721"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000722"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000723"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000825"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0001713"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0002364"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0002369"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0002411"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0002479"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0003339"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0003479"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000011"
+    }
+  ],
+  "roots": [
+    {
+      "prefix": "RXNO",
+      "identifier": "0000024"
+    }
+  ],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000339"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000364"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000369"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000410"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000411"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000458"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000479"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000543"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000561"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000562"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000566"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000567"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000568"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000569"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000572"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000627"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000802"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000825"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0001458"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "RXNO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000005"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000006"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000012"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000018"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000022"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000028"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000029"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000043"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000044"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000055"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000059"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000062"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000065"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000072"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000077"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000083"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000129"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000139"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000141"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000148"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000154"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000182"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000223"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000256"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000269"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000270"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000311"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000317"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000327"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000328"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000329"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000335"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000337"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000338"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000339"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000340"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000341"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000342"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000343"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000344"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000345"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000350"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000351"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000352"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000353"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000354"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000355"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000356"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000357"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000358"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000359"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000360"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000362"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000368"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000372"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000373"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000374"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000376"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000387"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000404"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000405"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000413"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000431"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000437"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000443"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000447"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000464"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000507"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000510"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000527"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000547"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000548"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000549"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000550"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000551"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000597"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000621"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000641"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000654"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000656"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000686"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000687"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000689"
+    },
+    {
+      "prefix": "RXNO",
+      "identifier": "0000690"
+    }
+  ]
+}

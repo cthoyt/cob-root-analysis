@@ -1,0 +1,262 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23367"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0006461"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0016310"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "MI",
+      "identifier": "0208"
+    },
+    {
+      "prefix": "MI",
+      "identifier": "0403"
+    },
+    {
+      "prefix": "MI",
+      "identifier": "0407"
+    },
+    {
+      "prefix": "MI",
+      "identifier": "0414"
+    },
+    {
+      "prefix": "MI",
+      "identifier": "0914"
+    }
+  ],
+  "roots": [
+    {
+      "prefix": "INO",
+      "identifier": "0000159"
+    }
+  ],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000007"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000117"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000157"
+    },
+    {
+      "prefix": "MI",
+      "identifier": "0407"
+    },
+    {
+      "prefix": "MI",
+      "identifier": "0914"
+    },
+    {
+      "prefix": "MI",
+      "identifier": "0915"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "INO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000013"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000014"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000029"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000035"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000050"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000054"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000058"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000059"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000060"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000061"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000076"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000088"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000090"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000092"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000099"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000106"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000115"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000132"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000133"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000135"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000140"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000142"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000148"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000157"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000158"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000176"
+    },
+    {
+      "prefix": "INO",
+      "identifier": "0000178"
+    }
+  ]
+}

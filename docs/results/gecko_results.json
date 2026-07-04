@@ -1,0 +1,277 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000029"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000141"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0008150"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000109"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000300"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000612"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0020000"
+    },
+    {
+      "prefix": "MONDO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000070"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000094"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0302893"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001995"
+    },
+    {
+      "prefix": "STATO",
+      "identifier": "0000039"
+    },
+    {
+      "prefix": "STATO",
+      "identifier": "0000047"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000178"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000141"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000109"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000300"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000463"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "GECKO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000005"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000009"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000013"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000026"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000032"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000044"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000047"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000055"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000060"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000061"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000063"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000064"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000065"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000066"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000067"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000073"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000094"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000096"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000102"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000106"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000113"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000114"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000115"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000118"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000121"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000128"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000129"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000130"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000131"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000132"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000136"
+    },
+    {
+      "prefix": "GECKO",
+      "identifier": "0000140"
+    }
+  ]
+}

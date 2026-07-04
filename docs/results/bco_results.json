@@ -1,0 +1,149 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000245"
+    },
+    {
+      "prefix": "dwc",
+      "identifier": "Identification"
+    },
+    {
+      "prefix": "oboInOwl",
+      "identifier": "ObsoleteClass"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BCO",
+      "identifier": "0000042"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "dwc",
+      "identifier": "Event"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "BCO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BCO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BCO",
+      "identifier": "0000025"
+    },
+    {
+      "prefix": "BCO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "BCO",
+      "identifier": "0000042"
+    },
+    {
+      "prefix": "BCO",
+      "identifier": "0000044"
+    },
+    {
+      "prefix": "BCO",
+      "identifier": "0000046"
+    },
+    {
+      "prefix": "BCO",
+      "identifier": "0000048"
+    },
+    {
+      "prefix": "BCO",
+      "identifier": "0000059"
+    },
+    {
+      "prefix": "BCO",
+      "identifier": "0000061"
+    },
+    {
+      "prefix": "BCO",
+      "identifier": "0000062"
+    },
+    {
+      "prefix": "BCO",
+      "identifier": "0000063"
+    },
+    {
+      "prefix": "BCO",
+      "identifier": "0000064"
+    },
+    {
+      "prefix": "BCO",
+      "identifier": "0000084"
+    }
+  ]
+}

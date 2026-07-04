@@ -1,0 +1,69 @@
+{
+  "parents": [
+    {
+      "prefix": "IAO",
+      "identifier": "0000038"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000088"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000314"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000622"
+    },
+    {
+      "prefix": "skos",
+      "identifier": "Collection"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "IAO",
+      "identifier": "0000314"
+    },
+    {
+      "prefix": "MCRO",
+      "identifier": "0000006"
+    },
+    {
+      "prefix": "MCRO",
+      "identifier": "0000022"
+    },
+    {
+      "prefix": "MCRO",
+      "identifier": "0000031"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "MCRO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "MCRO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "MCRO",
+      "identifier": "0000005"
+    },
+    {
+      "prefix": "MCRO",
+      "identifier": "0000006"
+    },
+    {
+      "prefix": "MCRO",
+      "identifier": "0000014"
+    },
+    {
+      "prefix": "MCRO",
+      "identifier": "0000020"
+    }
+  ]
+}

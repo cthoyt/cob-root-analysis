@@ -28,7 +28,7 @@ Code licensed under MIT license. Original content licensed under CC0.
 </tr>
 </thead>
 <tbody>
-{% for row in site.data.results %}
+{% for row in site.data.results.rows %}
 <a id="{{ row.prefix }}"></a>
 <tr>
 <td><a href="{{ row.link }}">{{ row.prefix }}</a></td>

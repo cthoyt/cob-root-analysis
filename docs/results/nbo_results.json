@@ -1,0 +1,270 @@
+{
+  "parents": [
+    {
+      "prefix": "GO",
+      "identifier": "0002118"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0007601"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0007610"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0007622"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0007631"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0009314"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0009414"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0009416"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0030431"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0040011"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0042747"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0042748"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0050802"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0050882"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0050957"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000001"
+    }
+  ],
+  "roots": [
+    {
+      "prefix": "NBO",
+      "identifier": "0000243"
+    }
+  ],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0001101"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0003008"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0006950"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0007600"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0007610"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0007622"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0007623"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0008150"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0009314"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0009415"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0009628"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0010033"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0010035"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0022410"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0030431"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0032501"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0042221"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0042745"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0048511"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0048512"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0050802"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0050877"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0050879"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0050881"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0050885"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0050896"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0050905"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0050953"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "1901700"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "1902074"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "NBO",
+      "identifier": "0000013"
+    },
+    {
+      "prefix": "NBO",
+      "identifier": "0000024"
+    },
+    {
+      "prefix": "NBO",
+      "identifier": "0000084"
+    },
+    {
+      "prefix": "NBO",
+      "identifier": "0000159"
+    },
+    {
+      "prefix": "NBO",
+      "identifier": "0000161"
+    },
+    {
+      "prefix": "NBO",
+      "identifier": "0000234"
+    },
+    {
+      "prefix": "NBO",
+      "identifier": "0000266"
+    },
+    {
+      "prefix": "NBO",
+      "identifier": "0000313"
+    },
+    {
+      "prefix": "NBO",
+      "identifier": "0000320"
+    },
+    {
+      "prefix": "NBO",
+      "identifier": "0000403"
+    },
+    {
+      "prefix": "NBO",
+      "identifier": "0000446"
+    },
+    {
+      "prefix": "NBO",
+      "identifier": "0000545"
+    },
+    {
+      "prefix": "NBO",
+      "identifier": "0000634"
+    },
+    {
+      "prefix": "NBO",
+      "identifier": "0001536"
+    },
+    {
+      "prefix": "NBO",
+      "identifier": "0001571"
+    }
+  ]
+}

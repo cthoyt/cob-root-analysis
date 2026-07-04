@@ -1,0 +1,165 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23367"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000081"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000085"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000028"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000594"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000272"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0002467"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0002471"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000465"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000010"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000104"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000594"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000047"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "ORNASEQ",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "ORNASEQ",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "ORNASEQ",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "ORNASEQ",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "ORNASEQ",
+      "identifier": "0000005"
+    },
+    {
+      "prefix": "ORNASEQ",
+      "identifier": "0000006"
+    },
+    {
+      "prefix": "ORNASEQ",
+      "identifier": "0000007"
+    },
+    {
+      "prefix": "ORNASEQ",
+      "identifier": "0000008"
+    },
+    {
+      "prefix": "ORNASEQ",
+      "identifier": "0000009"
+    },
+    {
+      "prefix": "ORNASEQ",
+      "identifier": "0000010"
+    },
+    {
+      "prefix": "ORNASEQ",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "ORNASEQ",
+      "identifier": "0000012"
+    },
+    {
+      "prefix": "ORNASEQ",
+      "identifier": "0000013"
+    },
+    {
+      "prefix": "ORNASEQ",
+      "identifier": "0000014"
+    },
+    {
+      "prefix": "ORNASEQ",
+      "identifier": "0000017"
+    }
+  ]
+}

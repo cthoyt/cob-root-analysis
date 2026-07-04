@@ -1,0 +1,109 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000109"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000245"
+    },
+    {
+      "prefix": "oboInOwl",
+      "identifier": "ObsoleteClass"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000009"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "GEOGEO",
+      "identifier": "000000001"
+    },
+    {
+      "prefix": "GEOGEO",
+      "identifier": "000000002"
+    },
+    {
+      "prefix": "GEOGEO",
+      "identifier": "000000003"
+    },
+    {
+      "prefix": "GEOGEO",
+      "identifier": "000000337"
+    },
+    {
+      "prefix": "GEOGEO",
+      "identifier": "000000370"
+    },
+    {
+      "prefix": "GEOGEO",
+      "identifier": "000000377"
+    },
+    {
+      "prefix": "GEOGEO",
+      "identifier": "000000391"
+    },
+    {
+      "prefix": "GEOGEO",
+      "identifier": "000000393"
+    },
+    {
+      "prefix": "GEOGEO",
+      "identifier": "000000401"
+    },
+    {
+      "prefix": "GEOGEO",
+      "identifier": "000000787"
+    },
+    {
+      "prefix": "GEOGEO",
+      "identifier": "000000788"
+    },
+    {
+      "prefix": "GEOGEO",
+      "identifier": "000000789"
+    },
+    {
+      "prefix": "GEOGEO",
+      "identifier": "000083916"
+    }
+  ]
+}

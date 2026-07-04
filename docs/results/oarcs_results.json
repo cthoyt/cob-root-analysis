@@ -1,9 +1,15 @@
 {
-  "ancestors": [],
-  "children": [],
   "parents": [],
   "roots": [
-    "oarcs:0000226",
-    "oarcs:0000250"
-  ]
+    {
+      "prefix": "OARCS",
+      "identifier": "0000226"
+    },
+    {
+      "prefix": "OARCS",
+      "identifier": "0000250"
+    }
+  ],
+  "ancestors": [],
+  "children": []
 }

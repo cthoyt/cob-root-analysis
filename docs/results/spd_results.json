@@ -1,8 +1,199 @@
 {
-  "ancestors": [],
-  "children": [],
   "parents": [],
   "roots": [
-    "spd:0000000"
-  ]
+    {
+      "prefix": "SPD",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000046"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000060"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000080"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000147"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000153"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000253"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000285"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000330"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000343"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000353"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000359"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000360"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000363"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000364"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000397"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000428"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000430"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000431"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000440"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000464"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000490"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000499"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000519"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000520"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000525"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000527"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000534"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000564"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000567"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000570"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000573"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000622"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000661"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000662"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000663"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000664"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000683"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000685"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000686"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000693"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000699"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000720"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000739"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000768"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000792"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000795"
+    },
+    {
+      "prefix": "SPD",
+      "identifier": "0000825"
+    }
+  ],
+  "ancestors": [],
+  "children": []
 }

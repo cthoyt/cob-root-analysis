@@ -1,0 +1,705 @@
+{
+  "parents": [
+    {
+      "prefix": "BTO",
+      "identifier": "0000597"
+    },
+    {
+      "prefix": "BTO",
+      "identifier": "0001117"
+    },
+    {
+      "prefix": "CL",
+      "identifier": "0000182"
+    },
+    {
+      "prefix": "CL",
+      "identifier": "0000232"
+    },
+    {
+      "prefix": "CL",
+      "identifier": "0000235"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000403"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "29176"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "42890"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "5659"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "5661"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "5664"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "5671"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "5691"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "5693"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "5801"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "5802"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "5804"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "5807"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "5811"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "5820"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "5821"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "5825"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "5833"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "5850"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "5855"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "5861"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "6182"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "6183"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "6185"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0100026"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000056"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000105"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000106"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000160"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000178"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000465"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001044"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001045"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001046"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001255"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001359"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0002048"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0002097"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0002107"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0002385"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0005617"
+    },
+    {
+      "prefix": "oboInOwl",
+      "identifier": "ObsoleteClass"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "CL",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "5654"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "5658"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "5690"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "5800"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "5806"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "5820"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "6181"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0100026"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000232"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000105"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000465"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "OPL",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000012"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000032"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000037"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000038"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000043"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000049"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000052"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000060"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000061"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000077"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000079"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000083"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000088"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000089"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000092"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000094"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000104"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000105"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000121"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000126"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000128"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000130"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000134"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000147"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000150"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000154"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000155"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000164"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000166"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000168"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000171"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000176"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000178"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000179"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000180"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000181"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000182"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000188"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000194"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000200"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000204"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000208"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000213"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000215"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000219"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000232"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000260"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000264"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000267"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000270"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000307"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000310"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000311"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000312"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000313"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000314"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000315"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000316"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000317"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000318"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000321"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000326"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000327"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000328"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000329"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000330"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000331"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000332"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000333"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000334"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000335"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000336"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000337"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000338"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000339"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000340"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000341"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000342"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000343"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000344"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000345"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000346"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000370"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000371"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000372"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000373"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000384"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000385"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000386"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000387"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000388"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000389"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000390"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000391"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000392"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000393"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000394"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000395"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000396"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000397"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000398"
+    },
+    {
+      "prefix": "OPL",
+      "identifier": "0000420"
+    }
+  ]
+}

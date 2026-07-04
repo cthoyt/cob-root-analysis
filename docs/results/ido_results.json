@@ -1,0 +1,297 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000038"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "CARO",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23367"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0008150"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0051234"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0065007"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "10239"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0100026"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000045"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000063"
+    },
+    {
+      "prefix": "TRANS",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "oboInOwl",
+      "identifier": "ObsoleteClass"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000008"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0008150"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0100026"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "IDO",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000400"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000405"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000417"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000425"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000426"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000436"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000437"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000456"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000457"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000459"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000463"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000464"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000466"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000495"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000497"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000502"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000503"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000504"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000508"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000509"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000519"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000520"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000528"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000543"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000545"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000547"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000548"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000549"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000553"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000554"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000557"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000593"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000617"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000625"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000656"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000662"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000663"
+    }
+  ]
+}

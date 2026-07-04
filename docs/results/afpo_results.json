@@ -1,0 +1,32 @@
+{
+  "parents": [
+    {
+      "prefix": "OBI",
+      "identifier": "0000181"
+    }
+  ],
+  "roots": [],
+  "ancestors": [],
+  "children": [
+    {
+      "prefix": "AfPO",
+      "identifier": "0000188"
+    },
+    {
+      "prefix": "AfPO",
+      "identifier": "0000274"
+    },
+    {
+      "prefix": "AfPO",
+      "identifier": "0000275"
+    },
+    {
+      "prefix": "AfPO",
+      "identifier": "0000276"
+    },
+    {
+      "prefix": "AfPO",
+      "identifier": "0000277"
+    }
+  ]
+}

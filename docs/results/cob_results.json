@@ -1,0 +1,82 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0110165"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000465"
+    }
+  ],
+  "roots": [
+    {
+      "prefix": "COB",
+      "identifier": "0000502"
+    }
+  ],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0005575"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000465"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001062"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "COB",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000013"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000021"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000022"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000026"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000080"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000082"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0001000"
+    }
+  ]
+}

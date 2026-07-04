@@ -1,0 +1,566 @@
+{
+  "parents": [
+    {
+      "prefix": "APOLLO_SV",
+      "identifier": "00000032"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000034"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000038"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000145"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000035"
+    },
+    {
+      "prefix": "GEOGEO",
+      "identifier": "000000400"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0007610"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000005"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000028"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000100"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000104"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000310"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000416"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000578"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0021001"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0021003"
+    },
+    {
+      "prefix": "MF",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000245"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0200000"
+    },
+    {
+      "prefix": "OBIB",
+      "identifier": "0000667"
+    },
+    {
+      "prefix": "OBIB",
+      "identifier": "0000701"
+    },
+    {
+      "prefix": "OBIB",
+      "identifier": "0000710"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000097"
+    },
+    {
+      "prefix": "oboInOwl",
+      "identifier": "ObsoleteClass"
+    }
+  ],
+  "roots": [
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000086"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000090"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000094"
+    }
+  ],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000008"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000035"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0008150"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000104"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0021003"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0021009"
+    },
+    {
+      "prefix": "MF",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000245"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000096"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000074"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000000"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000007"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000016"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000018"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000022"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000024"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000033"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000039"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000040"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000051"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000052"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000053"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000056"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000057"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000061"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000074"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000075"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000076"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000084"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000088"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000089"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000093"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000097"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000126"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000142"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000143"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000144"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000146"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000152"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000153"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000159"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000160"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000161"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000163"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000164"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000166"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000170"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000171"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000188"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000195"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000201"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000202"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000222"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000223"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000224"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000225"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000226"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000230"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000231"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000232"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000233"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000234"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000236"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000242"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000243"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000253"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000254"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000255"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000259"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000277"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000284"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000285"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000292"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000302"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000303"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000500"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000506"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000931"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00002030"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00002031"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00002037"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00002058"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00002060"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00002061"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00002062"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00002064"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00002066"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00002068"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00002069"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00002072"
+    }
+  ]
+}

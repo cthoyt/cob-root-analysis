@@ -1,0 +1,173 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000310"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0021003"
+    },
+    {
+      "prefix": "MF",
+      "identifier": "0000041"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "9606"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000245"
+    },
+    {
+      "prefix": "OMRSE",
+      "identifier": "00000285"
+    },
+    {
+      "prefix": "commoncoreontology",
+      "identifier": "00000636"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "OCCO",
+      "identifier": "00000011"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "OCCO",
+      "identifier": "00000001"
+    },
+    {
+      "prefix": "OCCO",
+      "identifier": "00000011"
+    },
+    {
+      "prefix": "OCCO",
+      "identifier": "00000012"
+    },
+    {
+      "prefix": "OCCO",
+      "identifier": "00000013"
+    },
+    {
+      "prefix": "OCCO",
+      "identifier": "00000014"
+    },
+    {
+      "prefix": "OCCO",
+      "identifier": "00000059"
+    },
+    {
+      "prefix": "OCCO",
+      "identifier": "00000112"
+    },
+    {
+      "prefix": "OCCO",
+      "identifier": "00000113"
+    },
+    {
+      "prefix": "OCCO",
+      "identifier": "00000118"
+    },
+    {
+      "prefix": "OCCO",
+      "identifier": "00000120"
+    },
+    {
+      "prefix": "OCCO",
+      "identifier": "00000122"
+    },
+    {
+      "prefix": "OCCO",
+      "identifier": "00000127"
+    },
+    {
+      "prefix": "OCCO",
+      "identifier": "00000128"
+    },
+    {
+      "prefix": "OCCO",
+      "identifier": "00000129"
+    },
+    {
+      "prefix": "OCCO",
+      "identifier": "00000136"
+    },
+    {
+      "prefix": "OCCO",
+      "identifier": "00000138"
+    }
+  ]
+}

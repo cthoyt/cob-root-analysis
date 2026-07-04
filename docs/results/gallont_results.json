@@ -1,0 +1,569 @@
+{
+  "parents": [
+    {
+      "prefix": "CARO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "CARO",
+      "identifier": "0000048"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "109362"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "1540852"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "1934078"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "2714064"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "3511"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0100026"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000051"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000052"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000060"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000150"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000454"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000700"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001533"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001543"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001729"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001865"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001925"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0002012"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0002266"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0000055"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0009007"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0025034"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0025092"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0025117"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0025496"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0025498"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001062"
+    },
+    {
+      "prefix": "obo",
+      "identifier": "http://purl.obolibrary.org/obo/PO_0000146"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000025"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000035"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000038"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000049"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "1"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "1206794"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "131567"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "1389465"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "1934078"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "197562"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "197563"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "2759"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "33090"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "33154"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "33208"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "33213"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "33317"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "3503"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "50557"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "6072"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "6656"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "6946"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "6960"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "70320"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "73401"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "7399"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "75144"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "88770"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0100026"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000051"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000052"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000060"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000066"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000150"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001018"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001241"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001546"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001995"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0002007"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0002198"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0002266"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0000037"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0000055"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0000225"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0006001"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0006079"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0009006"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0009007"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0009008"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0009011"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0009013"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0020144"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0020148"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0025004"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0025007"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0025029"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0025127"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0025128"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0025131"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0025430"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0025496"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0025497"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001062"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000005"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000007"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000013"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000014"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000018"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000021"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000022"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000024"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000025"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000026"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000028"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000029"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000032"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000034"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000035"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000038"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000039"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000042"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000043"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000044"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000045"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000046"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000047"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000048"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000049"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000050"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000051"
+    },
+    {
+      "prefix": "GALLONT",
+      "identifier": "0000053"
+    }
+  ]
+}

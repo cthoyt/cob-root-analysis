@@ -1,0 +1,445 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000034"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000182"
+    },
+    {
+      "prefix": "CARO",
+      "identifier": "0001010"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000408"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "02500000"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0002164"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0022414"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0032502"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "2"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0100026"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001434"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001995"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "RO",
+      "identifier": "0002577"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000105"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0002548"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000024"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000029"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000141"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000254"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000799"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000804"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000813"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000817"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001479"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001784"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "02500000"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "02500030"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0007275"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0008150"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0009791"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0032501"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0032502"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0048856"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "1"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "131567"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0100026"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001241"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001995"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0002003"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000029"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "RO",
+      "identifier": "0002577"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000061"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000104"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000465"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000468"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001062"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0010000"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0034925"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000001"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000003"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000004"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000008"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000010"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000015"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000018"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000022"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000023"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000024"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000026"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000027"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000028"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000029"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000030"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000031"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000034"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000035"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000036"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000037"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000038"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000039"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000044"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000045"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000048"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000049"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000055"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000057"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000061"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000062"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000068"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000069"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000070"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000071"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000072"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000073"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000075"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000076"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000077"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000166"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "3000001"
+    }
+  ]
+}

@@ -1,0 +1,2238 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000024"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000029"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000034"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000038"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000146"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "15379"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24870"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33937"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35204"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "50906"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "60027"
+    },
+    {
+      "prefix": "FAO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "FOODON",
+      "identifier": "00002403"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0008150"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0042755"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "131567"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "33090"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "33208"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "4751"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "7705"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "9606"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000008"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000014"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000018"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000025"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000039"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000049"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000070"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000080"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000140"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000141"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000146"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000150"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000161"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000915"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000918"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000973"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001018"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001019"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001025"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001030"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001236"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001241"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001295"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001303"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001309"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001351"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001353"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001536"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001595"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001687"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001757"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001822"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001842"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001986"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0002062"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0002242"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0015009"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0009005"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0025161"
+    },
+    {
+      "prefix": "RO",
+      "identifier": "0002577"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000014"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000022"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000061"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000160"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000165"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000456"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001062"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001474"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001555"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0006314"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0015474"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "1000021"
+    }
+  ],
+  "roots": [
+    {
+      "prefix": "ENVO",
+      "identifier": "01001571"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001583"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001626"
+    }
+  ],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000008"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000024"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000029"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000140"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000141"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "138675"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23367"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24431"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24432"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24835"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25362"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25367"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "25806"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33232"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33259"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33262"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33263"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33284"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33304"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33579"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33675"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36357"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "50906"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "52211"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "59999"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "60004"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "78295"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000022"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000502"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000013"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000020"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000035"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000054"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000062"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000063"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000067"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000098"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000133"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000191"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000220"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000309"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000395"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000397"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000424"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00002005"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00002033"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00010483"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00010504"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00010505"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000137"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000139"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000254"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000281"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000324"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000364"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000406"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000408"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000549"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000617"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000635"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000685"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000690"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000785"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000797"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000799"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000800"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000804"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000813"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000817"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000819"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000996"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001110"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001194"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001209"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001228"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001260"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001275"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001311"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001436"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001437"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001444"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001445"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001476"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001477"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001479"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001483"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001498"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001684"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001685"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001686"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001688"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001689"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001691"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001763"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001782"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001784"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001785"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001814"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001852"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001884"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001886"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "02000140"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "02500000"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "02500026"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "02500027"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "02500030"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "02500031"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "02500042"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "03000009"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "03000010"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "03000053"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "04000015"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "04000016"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0007610"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0007631"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0008150"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0032501"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "1"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "117570"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "117571"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "131567"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "133551"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "1338369"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "1437010"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "207598"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "2759"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "314146"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "314293"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "314295"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "32523"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "32524"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "32525"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "33154"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "33208"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "33213"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "33511"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "376913"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "40674"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "6072"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "7586"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "7624"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "7711"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "7742"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "7776"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "8287"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "89593"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "9347"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "9443"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "9526"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "9604"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "9605"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000051"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000068"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000070"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000117"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000140"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000141"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001018"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001019"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001236"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001241"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001292"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001294"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001296"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001300"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001536"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001547"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001585"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001708"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001710"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001906"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0002062"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0002182"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0002198"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0070060"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0103000"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000018"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000029"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0005029"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0009007"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0009008"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0009011"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0009013"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0025004"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0025007"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0025025"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0025127"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0025131"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0025433"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0025496"
+    },
+    {
+      "prefix": "PO",
+      "identifier": "0025497"
+    },
+    {
+      "prefix": "RO",
+      "identifier": "0002577"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000014"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000021"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000025"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000060"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000061"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000062"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000064"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000075"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000076"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000153"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000307"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000344"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000463"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000465"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000467"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000468"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000475"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000479"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000481"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000483"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000490"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000922"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000923"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000924"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001003"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001007"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001062"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001084"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001421"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001434"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001444"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001456"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001555"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0002050"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0002097"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0002199"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0002204"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0002416"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0002532"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0003102"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0004111"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0004121"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0004288"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0004529"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0004716"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0004765"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0004921"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0004923"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0005291"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0005409"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0005423"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0006003"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0006598"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0006601"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0007010"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0007026"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0007376"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0007383"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0007811"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0007823"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0009472"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0010000"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0010314"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0010316"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0010371"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0010707"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0010708"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0011216"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0011272"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0011676"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0012180"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0013522"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0013701"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0013702"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0013703"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0015212"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0034768"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0034921"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0034923"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0034925"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0034929"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0034944"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0035804"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "3000961"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "8480025"
+    },
+    {
+      "prefix": "oboInOwl",
+      "identifier": "ObsoleteClass"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "ENVO",
+      "identifier": "00000012"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000069"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000102"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000123"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000380"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000428"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000486"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000564"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00003074"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00003076"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00010005"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00010358"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00010483"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000203"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000281"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000338"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000349"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000408"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000413"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000414"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000452"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000498"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000628"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000665"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000739"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000785"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000804"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000993"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000996"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001000"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001001"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001002"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001008"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001030"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001031"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001033"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001041"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001058"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001164"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001168"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001173"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001187"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001188"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001194"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001205"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001228"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001229"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001303"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001306"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001335"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001361"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001362"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001363"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001374"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001375"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001377"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001495"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001496"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001498"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001504"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001508"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001522"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001544"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001564"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001606"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001617"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001621"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001641"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001642"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001643"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001667"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001686"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001829"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001844"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001853"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001858"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001865"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001877"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001879"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001880"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001881"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01003001"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01003005"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01003011"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01003012"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01003020"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "02000020"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "02000047"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "02000055"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "02000081"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "02000148"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "02500000"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "02500026"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "03000096"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "03000123"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "03000138"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "03000142"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "03000147"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "03400003"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "03400009"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "03510066"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "04000004"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "06105002"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "06105004"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "06105005"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "06105012"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "06105014"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "06105019"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "06105020"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "06105109"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "06105122"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "06105123"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "06105203"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "06105204"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "06105210"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "06105213"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "06105215"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "06105225"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "06105226"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "06105232"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "06105236"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "06105240"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "06105271"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "08000001"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "08000002"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09000001"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09000004"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09000010"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09000013"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09000029"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09100001"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09100004"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09200000"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09200002"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09200003"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09200004"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09200005"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09200008"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09200009"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09200010"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09200011"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09200013"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09200015"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09200016"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09200017"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09200018"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09200021"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09200023"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09200024"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09200025"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09200026"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09200027"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09200028"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09200029"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09200030"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09200031"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09200032"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09200033"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09200034"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09200035"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09200036"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "09200037"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "2000015"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "2100002"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "2100003"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "2100005"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "2100006"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "3100030"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "3100031"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "3100032"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "3100033"
+    }
+  ]
+}

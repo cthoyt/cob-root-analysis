@@ -1,117 +1,470 @@
 {
-  "ancestors": [
-    "bfo:0000001",
-    "bfo:0000002",
-    "bfo:0000003",
-    "bfo:0000004",
-    "bfo:0000015",
-    "bfo:0000020",
-    "bfo:0000040",
-    "bfo:0000141",
-    "caro:0000000",
-    "caro:0000003",
-    "caro:0000006",
-    "caro:0000007",
-    "caro:0000010",
-    "caro:0030000",
-    "go:0008150",
-    "go:0032502",
-    "pato:0000001",
-    "pato:0000133",
-    "pato:0000140",
-    "pato:0001018",
-    "pato:0001241",
-    "uberon:0000061",
-    "uberon:0000105",
-    "uberon:0000465",
-    "uberon:0001062"
-  ],
-  "children": [
-    "plana:0000001",
-    "plana:0000003",
-    "plana:0000004",
-    "plana:0000021",
-    "plana:0000063",
-    "plana:0000102",
-    "plana:0000117",
-    "plana:0000131",
-    "plana:0000136",
-    "plana:0000137",
-    "plana:0000214",
-    "plana:0000215",
-    "plana:0000221",
-    "plana:0000234",
-    "plana:0000404",
-    "plana:0000405",
-    "plana:0000412",
-    "plana:0000417",
-    "plana:0000423",
-    "plana:0000427",
-    "plana:0000461",
-    "plana:0000495",
-    "plana:0000499",
-    "plana:0000520",
-    "plana:0000522",
-    "plana:0001005",
-    "plana:0002006",
-    "plana:0002012",
-    "plana:0002037",
-    "plana:0002038",
-    "plana:0002042",
-    "plana:0002054",
-    "plana:0002059",
-    "plana:0002084",
-    "plana:0002090",
-    "plana:0002098",
-    "plana:0002114",
-    "plana:0002122",
-    "plana:0002128",
-    "plana:0002129",
-    "plana:0002134",
-    "plana:0002136",
-    "plana:0002139",
-    "plana:0003103",
-    "plana:0003300",
-    "plana:0003303",
-    "plana:0003900",
-    "plana:0004503",
-    "plana:0004504",
-    "plana:0004514",
-    "plana:0004516",
-    "plana:0004530",
-    "plana:0004531",
-    "plana:0004534",
-    "plana:0007553",
-    "plana:0007556",
-    "plana:0007558"
-  ],
   "parents": [
-    "bfo:0000004",
-    "bfo:0000040",
-    "bfo:0000141",
-    "bspo:0000005",
-    "bspo:0000070",
-    "bspo:0000086",
-    "bspo:0000400",
-    "caro:0000000",
-    "go:0005575",
-    "go:0048856",
-    "owl:Thing",
-    "pato:0005024",
-    "uberon:0000061",
-    "uberon:0000068",
-    "uberon:0000105",
-    "uberon:0000465",
-    "uberon:0000475",
-    "uberon:0000476",
-    "uberon:0002553",
-    "uberon:0005423",
-    "uberon:0007567"
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000141"
+    },
+    {
+      "prefix": "BSPO",
+      "identifier": "0000005"
+    },
+    {
+      "prefix": "BSPO",
+      "identifier": "0000070"
+    },
+    {
+      "prefix": "BSPO",
+      "identifier": "0000071"
+    },
+    {
+      "prefix": "BSPO",
+      "identifier": "0000072"
+    },
+    {
+      "prefix": "BSPO",
+      "identifier": "0000082"
+    },
+    {
+      "prefix": "BSPO",
+      "identifier": "0000086"
+    },
+    {
+      "prefix": "BSPO",
+      "identifier": "0000400"
+    },
+    {
+      "prefix": "CARO",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0005575"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0048856"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0005024"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000061"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000068"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000105"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000465"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000475"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000476"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0002553"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0005423"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0007567"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
   ],
   "roots": [
-    "plana:0003101",
-    "plana:0003102",
-    "plana:0003105",
-    "plana:0003116"
+    {
+      "prefix": "PLANA",
+      "identifier": "0003101"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0003102"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0003105"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0003116"
+    }
+  ],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000141"
+    },
+    {
+      "prefix": "BSPO",
+      "identifier": "0000070"
+    },
+    {
+      "prefix": "CARO",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "CARO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "CARO",
+      "identifier": "0000006"
+    },
+    {
+      "prefix": "CARO",
+      "identifier": "0000007"
+    },
+    {
+      "prefix": "CARO",
+      "identifier": "0000010"
+    },
+    {
+      "prefix": "CARO",
+      "identifier": "0030000"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0008150"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0032502"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000133"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000140"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001018"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001241"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000061"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000105"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000465"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001062"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "PLANA",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000012"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000018"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000021"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000041"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000058"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000063"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000068"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000102"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000117"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000131"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000136"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000137"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000214"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000215"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000404"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000405"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000406"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000407"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000411"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000412"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000413"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000417"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000423"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000427"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000430"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000495"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000499"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000501"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0000505"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0001005"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0002037"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0002038"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0002054"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0002059"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0002090"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0002098"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0002114"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0002122"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0002128"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0002129"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0002134"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0002136"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0002139"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0003802"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0003803"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0003804"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0004503"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0004504"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0004530"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0004531"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0004534"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0007556"
+    },
+    {
+      "prefix": "PLANA",
+      "identifier": "0007558"
+    }
   ]
 }

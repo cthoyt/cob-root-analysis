@@ -1,0 +1,42 @@
+{
+  "parents": [
+    {
+      "prefix": "NCIT",
+      "identifier": "85540"
+    }
+  ],
+  "roots": [
+    {
+      "prefix": "ARO",
+      "identifier": "1000001"
+    }
+  ],
+  "ancestors": [
+    {
+      "prefix": "ARO",
+      "identifier": "1000001"
+    },
+    {
+      "prefix": "ARO",
+      "identifier": "3000045"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "ARO",
+      "identifier": "3004387"
+    },
+    {
+      "prefix": "ARO",
+      "identifier": "3004388"
+    },
+    {
+      "prefix": "ARO",
+      "identifier": "3004389"
+    },
+    {
+      "prefix": "ARO",
+      "identifier": "3004390"
+    }
+  ]
+}
