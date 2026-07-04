@@ -1,31 +1,94 @@
 {
-  "ancestors": [
-    "cl:0000000",
-    "go:0005575"
-  ],
-  "children": [
-    "clyh:0000002",
-    "clyh:0000034",
-    "clyh:0000059",
-    "clyh:1000003",
-    "clyh:1000017",
-    "clyh:1000050",
-    "clyh:1000051",
-    "clyh:1000054",
-    "clyh:1000057",
-    "clyh:1000087",
-    "clyh:1000124",
-    "clyh:1000167",
-    "clyh:1000185"
-  ],
   "parents": [
-    "cl:0000000",
-    "go:0005575",
-    "go:0005938",
-    "uberon:0000061",
-    "uberon:0000105"
+    {
+      "prefix": "CL",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0005575"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0005938"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000061"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000105"
+    }
   ],
   "roots": [
-    "clyh:1000001"
+    {
+      "prefix": "CLYH",
+      "identifier": "1000001"
+    }
+  ],
+  "ancestors": [
+    {
+      "prefix": "CL",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0005575"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "CLYH",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "CLYH",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "CLYH",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "CLYH",
+      "identifier": "1000003"
+    },
+    {
+      "prefix": "CLYH",
+      "identifier": "1000004"
+    },
+    {
+      "prefix": "CLYH",
+      "identifier": "1000005"
+    },
+    {
+      "prefix": "CLYH",
+      "identifier": "1000016"
+    },
+    {
+      "prefix": "CLYH",
+      "identifier": "1000017"
+    },
+    {
+      "prefix": "CLYH",
+      "identifier": "1000018"
+    },
+    {
+      "prefix": "CLYH",
+      "identifier": "1000050"
+    },
+    {
+      "prefix": "CLYH",
+      "identifier": "1000051"
+    },
+    {
+      "prefix": "CLYH",
+      "identifier": "1000054"
+    },
+    {
+      "prefix": "CLYH",
+      "identifier": "1000057"
+    }
   ]
 }

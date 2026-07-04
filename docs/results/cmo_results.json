@@ -1,0 +1,67 @@
+{
+  "parents": [],
+  "roots": [
+    {
+      "prefix": "CMO",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "CMO",
+      "identifier": "0000704"
+    },
+    {
+      "prefix": "CMO",
+      "identifier": "0001818"
+    },
+    {
+      "prefix": "CMO",
+      "identifier": "0001819"
+    },
+    {
+      "prefix": "CMO",
+      "identifier": "0002133"
+    },
+    {
+      "prefix": "CMO",
+      "identifier": "0003083"
+    },
+    {
+      "prefix": "CMO",
+      "identifier": "0003084"
+    },
+    {
+      "prefix": "CMO",
+      "identifier": "0003303"
+    },
+    {
+      "prefix": "CMO",
+      "identifier": "0003365"
+    },
+    {
+      "prefix": "CMO",
+      "identifier": "0003368"
+    },
+    {
+      "prefix": "CMO",
+      "identifier": "0003369"
+    },
+    {
+      "prefix": "CMO",
+      "identifier": "0003384"
+    },
+    {
+      "prefix": "CMO",
+      "identifier": "0003732"
+    },
+    {
+      "prefix": "CMO",
+      "identifier": "0003733"
+    },
+    {
+      "prefix": "CMO",
+      "identifier": "0003929"
+    }
+  ],
+  "ancestors": [],
+  "children": []
+}

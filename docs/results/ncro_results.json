@@ -1,0 +1,405 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33697"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0005488"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0006351"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0008152"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0016070"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0100026"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0000167"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0000234"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0000276"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0000483"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0000667"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0000704"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0001411"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000479"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000034"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23367"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33697"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0003674"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0006139"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0006725"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0008150"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0008152"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0009058"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0009059"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0009987"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0016070"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0018130"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0019438"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0032774"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0034641"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0034645"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0034654"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0043170"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0044237"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0044238"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0044249"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0044260"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0044271"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0046483"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0071704"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0090304"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "1901360"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "1901362"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "1901576"
+    },
+    {
+      "prefix": "NCRO",
+      "identifier": "0004000"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0000110"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0000185"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0000233"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0000370"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0000655"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0000673"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0000831"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0001055"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0001411"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0001679"
+    },
+    {
+      "prefix": "SO",
+      "identifier": "0005836"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000061"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000465"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "NCRO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "NCRO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "NCRO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "NCRO",
+      "identifier": "0000008"
+    },
+    {
+      "prefix": "NCRO",
+      "identifier": "0000009"
+    },
+    {
+      "prefix": "NCRO",
+      "identifier": "0000010"
+    },
+    {
+      "prefix": "NCRO",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "NCRO",
+      "identifier": "0000012"
+    },
+    {
+      "prefix": "NCRO",
+      "identifier": "0000013"
+    },
+    {
+      "prefix": "NCRO",
+      "identifier": "0000014"
+    },
+    {
+      "prefix": "NCRO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "NCRO",
+      "identifier": "0000025"
+    },
+    {
+      "prefix": "NCRO",
+      "identifier": "0000026"
+    },
+    {
+      "prefix": "NCRO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "NCRO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "NCRO",
+      "identifier": "0000091"
+    },
+    {
+      "prefix": "NCRO",
+      "identifier": "0000098"
+    },
+    {
+      "prefix": "NCRO",
+      "identifier": "0000099"
+    },
+    {
+      "prefix": "NCRO",
+      "identifier": "0000123"
+    },
+    {
+      "prefix": "NCRO",
+      "identifier": "0000235"
+    },
+    {
+      "prefix": "NCRO",
+      "identifier": "0000481"
+    },
+    {
+      "prefix": "NCRO",
+      "identifier": "0000801"
+    },
+    {
+      "prefix": "NCRO",
+      "identifier": "0000803"
+    },
+    {
+      "prefix": "NCRO",
+      "identifier": "0001667"
+    },
+    {
+      "prefix": "NCRO",
+      "identifier": "0004000"
+    }
+  ]
+}

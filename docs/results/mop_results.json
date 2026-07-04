@@ -1,0 +1,33 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000144"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "MOP",
+      "identifier": "0000543"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000773"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000774"
+    }
+  ]
+}

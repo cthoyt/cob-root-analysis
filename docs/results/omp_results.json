@@ -1,18 +1,42 @@
 {
-  "ancestors": [
-    "pato:0000001"
-  ],
-  "children": [
-    "omp:0007188",
-    "omp:0007189",
-    "omp:0007193"
-  ],
   "parents": [
-    "pato:0000068",
-    "pato:0001236",
-    "pato:0001241"
+    {
+      "prefix": "PATO",
+      "identifier": "0000068"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001236"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001241"
+    }
   ],
   "roots": [
-    "omp:0000000"
+    {
+      "prefix": "OMP",
+      "identifier": "0000000"
+    }
+  ],
+  "ancestors": [
+    {
+      "prefix": "PATO",
+      "identifier": "0000001"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "OMP",
+      "identifier": "0007188"
+    },
+    {
+      "prefix": "OMP",
+      "identifier": "0007189"
+    },
+    {
+      "prefix": "OMP",
+      "identifier": "0007193"
+    }
   ]
 }

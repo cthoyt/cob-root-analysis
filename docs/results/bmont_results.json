@@ -1,0 +1,381 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "EFO",
+      "identifier": "0001444"
+    },
+    {
+      "prefix": "EFO",
+      "identifier": "0004517"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0008150"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0008152"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000233"
+    },
+    {
+      "prefix": "MI",
+      "identifier": "0252"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C16809"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C16866"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C19498"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C201367"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000070"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000968"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0302911"
+    },
+    {
+      "prefix": "OPMI",
+      "identifier": "0000445"
+    },
+    {
+      "prefix": "PR",
+      "identifier": "000000001"
+    },
+    {
+      "prefix": "SIO",
+      "identifier": "000144"
+    },
+    {
+      "prefix": "obo",
+      "identifier": "bmont.owl/BMONT_0000169"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000081"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23367"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24431"
+    },
+    {
+      "prefix": "EFO",
+      "identifier": "0001444"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0008150"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000300"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C17369"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C19498"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "OPMI",
+      "identifier": "0000445"
+    },
+    {
+      "prefix": "afo",
+      "identifier": "realizable#AFRE_0000002"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "BMONT",
+      "identifier": "0000005"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000006"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000007"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000013"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000014"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000021"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000025"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000026"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000032"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000034"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000036"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000038"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000041"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000043"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000044"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000046"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000047"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000049"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000054"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000062"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000068"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000070"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000072"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000073"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000074"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000078"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000081"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000083"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000084"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000085"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000093"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000098"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000100"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000109"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000111"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000127"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000128"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000129"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000136"
+    },
+    {
+      "prefix": "BMONT",
+      "identifier": "0000137"
+    }
+  ]
+}

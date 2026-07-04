@@ -1,0 +1,50 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000031"
+    }
+  ],
+  "roots": [
+    {
+      "prefix": "PSO",
+      "identifier": "0000001"
+    }
+  ],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "PSO",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "PSO",
+      "identifier": "0000013"
+    }
+  ]
+}

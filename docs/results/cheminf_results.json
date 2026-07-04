@@ -1,0 +1,385 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000010"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000028"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000064"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000098"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000310"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000577"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000011"
+    }
+  ],
+  "roots": [
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000001"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000007"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000016"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000025"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000032"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000042"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000043"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000044"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000059"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000061"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000083"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000087"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000092"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000093"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000101"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000107"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000113"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000123"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000136"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000174"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000186"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000195"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000202"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000206"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000209"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000212"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000214"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000215"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000216"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000217"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000218"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000219"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000229"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000244"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000245"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000251"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000253"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000254"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000257"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000263"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000268"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000280"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000295"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000300"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000301"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000413"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000414"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000415"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000416"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000417"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000418"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000419"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000420"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000450"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000505"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000506"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000507"
+    }
+  ],
+  "ancestors": [],
+  "children": [
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000000"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000014"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000017"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000057"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "0000574"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "0000575"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000086"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000138"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000139"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000144"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000211"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000404"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000410"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000464"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000468"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000471"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000500"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000501"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000502"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000509"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000510"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000552"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000567"
+    },
+    {
+      "prefix": "CHEMINF",
+      "identifier": "000568"
+    }
+  ]
+}

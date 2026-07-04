@@ -1,0 +1,2142 @@
+{
+  "parents": [
+    {
+      "prefix": "APOLLO_SV",
+      "identifier": "00000173"
+    },
+    {
+      "prefix": "ARO",
+      "identifier": "3004299"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000141"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36357"
+    },
+    {
+      "prefix": "CHMO",
+      "identifier": "0000993"
+    },
+    {
+      "prefix": "CHMO",
+      "identifier": "0002743"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000026"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0001000"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0001300"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "104"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "114"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "1287"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "4"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "7"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "77"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "850"
+    },
+    {
+      "prefix": "EFO",
+      "identifier": "0000433"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000005"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000002"
+    },
+    {
+      "prefix": "ExO",
+      "identifier": "0000038"
+    },
+    {
+      "prefix": "FOODON",
+      "identifier": "00002403"
+    },
+    {
+      "prefix": "HSO",
+      "identifier": "0000072"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000005"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000009"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000028"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000032"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000100"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000104"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000109"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000300"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000408"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000416"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000577"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0020000"
+    },
+    {
+      "prefix": "MI",
+      "identifier": "0489"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "10239"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C103180"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C15631"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C16632"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C25190"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C25621"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C40978"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C41277"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C42614"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C43167"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C53471"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C79916"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C87194"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000047"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000070"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000079"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000112"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000245"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000658"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000659"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000696"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000832"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000938"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000973"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001141"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001169"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001173"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001177"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001616"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001879"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001882"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001884"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001892"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001893"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001896"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001899"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001930"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001931"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001933"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0002003"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0002692"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0002767"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0002800"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0002814"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0002824"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0100051"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0400103"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0600005"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0600012"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0600044"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "1110034"
+    },
+    {
+      "prefix": "OMP",
+      "identifier": "0000207"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001894"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "SIO",
+      "identifier": "000136"
+    },
+    {
+      "prefix": "SIO",
+      "identifier": "000507"
+    },
+    {
+      "prefix": "SIO",
+      "identifier": "000546"
+    },
+    {
+      "prefix": "SIO",
+      "identifier": "000729"
+    },
+    {
+      "prefix": "STATO",
+      "identifier": "0000010"
+    },
+    {
+      "prefix": "STATO",
+      "identifier": "0000047"
+    },
+    {
+      "prefix": "TRANS",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "TRANS",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000463"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001062"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001988"
+    },
+    {
+      "prefix": "UO",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "UO",
+      "identifier": "0000051"
+    },
+    {
+      "prefix": "UO",
+      "identifier": "0000060"
+    },
+    {
+      "prefix": "UO",
+      "identifier": "0000182"
+    },
+    {
+      "prefix": "UO",
+      "identifier": "0000186"
+    },
+    {
+      "prefix": "UO",
+      "identifier": "0000189"
+    },
+    {
+      "prefix": "UO",
+      "identifier": "0000190"
+    },
+    {
+      "prefix": "UO",
+      "identifier": "0000212"
+    },
+    {
+      "prefix": "UO",
+      "identifier": "0000270"
+    },
+    {
+      "prefix": "edam.data",
+      "identifier": "1093"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "roots": [
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001367"
+    }
+  ],
+  "ancestors": [
+    {
+      "prefix": "ARO",
+      "identifier": "3004430"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000141"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "23367"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24431"
+    },
+    {
+      "prefix": "CHMO",
+      "identifier": "0000993"
+    },
+    {
+      "prefix": "CL",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "CL",
+      "identifier": "0000010"
+    },
+    {
+      "prefix": "CL",
+      "identifier": "0000578"
+    },
+    {
+      "prefix": "CL",
+      "identifier": "0001034"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000022"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000026"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000035"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000082"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000110"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000502"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0001300"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "0050117"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "0050161"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "0060118"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "1287"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "1579"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "4"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "7"
+    },
+    {
+      "prefix": "EFO",
+      "identifier": "0000433"
+    },
+    {
+      "prefix": "EFO",
+      "identifier": "0000719"
+    },
+    {
+      "prefix": "EFO",
+      "identifier": "0001444"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000000"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000002"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000004"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000005"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00000026"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "00010483"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01000813"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000028"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000106"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000134"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001170"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001432"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001444"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001636"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001688"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001741"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001744"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001800"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001854"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001859"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001884"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001921"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100634"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0007610"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0008150"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0032501"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0035176"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0051703"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000005"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000028"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000032"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000100"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000104"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000109"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000300"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000416"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000577"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0001000"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C15329"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C16203"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C16632"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C16830"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C17627"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C19157"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C19498"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C25162"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C25198"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C25218"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C25677"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C41009"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C43164"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C43186"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C43431"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C48187"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C49165"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C70699"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C73706"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C81893"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C97331"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000070"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000245"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000658"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000659"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000832"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001167"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001173"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001866"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001933"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0002786"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0002814"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0100051"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0400103"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0600005"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0600014"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0600047"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000047"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001241"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001995"
+    },
+    {
+      "prefix": "STATO",
+      "identifier": "0000039"
+    },
+    {
+      "prefix": "TRANS",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000174"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000463"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000465"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001062"
+    },
+    {
+      "prefix": "UO",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "UO",
+      "identifier": "0000051"
+    },
+    {
+      "prefix": "UO",
+      "identifier": "0000186"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000009"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000012"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000013"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000014"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000025"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000028"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000036"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000051"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000053"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000054"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000055"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000056"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000060"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000061"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000065"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000066"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000071"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000079"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000081"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000093"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000099"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000100"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000106"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000109"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000115"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000131"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000134"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0000156"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001023"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001039"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001041"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001048"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001051"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001053"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001055"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001074"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001076"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001077"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001080"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001098"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001114"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001115"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001117"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001123"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001126"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001149"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001168"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001169"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001171"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001187"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001202"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001205"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001206"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001237"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001251"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001270"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001271"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001275"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001276"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001286"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001297"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001342"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001391"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001420"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001427"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001429"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001432"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001442"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001444"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001534"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001567"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001572"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001582"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001583"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001584"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001585"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001586"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001587"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001588"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001591"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001592"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001601"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001602"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001603"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001604"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001610"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001614"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001615"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001616"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001617"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001640"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001643"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001646"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001660"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001661"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001689"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001722"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001724"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001730"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001731"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001742"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001747"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001748"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001749"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001750"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001751"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001752"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001753"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001754"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001757"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001759"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001760"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001761"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001762"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001781"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001784"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001811"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001813"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001818"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001819"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001840"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001841"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001842"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001844"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001859"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001862"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001863"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001864"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001865"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001866"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001867"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001886"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001888"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001896"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001900"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001904"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001905"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001909"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001921"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001925"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001928"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001929"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001930"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001931"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001932"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001933"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001937"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001997"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002015"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002017"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002034"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002035"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002040"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002044"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002047"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002074"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002077"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002079"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002105"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002107"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002110"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002113"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002114"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002115"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002116"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002120"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002121"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002122"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002123"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002124"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002125"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002126"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002127"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002133"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002137"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002138"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002142"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002143"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002145"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002150"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002153"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002158"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002185"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002225"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002232"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002233"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002468"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0002749"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0004318"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0004512"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0004513"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0004514"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0004522"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100000"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100001"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100002"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100003"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100004"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100025"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100026"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100028"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100029"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100030"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100032"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100033"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100041"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100042"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100043"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100044"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100062"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100063"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100064"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100065"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100068"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100069"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100072"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100073"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100074"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100075"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100076"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100084"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100085"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100086"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100088"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100089"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100090"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100094"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100095"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100096"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100098"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100099"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100104"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100190"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100191"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100214"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100219"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100229"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100235"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100246"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100281"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100357"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100548"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100550"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100595"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100596"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100598"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100607"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100614"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100634"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100658"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100788"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100791"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100836"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100898"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100932"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100933"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100934"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100953"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100954"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0100970"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0101003"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0101017"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0101109"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0101197"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0102079"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0102182"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0102187"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0102188"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0102189"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0102192"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0102193"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0102194"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0102200"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0102201"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0102202"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0102203"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0102204"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0102205"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0102206"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0102209"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0102268"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0102269"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0102294"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0102295"
+    }
+  ]
+}

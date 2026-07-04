@@ -1,129 +1,449 @@
 {
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000034"
+    },
+    {
+      "prefix": "CL",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "CL",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "CL",
+      "identifier": "0000066"
+    },
+    {
+      "prefix": "CL",
+      "identifier": "0000084"
+    },
+    {
+      "prefix": "CL",
+      "identifier": "0000723"
+    },
+    {
+      "prefix": "CL",
+      "identifier": "0000738"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000022"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000035"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000110"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0008150"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0010467"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0016049"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "10090"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000245"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001866"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0100060"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0600024"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001396"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "roots": [],
   "ancestors": [
-    "bfo:0000001",
-    "bfo:0000002",
-    "bfo:0000003",
-    "bfo:0000004",
-    "bfo:0000015",
-    "bfo:0000016",
-    "bfo:0000017",
-    "bfo:0000019",
-    "bfo:0000020",
-    "bfo:0000040",
-    "chebi:50906",
-    "cl:0000000",
-    "cl:0000010",
-    "cl:0000578",
-    "cl:0001034",
-    "go:0008150",
-    "go:0008152",
-    "go:0009987",
-    "go:0043170",
-    "go:0044763",
-    "go:0071704",
-    "ncbitaxon:10066",
-    "ncbitaxon:10088",
-    "ncbitaxon:117570",
-    "ncbitaxon:117571",
-    "ncbitaxon:1338369",
-    "ncbitaxon:1437010",
-    "ncbitaxon:1963758",
-    "ncbitaxon:2759",
-    "ncbitaxon:314146",
-    "ncbitaxon:314147",
-    "ncbitaxon:32523",
-    "ncbitaxon:32524",
-    "ncbitaxon:32525",
-    "ncbitaxon:33154",
-    "ncbitaxon:33208",
-    "ncbitaxon:33213",
-    "ncbitaxon:33511",
-    "ncbitaxon:337687",
-    "ncbitaxon:39107",
-    "ncbitaxon:40674",
-    "ncbitaxon:6072",
-    "ncbitaxon:7711",
-    "ncbitaxon:7742",
-    "ncbitaxon:7776",
-    "ncbitaxon:8287",
-    "ncbitaxon:862507",
-    "ncbitaxon:89593",
-    "ncbitaxon:9347",
-    "ncbitaxon:9989",
-    "obi:0000011",
-    "obi:0000047",
-    "obi:0000838",
-    "obi:0100026",
-    "obi:0100060",
-    "pato:0000001",
-    "pato:0001241",
-    "pato:0070044",
-    "uberon:0000061",
-    "uberon:0000465",
-    "uberon:0001062",
-    "uberon:0010000"
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "CL",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "CL",
+      "identifier": "0000010"
+    },
+    {
+      "prefix": "CL",
+      "identifier": "0000034"
+    },
+    {
+      "prefix": "CL",
+      "identifier": "0000219"
+    },
+    {
+      "prefix": "CL",
+      "identifier": "0000226"
+    },
+    {
+      "prefix": "CL",
+      "identifier": "0000255"
+    },
+    {
+      "prefix": "CL",
+      "identifier": "0000542"
+    },
+    {
+      "prefix": "CL",
+      "identifier": "0000578"
+    },
+    {
+      "prefix": "CL",
+      "identifier": "0000738"
+    },
+    {
+      "prefix": "CL",
+      "identifier": "0000842"
+    },
+    {
+      "prefix": "CL",
+      "identifier": "0000988"
+    },
+    {
+      "prefix": "CL",
+      "identifier": "0001034"
+    },
+    {
+      "prefix": "CL",
+      "identifier": "0002242"
+    },
+    {
+      "prefix": "CL",
+      "identifier": "0011115"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000022"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000026"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000035"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000082"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000502"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0008150"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0009987"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "10066"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "117571"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "131567"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "1437010"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "2759"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "314146"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "314147"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "32523"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "32524"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "32525"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "33213"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "337687"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "39107"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "7742"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "9347"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "9989"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000838"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001241"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000465"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001062"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
   ],
   "children": [
-    "clo:0000000",
-    "clo:0000001",
-    "clo:0000004",
-    "clo:0000005",
-    "clo:0000017",
-    "clo:0000030",
-    "clo:0000031",
-    "clo:0000035",
-    "clo:0000170",
-    "clo:0000171",
-    "clo:0000483",
-    "clo:0002561",
-    "clo:0003713",
-    "clo:0009823",
-    "clo:0009825",
-    "clo:0009826",
-    "clo:0009827",
-    "clo:0009922",
-    "clo:0036932",
-    "clo:0036933",
-    "clo:0036934",
-    "clo:0037197",
-    "clo:0037198",
-    "clo:0037199",
-    "clo:0037273",
-    "clo:0037309",
-    "clo:0037311",
-    "clo:0037312",
-    "clo:0037339",
-    "clo:0037343",
-    "clo:0037453",
-    "clo:0037454"
-  ],
-  "parents": [
-    "bfo:0000015",
-    "bfo:0000016",
-    "bfo:0000023",
-    "bfo:0000034",
-    "cl:0000001",
-    "cl:0000010",
-    "go:0008150",
-    "go:0010467",
-    "go:0016049",
-    "http://www.ebi.ac.uk/cellline#UnspecifiedCellType",
-    "ncbitaxon:10090",
-    "obi:0000094",
-    "obi:0000245",
-    "obi:0001866",
-    "obi:0001905",
-    "obi:0100026",
-    "obi:0100060",
-    "obi:0600024",
-    "oboinowl:ObsoleteClass",
-    "pato:0001396"
-  ],
-  "roots": [
-    "clo:0000020",
-    "clo:0000022",
-    "clo:0000024",
-    "clo:0000043",
-    "clo:0009821"
+    {
+      "prefix": "CLO",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0000005"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0000008"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0000021"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0000035"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0000038"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0000086"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0000087"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0000170"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0000171"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0000483"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0009823"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0009825"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0009826"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0009827"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0036933"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0036934"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0036935"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0037197"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0037198"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0037199"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0037233"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0037273"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0037309"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0037311"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0037312"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0037321"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0037324"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0037339"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0037343"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0040000"
+    }
   ]
 }

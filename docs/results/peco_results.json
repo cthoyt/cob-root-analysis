@@ -1,0 +1,57 @@
+{
+  "parents": [
+    {
+      "prefix": "COB",
+      "identifier": "0001000"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "PECO",
+      "identifier": "0001002"
+    },
+    {
+      "prefix": "PECO",
+      "identifier": "0001006"
+    },
+    {
+      "prefix": "PECO",
+      "identifier": "0001007"
+    },
+    {
+      "prefix": "PECO",
+      "identifier": "0001009"
+    },
+    {
+      "prefix": "PECO",
+      "identifier": "0001010"
+    },
+    {
+      "prefix": "PECO",
+      "identifier": "0001019"
+    }
+  ]
+}

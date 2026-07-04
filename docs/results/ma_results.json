@@ -1,8 +1,723 @@
 {
-  "ancestors": [],
-  "children": [],
   "parents": [],
   "roots": [
-    "ma:0000001"
-  ]
+    {
+      "prefix": "MA",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000060"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000073"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000080"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000083"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000086"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000091"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000124"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000131"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000138"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000139"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000144"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000151"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000154"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000155"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000164"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000165"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000186"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000187"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000194"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000201"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000203"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000217"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000248"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000250"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000251"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000254"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000256"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000267"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000268"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000270"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000271"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000282"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000291"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000309"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000319"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000335"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000337"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000343"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000345"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000348"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000360"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000369"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000371"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000372"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000376"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000377"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000393"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000422"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000434"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000516"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000572"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000573"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000617"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000665"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000690"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000691"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000710"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000717"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000721"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000742"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000768"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000809"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000811"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000818"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000823"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000824"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000825"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0000975"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001030"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001112"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001113"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001114"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001115"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001116"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001120"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001135"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001251"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001283"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001287"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001318"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001319"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001327"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001362"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001363"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001459"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001465"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001482"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001520"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001521"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001522"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001523"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001530"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001532"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001535"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001586"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001592"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001593"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001597"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001598"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001599"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001604"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001682"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001686"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001697"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001707"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001712"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001718"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001724"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001730"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001738"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001743"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001751"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001752"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001768"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001778"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001787"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001797"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001799"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001814"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001818"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001823"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001827"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001828"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001831"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001842"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001845"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001871"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001878"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001879"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001887"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001899"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0001900"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0002406"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0002407"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0002408"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0002410"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0002427"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0002428"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0002429"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0002436"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0002459"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0002464"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0002483"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0002561"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0002710"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0002718"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0002721"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0002725"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0002803"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0002821"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0002841"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0002846"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0002849"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0002854"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0002889"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0002927"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0002942"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0002945"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0002955"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0002962"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0002963"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0002966"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0002978"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0003075"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0003080"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0003098"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0003099"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0003130"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0003139"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0003151"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0003152"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0003174"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0003179"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0003201"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0003203"
+    },
+    {
+      "prefix": "MA",
+      "identifier": "0003250"
+    }
+  ],
+  "ancestors": [],
+  "children": []
 }

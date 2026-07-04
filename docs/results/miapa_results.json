@@ -1,0 +1,129 @@
+{
+  "parents": [
+    {
+      "prefix": "CDAO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "CDAO",
+      "identifier": "0000110"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000010"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000064"
+    },
+    {
+      "prefix": "SWO",
+      "identifier": "0000592"
+    },
+    {
+      "prefix": "edam.operation",
+      "identifier": "0539"
+    },
+    {
+      "prefix": "prov",
+      "identifier": "Plan"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "CDAO",
+      "identifier": "0000014"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000064"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000104"
+    },
+    {
+      "prefix": "edam.operation",
+      "identifier": "0004"
+    },
+    {
+      "prefix": "edam.operation",
+      "identifier": "0323"
+    },
+    {
+      "prefix": "prov",
+      "identifier": "Activity"
+    },
+    {
+      "prefix": "prov",
+      "identifier": "Agent"
+    },
+    {
+      "prefix": "prov",
+      "identifier": "Entity"
+    },
+    {
+      "prefix": "prov",
+      "identifier": "SoftwareAgent"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "MIAPA",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "MIAPA",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "MIAPA",
+      "identifier": "0000010"
+    },
+    {
+      "prefix": "MIAPA",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "MIAPA",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "MIAPA",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "MIAPA",
+      "identifier": "0000022"
+    },
+    {
+      "prefix": "MIAPA",
+      "identifier": "0000032"
+    },
+    {
+      "prefix": "MIAPA",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "MIAPA",
+      "identifier": "0000034"
+    },
+    {
+      "prefix": "MIAPA",
+      "identifier": "0000037"
+    },
+    {
+      "prefix": "MIAPA",
+      "identifier": "0000038"
+    }
+  ]
+}

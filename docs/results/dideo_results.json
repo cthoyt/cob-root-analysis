@@ -1,0 +1,513 @@
+{
+  "parents": [
+    {
+      "prefix": "APOLLO_SV",
+      "identifier": "00000032"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "CL",
+      "identifier": "0000010"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0002172"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0002421"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0007646"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0037237"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0008150"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000032"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000100"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000104"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000109"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000310"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0020000"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000156"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000590"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000673"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0001364"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0001385"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000047"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000070"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000272"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000444"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001933"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0100060"
+    },
+    {
+      "prefix": "STATO",
+      "identifier": "0000209"
+    },
+    {
+      "prefix": "UO",
+      "identifier": "0000190"
+    },
+    {
+      "prefix": "oboInOwl",
+      "identifier": "ObsoleteClass"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "CL",
+      "identifier": "0000010"
+    },
+    {
+      "prefix": "CL",
+      "identifier": "0000578"
+    },
+    {
+      "prefix": "CLO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000109"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000543"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000779"
+    },
+    {
+      "prefix": "MOP",
+      "identifier": "0000780"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000047"
+    },
+    {
+      "prefix": "UO",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "UO",
+      "identifier": "0000186"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000000"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000001"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000002"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000003"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000004"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000005"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000006"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000007"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000009"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000010"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000011"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000012"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000013"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000016"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000019"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000020"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000021"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000025"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000026"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000030"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000031"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000032"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000033"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000034"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000035"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000036"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000037"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000038"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000039"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000040"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000044"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000046"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000048"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000052"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000055"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000082"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000087"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000089"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000091"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000122"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000123"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000124"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000125"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000126"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000128"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000149"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000152"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000153"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000154"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000155"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000157"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000158"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000159"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000160"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000161"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000162"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000168"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000169"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000170"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000171"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000172"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000173"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000174"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000175"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000178"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000181"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000183"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000184"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000185"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000186"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000188"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000189"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000190"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000193"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000194"
+    },
+    {
+      "prefix": "DIDEO",
+      "identifier": "00000196"
+    }
+  ]
+}

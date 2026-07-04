@@ -1,0 +1,105 @@
+{
+  "parents": [
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000066"
+    },
+    {
+      "prefix": "oboInOwl",
+      "identifier": "ObsoleteClass"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "DUO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "DUO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "DUO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "DUO",
+      "identifier": "0000005"
+    },
+    {
+      "prefix": "DUO",
+      "identifier": "0000014"
+    },
+    {
+      "prefix": "DUO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "DUO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "DUO",
+      "identifier": "0000032"
+    },
+    {
+      "prefix": "DUO",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "DUO",
+      "identifier": "0000034"
+    },
+    {
+      "prefix": "DUO",
+      "identifier": "0000035"
+    },
+    {
+      "prefix": "DUO",
+      "identifier": "0000036"
+    },
+    {
+      "prefix": "DUO",
+      "identifier": "0000037"
+    }
+  ]
+}

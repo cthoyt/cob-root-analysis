@@ -1,0 +1,51 @@
+{
+  "parents": [],
+  "roots": [
+    {
+      "prefix": "FIX",
+      "identifier": "0000085"
+    },
+    {
+      "prefix": "FIX",
+      "identifier": "0000090"
+    },
+    {
+      "prefix": "FIX",
+      "identifier": "0000096"
+    },
+    {
+      "prefix": "FIX",
+      "identifier": "0000201"
+    },
+    {
+      "prefix": "FIX",
+      "identifier": "0000221"
+    },
+    {
+      "prefix": "FIX",
+      "identifier": "0000268"
+    },
+    {
+      "prefix": "FIX",
+      "identifier": "0000343"
+    },
+    {
+      "prefix": "FIX",
+      "identifier": "0000484"
+    },
+    {
+      "prefix": "FIX",
+      "identifier": "0000489"
+    },
+    {
+      "prefix": "FIX",
+      "identifier": "0000495"
+    },
+    {
+      "prefix": "FIX",
+      "identifier": "0000710"
+    }
+  ],
+  "ancestors": [],
+  "children": []
+}

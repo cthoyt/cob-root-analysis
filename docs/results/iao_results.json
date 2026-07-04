@@ -1,0 +1,129 @@
+{
+  "parents": [
+    {
+      "prefix": "APOLLO_SV",
+      "identifier": "00000522"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000035"
+    },
+    {
+      "prefix": "oboInOwl",
+      "identifier": "ObsoleteClass"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000082"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000310"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "IAO",
+      "identifier": "0000008"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000012"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000018"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000096"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000178"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000442"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000443"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000444"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000572"
+    }
+  ]
+}

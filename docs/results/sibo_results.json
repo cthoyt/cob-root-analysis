@@ -1,0 +1,31 @@
+{
+  "parents": [],
+  "roots": [
+    {
+      "prefix": "SIBO",
+      "identifier": "0000097"
+    },
+    {
+      "prefix": "SIBO",
+      "identifier": "0000147"
+    },
+    {
+      "prefix": "SIBO",
+      "identifier": "0000149"
+    },
+    {
+      "prefix": "SIBO",
+      "identifier": "0000232"
+    },
+    {
+      "prefix": "SIBO",
+      "identifier": "0000477"
+    },
+    {
+      "prefix": "SIBO",
+      "identifier": "0000479"
+    }
+  ],
+  "ancestors": [],
+  "children": []
+}

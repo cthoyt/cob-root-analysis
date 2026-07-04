@@ -1,0 +1,29 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    }
+  ],
+  "roots": [
+    {
+      "prefix": "ExO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "ExO",
+      "identifier": "0000064"
+    },
+    {
+      "prefix": "ExO",
+      "identifier": "0000172"
+    }
+  ],
+  "ancestors": [],
+  "children": [
+    {
+      "prefix": "ExO",
+      "identifier": "0000002"
+    }
+  ]
+}

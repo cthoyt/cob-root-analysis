@@ -1,8 +1,16 @@
 {
+  "parents": [
+    {
+      "prefix": "UBERON",
+      "identifier": "0000061"
+    }
+  ],
+  "roots": [],
   "ancestors": [],
-  "children": [],
-  "parents": [],
-  "roots": [
-    "fao:0000001"
+  "children": [
+    {
+      "prefix": "FAO",
+      "identifier": "0000001"
+    }
   ]
 }

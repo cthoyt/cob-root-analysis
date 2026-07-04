@@ -1,0 +1,137 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000024"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000144"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0007610"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0051705"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000060"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000087"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0007610"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000060"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "MF",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "MF",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "MF",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "MF",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "MF",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "MF",
+      "identifier": "0000021"
+    },
+    {
+      "prefix": "MF",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "MF",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "MF",
+      "identifier": "0000032"
+    },
+    {
+      "prefix": "MF",
+      "identifier": "0000071"
+    },
+    {
+      "prefix": "MF",
+      "identifier": "0000074"
+    },
+    {
+      "prefix": "MF",
+      "identifier": "0000088"
+    }
+  ]
+}

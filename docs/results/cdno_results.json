@@ -1,0 +1,437 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "15443"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "16634"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "16646"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "16689"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "167164"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "17164"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "17234"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "18154"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "18222"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "22590"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "22599"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24174"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26543"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "26546"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "27680"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "28057"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "28102"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "28260"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "28586"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "28757"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "28796"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33709"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33830"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "33984"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "36080"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "37163"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "37165"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "37684"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "50699"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001241"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0000005"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0000006"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0000008"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "16646"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "18154"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24174"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "28796"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35381"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "50699"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "74961"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000001"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "CDNO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0000006"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0000009"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0000012"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0000041"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0000044"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0000047"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0000048"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0000051"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100001"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100002"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100003"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100004"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100010"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100011"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100012"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100013"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100014"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100015"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100016"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100017"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100019"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100020"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100021"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100023"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100024"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100025"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100026"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100027"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100028"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100030"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100031"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100032"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100034"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100035"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100036"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100038"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100040"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100042"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100044"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100046"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100047"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100048"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100049"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100050"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0100051"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0200001"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0200473"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0200474"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0200475"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0200476"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0200477"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0300001"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0400001"
+    },
+    {
+      "prefix": "CDNO",
+      "identifier": "0500001"
+    }
+  ]
+}

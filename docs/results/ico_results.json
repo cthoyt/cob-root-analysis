@@ -1,0 +1,757 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000008"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000029"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000034"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000038"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000005"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000028"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000055"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000104"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000109"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000300"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000310"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000314"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0021003"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0021007"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0021008"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0021009"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "9606"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000066"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000181"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000245"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000272"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000810"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001000"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001622"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000090"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000102"
+    },
+    {
+      "prefix": "commoncoreontology",
+      "identifier": "DescriptiveInformationContentEntity"
+    },
+    {
+      "prefix": "commoncoreontology",
+      "identifier": "DesignativeInformationContentEntity"
+    },
+    {
+      "prefix": "commoncoreontology",
+      "identifier": "Stasis"
+    },
+    {
+      "prefix": "commoncoreontology",
+      "identifier": "StasisOfGenericallyDependentContinuant"
+    },
+    {
+      "prefix": "oboInOwl",
+      "identifier": "ObsoleteClass"
+    },
+    {
+      "prefix": "sdgio",
+      "identifier": "00000024"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000008"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000141"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000104"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000300"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000310"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0021003"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000220"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "117571"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "2759"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "314146"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "32523"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "32524"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "33154"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "33208"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "33213"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "40674"
+    },
+    {
+      "prefix": "NCBITaxon",
+      "identifier": "7742"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001898"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0100026"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0500000"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000045"
+    },
+    {
+      "prefix": "commoncoreontology",
+      "identifier": "Stasis"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "ICO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000005"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000006"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000007"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000008"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000009"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000012"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000022"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000026"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000028"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000035"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000041"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000044"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000045"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000046"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000047"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000048"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000049"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000051"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000053"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000054"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000056"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000057"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000058"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000062"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000064"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000065"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000066"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000069"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000070"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000072"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000073"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000078"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000079"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000080"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000084"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000085"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000087"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000088"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000089"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000100"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000101"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000107"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000110"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000111"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000112"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000113"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000118"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000126"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000127"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000136"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000140"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000141"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000156"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000157"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000160"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000170"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000171"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000186"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000190"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000192"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000195"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000197"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000199"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000201"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000205"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000215"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000220"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000221"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000222"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000226"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000231"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000233"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000236"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000237"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000238"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000247"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000249"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000256"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000257"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000262"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000263"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000264"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000269"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000288"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000290"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000292"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000297"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000301"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000306"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000314"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000315"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000324"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000325"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000326"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000422"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000428"
+    },
+    {
+      "prefix": "ICO",
+      "identifier": "0000429"
+    }
+  ]
+}

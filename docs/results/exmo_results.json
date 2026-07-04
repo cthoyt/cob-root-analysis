@@ -1,0 +1,433 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "CMO",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "CMO",
+      "identifier": "0000046"
+    },
+    {
+      "prefix": "GSSO",
+      "identifier": "005059"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C110943"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C150523"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C154219"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C154225"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C16567"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C17708"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C180667"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C28220"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C39774"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C49835"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C73554"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C88164"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C93098"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C94741"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "CMO",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000013"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000350"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000385"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000109"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C154219"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C16567"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C17708"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C39774"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C93097"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000045"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000102"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "EXMO",
+      "identifier": "0000010"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000012"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000013"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000046"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000048"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000049"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000080"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000091"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000099"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000101"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000102"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000103"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000119"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000125"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000126"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000143"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000145"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000166"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000169"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000178"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000179"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000183"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000184"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000186"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000205"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000207"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000218"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000230"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000233"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000241"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000250"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000267"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000268"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000270"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000287"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000288"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000290"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000291"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000292"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000294"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000295"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000296"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000303"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000305"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000310"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000326"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000329"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000330"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000349"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000361"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000363"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000364"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000365"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000366"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000379"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000382"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000384"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000385"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000396"
+    },
+    {
+      "prefix": "EXMO",
+      "identifier": "0000399"
+    }
+  ]
+}

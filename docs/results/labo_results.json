@@ -1,0 +1,226 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000007"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000109"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000310"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000578"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0001933"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000014"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000108"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "PDRO",
+      "identifier": "0010010"
+    }
+  ],
+  "roots": [
+    {
+      "prefix": "LABO",
+      "identifier": "0000130"
+    },
+    {
+      "prefix": "LABO",
+      "identifier": "0000131"
+    },
+    {
+      "prefix": "LABO",
+      "identifier": "0000175"
+    }
+  ],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000005"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000104"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000310"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000096"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000123"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "LABO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "LABO",
+      "identifier": "0000005"
+    },
+    {
+      "prefix": "LABO",
+      "identifier": "0000006"
+    },
+    {
+      "prefix": "LABO",
+      "identifier": "0000007"
+    },
+    {
+      "prefix": "LABO",
+      "identifier": "0000008"
+    },
+    {
+      "prefix": "LABO",
+      "identifier": "0000009"
+    },
+    {
+      "prefix": "LABO",
+      "identifier": "0000010"
+    },
+    {
+      "prefix": "LABO",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "LABO",
+      "identifier": "0000012"
+    },
+    {
+      "prefix": "LABO",
+      "identifier": "0000013"
+    },
+    {
+      "prefix": "LABO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "LABO",
+      "identifier": "0000018"
+    },
+    {
+      "prefix": "LABO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "LABO",
+      "identifier": "0000103"
+    },
+    {
+      "prefix": "LABO",
+      "identifier": "0000104"
+    },
+    {
+      "prefix": "LABO",
+      "identifier": "0000105"
+    },
+    {
+      "prefix": "LABO",
+      "identifier": "0000107"
+    },
+    {
+      "prefix": "LABO",
+      "identifier": "0000109"
+    },
+    {
+      "prefix": "LABO",
+      "identifier": "0000111"
+    },
+    {
+      "prefix": "LABO",
+      "identifier": "0000114"
+    },
+    {
+      "prefix": "LABO",
+      "identifier": "0000124"
+    },
+    {
+      "prefix": "LABO",
+      "identifier": "0000153"
+    },
+    {
+      "prefix": "LABO",
+      "identifier": "0000154"
+    },
+    {
+      "prefix": "LABO",
+      "identifier": "0000160"
+    }
+  ]
+}

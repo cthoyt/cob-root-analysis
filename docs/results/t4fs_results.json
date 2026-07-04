@@ -1,0 +1,109 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "oboInOwl",
+      "identifier": "ObsoleteClass"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "T4FS",
+      "identifier": "0000012"
+    },
+    {
+      "prefix": "T4FS",
+      "identifier": "0000034"
+    },
+    {
+      "prefix": "T4FS",
+      "identifier": "0000093"
+    },
+    {
+      "prefix": "T4FS",
+      "identifier": "0000121"
+    },
+    {
+      "prefix": "T4FS",
+      "identifier": "0000122"
+    },
+    {
+      "prefix": "T4FS",
+      "identifier": "0000155"
+    },
+    {
+      "prefix": "T4FS",
+      "identifier": "0000256"
+    },
+    {
+      "prefix": "T4FS",
+      "identifier": "0000372"
+    },
+    {
+      "prefix": "T4FS",
+      "identifier": "0000446"
+    },
+    {
+      "prefix": "T4FS",
+      "identifier": "0000519"
+    },
+    {
+      "prefix": "T4FS",
+      "identifier": "0000548"
+    },
+    {
+      "prefix": "T4FS",
+      "identifier": "0000580"
+    }
+  ]
+}

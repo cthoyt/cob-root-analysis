@@ -1,0 +1,41 @@
+{
+  "parents": [
+    {
+      "prefix": "UO",
+      "identifier": "0000000"
+    }
+  ],
+  "roots": [
+    {
+      "prefix": "MS",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "MS",
+      "identifier": "1002709"
+    }
+  ],
+  "ancestors": [],
+  "children": [
+    {
+      "prefix": "MS",
+      "identifier": "1000040"
+    },
+    {
+      "prefix": "MS",
+      "identifier": "1000043"
+    },
+    {
+      "prefix": "MS",
+      "identifier": "1000046"
+    },
+    {
+      "prefix": "MS",
+      "identifier": "1000807"
+    },
+    {
+      "prefix": "MS",
+      "identifier": "1002814"
+    }
+  ]
+}

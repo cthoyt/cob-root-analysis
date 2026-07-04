@@ -1,0 +1,1665 @@
+{
+  "parents": [
+    {
+      "prefix": "DOID",
+      "identifier": "0060108"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "1826"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "225"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "2548"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "3069"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "3328"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "3331"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "4"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "535"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "557"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "936"
+    },
+    {
+      "prefix": "ERO",
+      "identifier": "0001235"
+    },
+    {
+      "prefix": "ERO",
+      "identifier": "0001286"
+    },
+    {
+      "prefix": "ERO",
+      "identifier": "0001330"
+    },
+    {
+      "prefix": "ERO",
+      "identifier": "0002178"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0007610"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0000496"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0000504"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0001279"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0002197"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0002353"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0003394"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0007359"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0010845"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0011153"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0011154"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0011157"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0011175"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0011198"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0011203"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0025373"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0025613"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0030049"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0032658"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0032671"
+    },
+    {
+      "prefix": "IDO",
+      "identifier": "0000586"
+    },
+    {
+      "prefix": "MFOEM",
+      "identifier": "000001"
+    },
+    {
+      "prefix": "MMO",
+      "identifier": "0000147"
+    },
+    {
+      "prefix": "MONDO",
+      "identifier": "0002025"
+    },
+    {
+      "prefix": "MONDO",
+      "identifier": "0017657"
+    },
+    {
+      "prefix": "MONDO",
+      "identifier": "0020072"
+    },
+    {
+      "prefix": "MONDO",
+      "identifier": "0100022"
+    },
+    {
+      "prefix": "MONDO",
+      "identifier": "0100029"
+    },
+    {
+      "prefix": "MP",
+      "identifier": "0004994"
+    },
+    {
+      "prefix": "NBO",
+      "identifier": "0000419"
+    },
+    {
+      "prefix": "NBO",
+      "identifier": "0000609"
+    },
+    {
+      "prefix": "NBO",
+      "identifier": "0000610"
+    },
+    {
+      "prefix": "NBO",
+      "identifier": "0000687"
+    },
+    {
+      "prefix": "NBO",
+      "identifier": "0000705"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C118177"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C139982"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C16390"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C17103"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C19021"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C19146"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C19272"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C19300"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C20993"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C35470"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C69023"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0002186"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000090"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000112"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000114"
+    },
+    {
+      "prefix": "OMIABIS",
+      "identifier": "0001041"
+    },
+    {
+      "prefix": "OMIT",
+      "identifier": "0005305"
+    },
+    {
+      "prefix": "OMIT",
+      "identifier": "0008800"
+    },
+    {
+      "prefix": "OMIT",
+      "identifier": "0027154"
+    },
+    {
+      "prefix": "OMIT",
+      "identifier": "0027688"
+    },
+    {
+      "prefix": "OMIT",
+      "identifier": "0027689"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001912"
+    },
+    {
+      "prefix": "SYMP",
+      "identifier": "0000124"
+    },
+    {
+      "prefix": "SYMP",
+      "identifier": "0000387"
+    },
+    {
+      "prefix": "SYMP",
+      "identifier": "0000399"
+    },
+    {
+      "prefix": "SYMP",
+      "identifier": "0000410"
+    },
+    {
+      "prefix": "SYMP",
+      "identifier": "0000459"
+    },
+    {
+      "prefix": "SYMP",
+      "identifier": "0000480"
+    },
+    {
+      "prefix": "SYMP",
+      "identifier": "0000514"
+    },
+    {
+      "prefix": "SYMP",
+      "identifier": "0000528"
+    },
+    {
+      "prefix": "SYMP",
+      "identifier": "0000719"
+    },
+    {
+      "prefix": "SYMP",
+      "identifier": "0000734"
+    },
+    {
+      "prefix": "SYMP",
+      "identifier": "0000891"
+    },
+    {
+      "prefix": "SYMP",
+      "identifier": "0019182"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000956"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000019"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "CMO",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "14566"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "150"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "18"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "1826"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "331"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "4"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "7"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "863"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "936"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "International_League_Against_Epilepsy_classification"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "epilepsy_imitator"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "focal_non-motor_onset_seizure"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "focal_seizure_classification_by_onset_feature"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "hypoxic-ischemic"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "immune_etiology"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "seizure_classification"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "structural_etiology"
+    },
+    {
+      "prefix": "ERO",
+      "identifier": "0000007"
+    },
+    {
+      "prefix": "ERO",
+      "identifier": "0000833"
+    },
+    {
+      "prefix": "ERO",
+      "identifier": "0001235"
+    },
+    {
+      "prefix": "ERO",
+      "identifier": "0001285"
+    },
+    {
+      "prefix": "ERO",
+      "identifier": "0001292"
+    },
+    {
+      "prefix": "ERO",
+      "identifier": "0001312"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0007610"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0000118"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0000478"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0000707"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0001311"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0002011"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0002133"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0002353"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0002715"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0003011"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0007359"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0011182"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0011203"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0011450"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0011804"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0012373"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0012638"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0012639"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0025373"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0025615"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0030178"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0031475"
+    },
+    {
+      "prefix": "HP",
+      "identifier": "0032251"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000109"
+    },
+    {
+      "prefix": "MF",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "MFOEM",
+      "identifier": "000195"
+    },
+    {
+      "prefix": "MONDO",
+      "identifier": "0005070"
+    },
+    {
+      "prefix": "MONDO",
+      "identifier": "0015650"
+    },
+    {
+      "prefix": "MONDO",
+      "identifier": "0015917"
+    },
+    {
+      "prefix": "MONDO",
+      "identifier": "0021042"
+    },
+    {
+      "prefix": "MONDO",
+      "identifier": "0021193"
+    },
+    {
+      "prefix": "MONDO",
+      "identifier": "0021248"
+    },
+    {
+      "prefix": "MONDO",
+      "identifier": "0023370"
+    },
+    {
+      "prefix": "MONDO",
+      "identifier": "0100036"
+    },
+    {
+      "prefix": "NBO",
+      "identifier": "0000243"
+    },
+    {
+      "prefix": "NBO",
+      "identifier": "0000308"
+    },
+    {
+      "prefix": "NBO",
+      "identifier": "0000313"
+    },
+    {
+      "prefix": "NBO",
+      "identifier": "0000473"
+    },
+    {
+      "prefix": "NBO",
+      "identifier": "0000568"
+    },
+    {
+      "prefix": "NBO",
+      "identifier": "0000607"
+    },
+    {
+      "prefix": "NBO",
+      "identifier": "0000643"
+    },
+    {
+      "prefix": "NBO",
+      "identifier": "0000686"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C16390"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C16866"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C17456"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C18020"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C19148"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C20993"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C65017"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C71164"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C80519"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000070"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000454"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0002186"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000060"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000090"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000112"
+    },
+    {
+      "prefix": "OMIT",
+      "identifier": "0027688"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000161"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001236"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0002062"
+    },
+    {
+      "prefix": "SYMP",
+      "identifier": "0000124"
+    },
+    {
+      "prefix": "SYMP",
+      "identifier": "0000410"
+    },
+    {
+      "prefix": "SYMP",
+      "identifier": "0000462"
+    },
+    {
+      "prefix": "SYMP",
+      "identifier": "0000480"
+    },
+    {
+      "prefix": "SYMP",
+      "identifier": "0000597"
+    },
+    {
+      "prefix": "SYMP",
+      "identifier": "0000610"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0000477"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0001062"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0005162"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0011215"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0016548"
+    },
+    {
+      "prefix": "UBERON",
+      "identifier": "0022303"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "EPIO",
+      "identifier": "1.5_Tesla_magnetic_resonance_imaging"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "4-aminopyridine_slice_model"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "6_Hertz_psychomotor"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "AMPA_receptor_antibody"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "Atkins_diet"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "El_mouse"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "GABA-B_receptor_antibody"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "GAD65_antibody"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "International_League_Against_Epilepsy_classification"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "Panayiotopoulos_syndrome"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "SCN8A-related_epilepsy_with_encephalopathy"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "Wada_test"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "absence_seizure_model"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "adversive_movement"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "after_discharge"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "aluminum_encephalopathy_syndrome"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "ambulatory_electroencephalography"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "amgdalar_epilepsy"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "anatomic_neuroimaging"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "anterior_frontopolar_cortex"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "anterior_temporal_epilepsy"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "anteromesial_temporal_lobectomy"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "artifact_obscured_EEG"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "audiogenic_model"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "auditory_illusion"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "autoimmune_epilepsy"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "autoimmune_seizure"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "autonomic_imbalance"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "background_slow_activity"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "basal_temporal_epilepsy"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "benign_EEG_pattern"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "benign_electroencephalographic_pattern"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "benign_focal_epileptiform_discharge_of_childhood"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "benign_myoclonus_of_infancy_and_shuddering_attack"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "benign_neonatal_sleep_myoclonus"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "bifocal_encephalomalacia"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "bilateral_periodic_lateralized_epileptiform_discharge"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "blank_stare"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "borborygmi"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "brain_junction"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "calcium-activated_potassium_channel_model"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "chemical_mutagenesis_derived_model"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "chronic_spontaneous_limbic_seizure_model"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "complex_visual_hallucination"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "compulsive_valsalva"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "congenital_stroke"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "conventional_electroencephalography"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "convulsant_drug_model"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "convulsive_status_epilepticus"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "corneal_kindling"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "corpus_callosotomy"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "diaphragmatic_breathing"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "dreamy_state"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "dysmature"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "early-onset_benign_childhood_occipital_seizure"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "electrically_kindled_cat"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "electrode_implantation"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "electrodecrement"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "electrographic_seizure"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "epilepsy_with_general_tonic_clonic_seizure_on_awakening"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "epileptic_encephalopathy_with_continous_spikes_and_wave_during_sleep"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "extensor_spasm"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "eye_rotation"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "first_line_immunotherapy"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "flexor_spasm"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "focal_automatism_seizure"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "focal_autonomic_seizure_with_erection"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "focal_autonomic_seizure_with_lacrimation"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "focal_autonomic_seizure_with_piloerection"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "focal_bilateral_motor_seizure"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "focal_emotional_seizure_with_anger"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "focal_emotional_seizure_with_fear/anxiety/panic"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "focal_emotional_seizure_with_pleasure"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "focal_motor_seizure_with_dysarthria_/_anarthria"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "focal_motor_seizure_with_dystonia"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "focal_motor_seizure_with_negative_myoclonus"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "focal_motor_seizure_with_paresis/paralysis"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "focal_motor_seizure_with_version"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "focal_non_convulsive_status_epilepticus"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "focal_seizure_classification_by_onset_feature"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "focal_sensory_seizure_with_cephalic_sensation"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "focal_sensory_seizure_with_hot-cold_sensation"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "focal_sensory_vestibular_seizure"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "focal_to_bilateral_tonic_clonic_seizure"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "fragmentary_behavior"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "frontal_intermittent_rhythmic_delta_activity"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "gene_panel_sequencing"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "generalized_motor_onset_seizure"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "generalized_non-motor_onset_seizure"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "generalized_non_convulsive_status_epilepticus_without_coma"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "genetic_etiology"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "genital_automatism"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "gustatory_illusion"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "heautoscopy"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "high_potassium_slice_model"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "hippocampal_epilepsy"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "hippocampal_kindling_model"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "hyper-cyanotic_spell"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "hyperventilation_syncope"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "hypnogogic_jerk"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "ictal_or_post-ictal_cardiac_abnormality"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "ictal_or_post-ictal_respiratory_abnormality"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "ictal_pattern"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "immune_etiology"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "in_silico_model"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "infantile_behavior"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "infectious_cause_of_seizure"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "infectious_etiology"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "interictal_behavior_disorder"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "interictal_dysphoric_disorder"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "intermittent_slow_activity"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "intracranial_infection"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "invasive_preoperative_exploration"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "jitteriness"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "language_functional_magnetic_resonance_imaging"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "language_regression_due_to_other_etiology"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "lateral_frontal_epilepsy"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "left_frontal_astrocytoma"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "left_mesial_temporal_lesion"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "lip_smacking"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "loss_of_awareness"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "low_magnesium_slice_model"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "mesial_frontal_epilepsy"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "metabolic_etiology"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "metabolic_imaging"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "metallic_taste_hallucination"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "mini-international_neuropsychiatric_interview"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "mixed_spasm"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "moan"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "monomorphic_wave"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "multifocal_epilepsy"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "multiple_sleep_latency_test"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "music_hallucination"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "music_tone"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "negative_visual_illusion"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "neurological_disorders_depression_inventory_for_epilepsy"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "neurological_syncope"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "non-epileptic_head_drop"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "non-epileptic_seizure"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "non-invasive_preoperative_evaluation"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "non-pharmacological_treatment_of_epilepsy"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "non-surgical_stimulation"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "normal_EEG_pattern"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "object_distortion"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "object_spatial_inclination"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "occipital_intermittent_rhythmic_delta_activity"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "occipital_lobe_epilepsy"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "occular_oscillation"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "oligoantigenic_diet"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "orbito_frontal_epilepsy"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "organotypic_slice_cultures"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "out_of_body_experience"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "palinopsia"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "parahippocampal_epilepsy"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "parasitic_cyst"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "paroxysmal_dystonia_model"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "paroxysmal_exercise_induced_dyskinesia"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "paroxysmal_kinesigenic_dyskinesia"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "paroxysmal_nonkinesigenic_dyskinesia"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "partial_amnesia"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "pedaling"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "pelopsia"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "perinatal_insult"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "person_hallucination"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "polymorphic_wave"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "positive_visual_hallucination"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "post-ictal"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "posterior_temporal_epilepsy"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "primitive_behavior"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "pseudostatus_epilepticus"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "rapid_eye_movement_atonia"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "reading_epilepsy"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "responsive_neurostimulation"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "right_frontal_encephalomalacia"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "right_fronto_parietal_abscess"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "right_fronto_temporal_glioma"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "right_hemispheric_stroke"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "right_mesial_lesion"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "rotational_horizontal"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "rotational_vertical"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "rubbing"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "rushing_noise"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "scenery_hallucination"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "screeching"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "second_line_immunotherapy"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "seizure_based_on_hemispheric_lateralization"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "seizure_based_on_lobar_localization"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "self-limited_familial_and_non-familial_infantile_epilepsy"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "self-limited_neonatal_seizure_and_self-limited_familial_neonatal_epilepsy"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "self_gratification"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "sharp_and_slow_wave_complex"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "simple_visual_hallucination"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "sinusoidal_wave"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "situational_cicardian_rhythm_sleep_disorder"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "sleep_deprived_electroencephalography"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "sleep_electroencephalography"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "special_pattern"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "speech_arrest"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "speech_interrupted"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "spike_and_slow_wave_complex"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "structural_etiology"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "sucking"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "tantrum_and_rage_reaction"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "tapping"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "temporal_intermittent_rythmic_delta_activity"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "toxic_cause_of_seizure"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "transient"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "trigeminal_nerve_stimulation"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "trigger_factor_for_seizure"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "twisting"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "unknown_etiology"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "unworthiness"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "uremic_encephalopathy"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "urine_organic_acid_test"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "video_telemetry"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "voltage-gated_potassium_channel_antibody"
+    },
+    {
+      "prefix": "EPIO",
+      "identifier": "worthiness"
+    }
+  ]
+}

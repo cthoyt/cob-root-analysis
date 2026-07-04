@@ -1,0 +1,106 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000026"
+    }
+  ],
+  "roots": [
+    {
+      "prefix": "DRON",
+      "identifier": "00000032"
+    }
+  ],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "DRON",
+      "identifier": "00000001"
+    },
+    {
+      "prefix": "DRON",
+      "identifier": "00000002"
+    },
+    {
+      "prefix": "DRON",
+      "identifier": "00000006"
+    },
+    {
+      "prefix": "DRON",
+      "identifier": "00000027"
+    },
+    {
+      "prefix": "DRON",
+      "identifier": "00000030"
+    },
+    {
+      "prefix": "DRON",
+      "identifier": "00000036"
+    },
+    {
+      "prefix": "DRON",
+      "identifier": "00000037"
+    },
+    {
+      "prefix": "DRON",
+      "identifier": "00000038"
+    },
+    {
+      "prefix": "DRON",
+      "identifier": "00000074"
+    },
+    {
+      "prefix": "DRON",
+      "identifier": "00010006"
+    },
+    {
+      "prefix": "DRON",
+      "identifier": "00010007"
+    },
+    {
+      "prefix": "DRON",
+      "identifier": "00010039"
+    }
+  ]
+}

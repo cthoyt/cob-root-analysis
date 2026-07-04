@@ -1,0 +1,238 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "CARO",
+      "identifier": "0001010"
+    },
+    {
+      "prefix": "CARO",
+      "identifier": "0010004"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000146"
+    },
+    {
+      "prefix": "ENVO",
+      "identifier": "01001369"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0035176"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000161"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001019"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001241"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0002003"
+    },
+    {
+      "prefix": "STATO",
+      "identifier": "0000047"
+    },
+    {
+      "prefix": "oboInOwl",
+      "identifier": "ObsoleteClass"
+    }
+  ],
+  "roots": [
+    {
+      "prefix": "PCO",
+      "identifier": "0000050"
+    }
+  ],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "CARO",
+      "identifier": "0001010"
+    },
+    {
+      "prefix": "ECOCORE",
+      "identifier": "00000045"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0007610"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0008150"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0051703"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000109"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001018"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001236"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0001241"
+    },
+    {
+      "prefix": "PATO",
+      "identifier": "0002062"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000031"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "PCO",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000005"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000006"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000007"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000008"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000009"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000014"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000022"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000047"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000048"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000049"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000054"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000060"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000073"
+    },
+    {
+      "prefix": "PCO",
+      "identifier": "0000077"
+    }
+  ]
+}

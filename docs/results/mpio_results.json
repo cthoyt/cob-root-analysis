@@ -1,0 +1,49 @@
+{
+  "parents": [
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000104"
+    },
+    {
+      "prefix": "oboInOwl",
+      "identifier": "ObsoleteClass"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000033"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "MPIO",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "MPIO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "MPIO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "MPIO",
+      "identifier": "0000008"
+    },
+    {
+      "prefix": "MPIO",
+      "identifier": "0000010"
+    }
+  ]
+}

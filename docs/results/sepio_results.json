@@ -1,0 +1,186 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000182"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000100"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000104"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000109"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000310"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "oboInOwl",
+      "identifier": "ObsoleteClass"
+    }
+  ],
+  "roots": [
+    {
+      "prefix": "SEPIO",
+      "identifier": "0000340"
+    }
+  ],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "COB",
+      "identifier": "0000082"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000033"
+    },
+    {
+      "prefix": "prov",
+      "identifier": "Activity"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "SEPIO",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "SEPIO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "SEPIO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "SEPIO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "SEPIO",
+      "identifier": "0000037"
+    },
+    {
+      "prefix": "SEPIO",
+      "identifier": "0000048"
+    },
+    {
+      "prefix": "SEPIO",
+      "identifier": "0000049"
+    },
+    {
+      "prefix": "SEPIO",
+      "identifier": "0000055"
+    },
+    {
+      "prefix": "SEPIO",
+      "identifier": "0000056"
+    },
+    {
+      "prefix": "SEPIO",
+      "identifier": "0000058"
+    },
+    {
+      "prefix": "SEPIO",
+      "identifier": "0000127"
+    },
+    {
+      "prefix": "SEPIO",
+      "identifier": "0000133"
+    },
+    {
+      "prefix": "SEPIO",
+      "identifier": "0000148"
+    },
+    {
+      "prefix": "SEPIO",
+      "identifier": "0000149"
+    },
+    {
+      "prefix": "SEPIO",
+      "identifier": "0000158"
+    },
+    {
+      "prefix": "SEPIO",
+      "identifier": "0000174"
+    },
+    {
+      "prefix": "SEPIO",
+      "identifier": "0000187"
+    },
+    {
+      "prefix": "SEPIO",
+      "identifier": "0000400"
+    },
+    {
+      "prefix": "SEPIO",
+      "identifier": "0000402"
+    },
+    {
+      "prefix": "SEPIO",
+      "identifier": "0000414"
+    },
+    {
+      "prefix": "SEPIO",
+      "identifier": "000383"
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "parents": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000144"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0007610"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0071625"
+    },
+    {
+      "prefix": "MF",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "MF",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "MF",
+      "identifier": "0000032"
+    },
+    {
+      "prefix": "MF",
+      "identifier": "0000203"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000060"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0007610"
+    },
+    {
+      "prefix": "MF",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "MF",
+      "identifier": "0000032"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000060"
+    },
+    {
+      "prefix": "owl",
+      "identifier": "Thing"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "MFOEM",
+      "identifier": "000002"
+    },
+    {
+      "prefix": "MFOEM",
+      "identifier": "000003"
+    },
+    {
+      "prefix": "MFOEM",
+      "identifier": "000004"
+    },
+    {
+      "prefix": "MFOEM",
+      "identifier": "000005"
+    },
+    {
+      "prefix": "MFOEM",
+      "identifier": "000007"
+    },
+    {
+      "prefix": "MFOEM",
+      "identifier": "000152"
+    },
+    {
+      "prefix": "MFOEM",
+      "identifier": "000194"
+    },
+    {
+      "prefix": "MFOEM",
+      "identifier": "000195"
+    },
+    {
+      "prefix": "MFOEM",
+      "identifier": "000199"
+    },
+    {
+      "prefix": "MFOEM",
+      "identifier": "000204"
+    }
+  ]
+}

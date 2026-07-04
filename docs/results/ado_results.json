@@ -1,0 +1,377 @@
+{
+  "parents": [
+    {
+      "prefix": "CHEBI",
+      "identifier": "23924"
+    },
+    {
+      "prefix": "CMO",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "CMO",
+      "identifier": "0000035"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "10652"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "7"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0008150"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0023052"
+    },
+    {
+      "prefix": "NBO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C15273"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C16795"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C20993"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C91105"
+    },
+    {
+      "prefix": "OAE",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000278"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000024"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000112"
+    },
+    {
+      "prefix": "PR",
+      "identifier": "000000001"
+    },
+    {
+      "prefix": "STATO",
+      "identifier": "0000184"
+    },
+    {
+      "prefix": "SYMP",
+      "identifier": "0000480"
+    },
+    {
+      "prefix": "SYMP",
+      "identifier": "0019182"
+    }
+  ],
+  "roots": [],
+  "ancestors": [
+    {
+      "prefix": "BFO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000002"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000003"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000004"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000016"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000017"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000020"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000023"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "BFO",
+      "identifier": "0000040"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "24432"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "35222"
+    },
+    {
+      "prefix": "CHEBI",
+      "identifier": "52206"
+    },
+    {
+      "prefix": "CMO",
+      "identifier": "0000000"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "1289"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "1307"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "150"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "1561"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "331"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "680"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "7"
+    },
+    {
+      "prefix": "DOID",
+      "identifier": "863"
+    },
+    {
+      "prefix": "ERO",
+      "identifier": "0000015"
+    },
+    {
+      "prefix": "GENEPIO",
+      "identifier": "0001420"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0007610"
+    },
+    {
+      "prefix": "GO",
+      "identifier": "0008150"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "IAO",
+      "identifier": "0000109"
+    },
+    {
+      "prefix": "NBO",
+      "identifier": "0000313"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C15206"
+    },
+    {
+      "prefix": "NCIT",
+      "identifier": "C20993"
+    },
+    {
+      "prefix": "OBI",
+      "identifier": "0000011"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000031"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000060"
+    },
+    {
+      "prefix": "OGMS",
+      "identifier": "0000090"
+    },
+    {
+      "prefix": "SYMP",
+      "identifier": "0000462"
+    },
+    {
+      "prefix": "SYMP",
+      "identifier": "0000480"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "ADO",
+      "identifier": "0000001"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "0000024"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "0000025"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "0000032"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "0000042"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "0000048"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "0000049"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "0000050"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "0000051"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "0000052"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "0000054"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "0000055"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "0000056"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "0000058"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "0000063"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "0000067"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "0000068"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "0000069"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "0000070"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "0000071"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "0000072"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "0000073"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "0000076"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "0000079"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "0000082"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "0000088"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "0000089"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "0000090"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "0000091"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "0000092"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "0000093"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "0000094"
+    },
+    {
+      "prefix": "ADO",
+      "identifier": "non-pharmacotherapy_procedure"
+    }
+  ]
+}

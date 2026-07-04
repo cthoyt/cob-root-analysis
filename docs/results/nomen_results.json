@@ -1,0 +1,24 @@
+{
+  "parents": [
+    {
+      "prefix": "IAO",
+      "identifier": "0000028"
+    }
+  ],
+  "roots": [],
+  "ancestors": [],
+  "children": [
+    {
+      "prefix": "NOMEN",
+      "identifier": "0000027"
+    },
+    {
+      "prefix": "NOMEN",
+      "identifier": "0000030"
+    },
+    {
+      "prefix": "NOMEN",
+      "identifier": "0000032"
+    }
+  ]
+}

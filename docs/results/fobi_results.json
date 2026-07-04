@@ -1,0 +1,282 @@
+{
+  "parents": [
+    {
+      "prefix": "FOODON",
+      "identifier": "00001006"
+    },
+    {
+      "prefix": "FOODON",
+      "identifier": "00001257"
+    },
+    {
+      "prefix": "FOODON",
+      "identifier": "00001261"
+    },
+    {
+      "prefix": "FOODON",
+      "identifier": "00001709"
+    },
+    {
+      "prefix": "FOODON",
+      "identifier": "00002123"
+    },
+    {
+      "prefix": "FOODON",
+      "identifier": "00002501"
+    },
+    {
+      "prefix": "FOODON",
+      "identifier": "03301449"
+    },
+    {
+      "prefix": "FOODON",
+      "identifier": "03301619"
+    },
+    {
+      "prefix": "FOODON",
+      "identifier": "03301889"
+    },
+    {
+      "prefix": "FOODON",
+      "identifier": "03301977"
+    },
+    {
+      "prefix": "FOODON",
+      "identifier": "03310547"
+    },
+    {
+      "prefix": "FOODON",
+      "identifier": "03310815"
+    },
+    {
+      "prefix": "FOODON",
+      "identifier": "03311095"
+    },
+    {
+      "prefix": "FOODON",
+      "identifier": "03311146"
+    },
+    {
+      "prefix": "FOODON",
+      "identifier": "03316636"
+    },
+    {
+      "prefix": "FOODON",
+      "identifier": "03317365"
+    },
+    {
+      "prefix": "FOODON",
+      "identifier": "03420108"
+    },
+    {
+      "prefix": "obo",
+      "identifier": "fobi.owl#FOBI_050089"
+    },
+    {
+      "prefix": "obo",
+      "identifier": "fobi.owl#FOBI_050091"
+    }
+  ],
+  "roots": [
+    {
+      "prefix": "FOBI",
+      "identifier": "0001"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "01501"
+    }
+  ],
+  "ancestors": [
+    {
+      "prefix": "FOBI",
+      "identifier": "0001"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "0021"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "0048"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "01501"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "040006"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "040037"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "040086"
+    },
+    {
+      "prefix": "FOODON",
+      "identifier": "00001013"
+    },
+    {
+      "prefix": "FOODON",
+      "identifier": "00001146"
+    },
+    {
+      "prefix": "FOODON",
+      "identifier": "00001256"
+    },
+    {
+      "prefix": "FOODON",
+      "identifier": "00001257"
+    },
+    {
+      "prefix": "FOODON",
+      "identifier": "00001261"
+    },
+    {
+      "prefix": "FOODON",
+      "identifier": "00001709"
+    },
+    {
+      "prefix": "FOODON",
+      "identifier": "00002123"
+    },
+    {
+      "prefix": "FOODON",
+      "identifier": "00002501"
+    },
+    {
+      "prefix": "FOODON",
+      "identifier": "03301977"
+    },
+    {
+      "prefix": "FOODON",
+      "identifier": "03315513"
+    },
+    {
+      "prefix": "FOODON",
+      "identifier": "03411324"
+    }
+  ],
+  "children": [
+    {
+      "prefix": "FOBI",
+      "identifier": "0018"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "0021"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "0024"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "0092"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "0099"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "0101"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "0125"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "0142"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "0145"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "0166"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "0168"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "0185"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "0193"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "040222"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "040223"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "040225"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "040229"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "050213"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "050262"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "07501"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "07502"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "07503"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "07504"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "07505"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "07506"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "07518"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "07522"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "07550"
+    },
+    {
+      "prefix": "FOBI",
+      "identifier": "07581"
+    }
+  ]
+}
